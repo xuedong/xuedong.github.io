@@ -1,10 +1,10 @@
-title: John Smith
+title: Xuedong
 description: My Personal Blog
-author: John Smith
+author: Xuedong Shang
 logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
-disqus_shortname: aboutashu
+github: https://github.com/xuedong
+about: A Newbie's Blog
+disqus_shortname: xuedong
 google_analytics: UA-72862926-1
 urls:
     - text: Home
