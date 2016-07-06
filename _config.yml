@@ -47,8 +47,8 @@ share:
 enableTags: true
 tagarray: []
 
-url: "/"
-baseurl: "/"
+url: "http://xuedong.github.io"
+baseurl: "/xuedong.github.io"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
