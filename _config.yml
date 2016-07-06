@@ -21,7 +21,7 @@ urls:
       url: '#'
       icon: fa-graduation-cap
     - text: Github
-      url: https://github.com/ashutosh2k12
+      url: https://github.com/xuedong
       icon: fa-github
     - text: XML Feed
       url: /feed.xml
@@ -40,15 +40,15 @@ social:
       link: '#'
 
 share:
-  twitter_username: \#
+  twitter_username: \AbsolutSamuel
   fb_appid: 000000000000
 
 
 enableTags: true
 tagarray: []
 
-url: "http://aboutashu.com/hcz-jekyll-blog"
-baseurl: "/hcz-jekyll-blog"
+url: "http://xuedong.github.io"
+baseurl: "/"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
