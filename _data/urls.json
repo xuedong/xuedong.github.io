@@ -11,6 +11,16 @@
     "icon": "fa-comments"
   },
   {
+    "text": "Publications",
+    "url": "/publications/",
+    "icon": "fa-book"
+  },
+  {
+    "text": "Teaching",
+    "url": "/teaching/",
+    "icon": ""
+  },
+  {
     "text": "Projects",
     "url": "/projects/",
     "icon": "fa-desktop"
