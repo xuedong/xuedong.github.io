@@ -6,11 +6,11 @@ permalink: /about/
 
 <h3>Short bio</h3>
 
-<blockquote>
 <p>
+<blockquote>
 I am currently a PhD student at [Inria Lille-Nord Europe](https://www.inria.fr/centre/lille) in team [SequeL](https://team.inria.fr/sequel/) under the supervision of [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/index.html) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/). My research focuses on multi-armed bandits and its applications. Before I received a BSc and a MSc of Computer Science from Ecole normale supérieure de Cachan (Rennes Campus) and a MSc of Mathematics from Université Pierre et Marie Curie (Paris VI).
-</p>
 </blockquote>
+</p>
 
 <hr />
 
