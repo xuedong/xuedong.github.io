@@ -50,14 +50,17 @@ My CV is <a href="/static/documents/cv.pdf">here</a>.
 <h3>Contact</h3>
 
 <blockquote>
-<li>
+<p>Mail</p>
 <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
 <span id="person-email" itemprop="email">
 <pre><code class="language-ocaml">List.map (fun x -> "xuedong.shang@" ^ x ^ ".fr") ["inria"; "ens-rennes"; "univ-lille1"]</code></pre>
 </span>
-</li>
-<li>
+
+<p>Address</p>
 <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
-<span id="person-address" itemprop="address">SequeL<br>DI &ndash; École normale supérieure<br>45 rue d&rsquo;Ulm<br>75230 Paris cedex 05, France</span>
-</li>      
+<span id="person-address" itemprop="address">SequeL<br>Inria Lille &ndash; Nord Europe<br>40 Avenue du Halley<br>59650 Villeneuve-d'Ascq, France</span>
+
+<p>Phone</p>
+<span id="person-number" itemprop="phone">(+33) 6 51 88 xx xx</span>
+
 </blockquote>
