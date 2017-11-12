@@ -1,58 +1,28 @@
-title: Xuedong
+title: John Smith
 description: My Personal Blog
-author: Xuedong Shang
-logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/xuedong
-about: A Newbie's Blog
-disqus_shortname: xuedong
+author: John Smith
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/codeasashu
+about: Freelance developer
+
+baseurl: ""
+url: ""
+
+allowsearch: true
+
+disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
-urls:
-    - text: Home
-      url: /
-      icon: fa-home
-      layout: post
-    - text: About
-      url: /about/
-      icon: fa-comments
-    - text: Projects
-      url: /projects/
-      icon: fa-desktop
-    - text: Resume
-      url: '#'
-      icon: fa-graduation-cap
-    - text: Github
-      url: https://github.com/xuedong
-      icon: fa-github
-    - text: XML Feed
-      url: /feed.xml
-      icon: fa-feed
-      
-social:
-    - icon: fa-facebook
-      link: '#'
-    - icon: fa-skype
-      link: '#'
-    - icon: fa-twitter
-      link: '#'
-    - icon: fa-linkedin
-      link: '#'
-    - icon: fa-stack-exchange
-      link: '#'
 
 share:
-  twitter_username: \AbsolutSamuel
+  twitter_username: \#
   fb_appid: 000000000000
 
 
 enableTags: true
 tagarray: []
 
-url: "http://xuedong.github.io"
-baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+gems: [jekyll-paginate, jekyll-gist]
