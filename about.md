@@ -53,11 +53,11 @@ My CV is <a href="/static/documents/cv.pdf">here</a>.
 <li>
 <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
 <span id="person-email" itemprop="email">
-<pre><code class="language-ocaml">List.map (fun x -> "lelio.brun@" ^ x ^ ".fr") ["ens"; "inria"]</code></pre>
+<pre><code class="language-ocaml">List.map (fun x -> "xuedong.shang@" ^ x ^ ".fr") ["inria"; "ens-rennes"; "univ-lille1"]</code></pre>
 </span>
 </li>
 <li>
 <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
-<span id="person-address" itemprop="address">PARKAS<br>DI &ndash; École normale supérieure<br>45 rue d&rsquo;Ulm<br>75230 Paris cedex 05, France</span>
+<span id="person-address" itemprop="address">SequeL<br>DI &ndash; École normale supérieure<br>45 rue d&rsquo;Ulm<br>75230 Paris cedex 05, France</span>
 </li>      
 </blockquote>
