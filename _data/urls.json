@@ -12,12 +12,12 @@
   },
   {
     "text": "Projects",
-    "url": "/projects",
+    "url": "/projects/",
     "icon": "fa-desktop"
   },
   {
     "text": "Resume",
-    "url": "/#",
+    "url": "/resume/",
     "icon": "fa-graduation-cap",
   },
   {
