@@ -61,6 +61,7 @@ My CV is <a href="/static/documents/cv.pdf">here</a>.
 <span id="person-address" itemprop="address">SequeL<br>Inria Lille &ndash; Nord Europe<br>40 Avenue du Halley<br>59650 Villeneuve-d'Ascq, France</span>
 
 <p>Phone</p>
+<i class="fa-li fa fa-phone fa-2x" aria-hidden="true"></i>
 <span id="person-number" itemprop="phone">(+33) 6 51 88 xx xx</span>
 
 </blockquote>
