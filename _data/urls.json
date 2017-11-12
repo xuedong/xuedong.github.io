@@ -26,6 +26,11 @@
     "icon": "fa-desktop"
   },
   {
+    "text": "Misc",
+    "url": "/misc/",
+    "icon": "fa-eye"
+  }
+  {
     "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
