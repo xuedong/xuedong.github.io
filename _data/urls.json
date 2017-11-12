@@ -11,8 +11,8 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Publications",
-    "url": "/publications/",
+    "text": "Work",
+    "url": "/work/",
     "icon": "fa-book"
   },
   {
@@ -24,11 +24,6 @@
     "text": "Projects",
     "url": "/projects/",
     "icon": "fa-desktop"
-  },
-  {
-    "text": "Github",
-    "url": "https://github.com/xuedong",
-    "icon": "fa-github"
   },
   {
     "text": "XML Feed",

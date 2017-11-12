@@ -14,5 +14,9 @@
   {
     "icon": "fa-stack-exchange",
     "link": "https://stackexchange.com/users/7193624/xuedong-shang"
+  },
+  {
+    "icon": "fa-github",
+    "link": "https://github.com/xuedong"
   }
 ]

@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<h3>Short bio</h3>
+<h3>Short Bio</h3>
 
 <blockquote>
 <p>
-I am currently a PhD student at [Inria Lille-Nord Europe](https://www.inria.fr/centre/lille) in team <a href="https://team.inria.fr/sequel/">SequeL</a> under the supervision of [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/index.html) and [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/). My research focuses on multi-armed bandits and its applications. Before I received a BSc and a MSc of Computer Science from Ecole normale supérieure de Cachan (Rennes Campus) and a MSc of Mathematics from Université Pierre et Marie Curie (Paris VI).
+I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inria Lille-Nord Europe</a> in team <a href="https://team.inria.fr/sequel/">SequeL</a> under the supervision of <a href="http://chercheurs.lille.inria.fr/ekaufman/index.html">Emilie Kaufmann</a> and <a href="http://researchers.lille.inria.fr/~valko/hp/>Michal Valko</a>. My research focuses on multi-armed bandits and its applications. Before I received a BSc and a MSc of Computer Science from Ecole normale supérieure de Cachan (Rennes Campus) and a MSc of Mathematics from Université Pierre et Marie Curie (Paris VI).
 </p>
 </blockquote>
 
@@ -18,7 +18,7 @@ I am currently a PhD student at [Inria Lille-Nord Europe](https://www.inria.fr/c
 
 <blockquote>
 <p>
-My CV is [here](/static/documents/cv.pdf).
+My CV is <a href="/static/documents/cv.pdf">here</a>.
 </p>
 </blockquote>
 
@@ -29,22 +29,18 @@ My CV is [here](/static/documents/cv.pdf).
 <blockquote>
 <p>
 <p>My main research interest lies in:</p>
-<blockquote>
 <ul>
 	<li>bandit theory</li>
 	<li>reinforcement learning</li>
 	<li>optimization</li>
 	<li>recommender system</li>
 </ul>
-</blockquote>
 <p>I'm also interested in:</p>
-<blockquote>
 <ul>
 	<li>deep learning</li>
 	<li>natural language processing</li>
 	<li>time series</li>
 	<li>optimal transport</li>
 </ul>
-</blockquote>
 </p>
 </blockquote>
