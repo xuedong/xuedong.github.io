@@ -53,17 +53,17 @@ My CV is <a href="/static/documents/cv.pdf">here</a>.
 
 <ul class="fa-ul" itemscope>
 	<li>
-	<i class="fa-li fa fa-envelope fa-2x"></i>
+	<i class="fa-li fa fa-envelope"></i>
 	<span><pre><code class="language-ocaml">List.map (fun x -> "xuedong.shang@" ^ x ^ ".fr") ["inria"; "ens-rennes"; "univ-lille1"]</code></pre></span>
 	</li>
 
 	<li>
-	<i class="fa-li fa fa-map-marker fa-2x"></i>
+	<i class="fa-li fa fa-map-marker"></i>
 	<span>SequeL<br>Inria Lille &ndash; Nord Europe<br>40 Avenue du Halley<br>59650 Villeneuve-d'Ascq, France</span>
 	</li>
 
 	<li>
-	<i class="fa-li fa fa-phone fa-2x"></i>
+	<i class="fa-li fa fa-phone"></i>
 	<span>(+33) 6 51 88 xx xx</span>
 	</li>
 </ul>
