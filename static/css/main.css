@@ -220,3 +220,12 @@ footer {
     position: absolute;
     right: 12px;
 }
+
+/** Customized **/
+.fa-li {
+  position: absolute;
+  left: -3.14285714rem; /* Negative of `#contact.home-section .fa-ul` margin. */
+  width: 2rem; /* Match `fa-2x` icon size. */
+  top: 0.14285714em; /* Default FA value. */
+  text-align: center;
+}
