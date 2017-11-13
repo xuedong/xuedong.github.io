@@ -248,14 +248,14 @@
         
         
             
-                <a href="/category/others" class="btn btn-sm btn-default btn-raised">others</a>
+                <button class="btn btn-sm btn-primary btn-raised">jekyll</button>
             
         
     
         
         
             
-                <button class="btn btn-sm btn-primary btn-raised">jekyll</button>
+                <a href="/category/others" class="btn btn-sm btn-default btn-raised">others</a>
             
         
     

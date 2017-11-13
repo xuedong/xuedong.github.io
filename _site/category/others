@@ -248,14 +248,14 @@
         
         
             
-                <button class="btn btn-sm btn-primary btn-raised">others</button>
+                <a href="/category/jekyll" class="btn btn-sm btn-default btn-raised">jekyll</a>
             
         
     
         
         
             
-                <a href="/category/jekyll" class="btn btn-sm btn-default btn-raised">jekyll</a>
+                <button class="btn btn-sm btn-primary btn-raised">others</button>
             
         
     
@@ -271,36 +271,13 @@
             <div class="row-content">
             
             
-                <div class="least-content">2016</div>
+                <div class="least-content">2017</div>
             
             
             
-            <div class="least-content">04 Jun 2016</div>
-            <h4 class="list-group-item-heading"><a href="/others/2016/06/04/example-content.html">Example content for posts</a></h4>
-            <p class="list-group-item-text">This demo page has been used from http://jasonm23.github.io/markdown-css-themes/. A First Level Header A Second Level Header A Third Level Header...</p>
-            
-            </div>
-        </div>
-        <div class="list-group-separator"></div>
-        
-        <div class="list-group-item">
-            <div class="row-action-primary">
-              <i class="fa fa-sticky-note"></i>
-            </div>
-            <div class="row-content">
-            
-            
-            
-            
-                
-                
-                
-                <div class="least-content">2015</div>
-                
-            
-            <div class="least-content">04 Jun 2015</div>
-            <h4 class="list-group-item-heading"><a href="/others/2015/06/04/test-page.html">Test Page</a></h4>
-            <p class="list-group-item-text">This is a test blog page where we can explore how to embedd images in the blog. Image example 1...</p>
+            <div class="least-content">13 Nov 2017</div>
+            <h4 class="list-group-item-heading"><a href="/others/2017/11/13/test-page.html">Test Page</a></h4>
+            <p class="list-group-item-text">This is a test blog page where we can explore how to embed images in the blog. Image example 1...</p>
             
             </div>
         </div>
