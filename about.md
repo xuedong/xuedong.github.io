@@ -51,15 +51,21 @@ My CV is <a href="/static/documents/cv.pdf">here</a>.
 
 <blockquote>
 
-<li>
-<i class="fa-li fa fa-envelope fa-2x"></i>
-<span><pre><code class="language-ocaml">List.map (fun x -> "xuedong.shang@" ^ x ^ ".fr") ["inria"; "ens-rennes"; "univ-lille1"]</code></pre></span>
-</li>
+<ul class="fa-ul" itemscope>
+	<li>
+	<i class="fa-li fa fa-envelope fa-2x"></i>
+	<span><pre><code class="language-ocaml">List.map (fun x -> "xuedong.shang@" ^ x ^ ".fr") ["inria"; "ens-rennes"; "univ-lille1"]</code></pre></span>
+	</li>
 
-<i class="fa fa-map-marker fa-2x"></i>
-<span>SequeL<br>Inria Lille &ndash; Nord Europe<br>40 Avenue du Halley<br>59650 Villeneuve-d'Ascq, France</span>
+	<li>
+	<i class="fa-li fa fa-map-marker fa-2x"></i>
+	<span>SequeL<br>Inria Lille &ndash; Nord Europe<br>40 Avenue du Halley<br>59650 Villeneuve-d'Ascq, France</span>
+	</li>
 
-<i class="fa fa-phone fa-2x"></i>
-<span>(+33) 6 51 88 xx xx</span>
+	<li>
+	<i class="fa-li fa fa-phone fa-2x"></i>
+	<span>(+33) 6 51 88 xx xx</span>
+	</li>
+</ul>
 
 </blockquote>
