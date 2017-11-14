@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Time Series Clustering",
-		"image": "placeholder.jpg",
+		"image": "time_series.pdf",
 		"url": "#",
 		"date": "April 2016",
 		"tags": ["time series","clustering","dtw"]
