@@ -5,8 +5,8 @@
     <description>My Personal Blog</description>
     <link>/</link>
     <atom:link href="/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Nov 2017 18:13:02 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Nov 2017 18:13:02 +0100</lastBuildDate>
+    <pubDate>Sat, 18 Nov 2017 14:22:17 +0100</pubDate>
+    <lastBuildDate>Sat, 18 Nov 2017 14:22:17 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,11 +15,7 @@
 
 &lt;h2 id=&quot;image-example-1&quot;&gt;Image example 1&lt;/h2&gt;
 
-&lt;p&gt;Here, I embedded an image from local assets which goes into &lt;code&gt;assets&lt;/code&gt; directory in project’s &lt;code&gt;root&lt;/code&gt; directory. Choose a specific image, related to particular post.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;markdown
-![my alternate text](/assets/test-page-image-1.jpg);
-&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Here, I embedded an image from local assets which goes into &lt;code&gt;assets&lt;/code&gt; directory in project’s &lt;code&gt;root&lt;/code&gt; directory. Choose a specific image, related to particular post. Here is the city I’ve been grown up.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/shanghai.jpg&quot; alt=&quot;my alternate text&quot; /&gt;&lt;/p&gt;
 </description>
