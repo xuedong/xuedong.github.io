@@ -31,7 +31,7 @@ permalink: /work/
 
 <hr />
 
-<div><B>Academic Reports</B></div>
+<div><B>Thesis and Reports</B></div>
 
 <div>
 <p>Internship: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/bandits.pdf">Hierarchical Bandits for Black Box Optimization and Monte-Carlo Tree Search</a>, under the supervison of Emilie Kaufmann & Michal Valko
@@ -51,3 +51,13 @@ permalink: /work/
 <div>
 <p>Internship: 06/2015-07/2015, Team Magnet, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/recommender.pdf">Recommender System</a> (in French), under the supervision of Marc Tommasi</p>
 </div>
+
+<hr />
+
+<div><B>Other Experiences</B></div>
+
+<hr />
+
+<div><B>Services</B></div>
+
+<p>NIPS 2017 - External Reviewer</p>
