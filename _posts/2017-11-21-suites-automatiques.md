@@ -2,7 +2,7 @@
 layout: post
 title: Suites Automatiques
 date:   2017-11-21 15:38:39
-categories: formal language
+categories: formal_language
 ---
 
 <html xml:lang="fr" >
