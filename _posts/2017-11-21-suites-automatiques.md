@@ -277,14 +277,12 @@ href="suites_automatiques2.html#fn1x0"><sup class="textsuperscript">1</sup></a><
  id="x1-30031"></a>
 
 
-<div class="center"
->
+<div class="center">
 <!--l. 128--><p class="noindent" >
 <!--l. 130--><p class="center" ><img
 src="suites_automatiques3x.png" alt="PICT" >
 </div>
-<br /> <div class="caption"
-><span class="id"><span
+<br /> <div class="caption"><span class="id"><span
 class="eccc1200-"><span
 class="small-caps">f</span><span
 class="small-caps">i</span><span
@@ -308,13 +306,13 @@ class="cmr-12">0</span><span
 class="cmmi-12">, </span><span
 class="cmr-12">1</span><span
 class="cmsy-10x-x-120">}</span><sup><span
-class="cmsy-8">*</span></sup> <span
+class="cmsy-8"></span></sup> <span
 class="cmsy-10x-x-120">&#x2192;{</span><span
 class="cmr-12">0</span><span
 class="cmmi-12">, </span><span
 class="cmr-12">1</span><span
 class="cmsy-10x-x-120">}</span><sup><span
-class="cmsy-8">*</span></sup> donné par :
+class="cmsy-8"></span></sup> donné par :
    <center class="math-display" >
 <img
 src="suites_automatiques4x.png" alt="&#x03C3;(0) = 01
@@ -369,14 +367,12 @@ class="cmmi-12">&#x2026;</span>
  id="x1-40022"></a>
 
 
-<div class="center"
->
+<div class="center">
 <!--l. 172--><p class="noindent" >
 <!--l. 174--><p class="center" ><img
 src="suites_automatiques6x.png" alt="PICT" >
 </div>
-<br /> <div class="caption"
-><span class="id"><span
+<br /> <div class="caption"><span class="id"><span
 class="eccc1200-"><span
 class="small-caps">f</span><span
 class="small-caps">i</span><span
@@ -695,7 +691,7 @@ class="ecti-1200">Soient </span><span
 class="cmmi-12">q </span><span
 class="cmsy-10x-x-120">&#x2208;</span> <span
 class="msbm-10x-x-120">&#x2115;</span><sup><span
-class="cmsy-8">*</span></sup> <span
+class="cmsy-8"></span></sup> <span
 class="ecti-1200">et </span><span
 class="cmr-12">(</span><span
 class="cmmi-12">u</span><sub>
@@ -982,12 +978,12 @@ class="cmmi-12">&#x03C3; </span><span
 class="cmr-12">: (&#x03A3;</span><sup><span
 class="cmmi-8">d</span></sup><span
 class="cmr-12">)</span><sup><span
-class="cmsy-8">*</span></sup> <span
+class="cmsy-8"></span></sup> <span
 class="cmsy-10x-x-120">&#x2192; </span><span
 class="cmr-12">(&#x03A3;</span><sup><span
 class="cmmi-8">d</span></sup><span
 class="cmr-12">)</span><sup><span
-class="cmsy-8">*</span></sup> défini par :
+class="cmsy-8"></span></sup> défini par :
    <center class="math-display" >
 <img
 src="suites_automatiques20x.png" alt="        d
