@@ -173,7 +173,7 @@ class="cmmi-8">n</span></sub> est <span
 class="ecti-1200">k</span>-automatique s&#8217;il existe un
 automate <span
 class="cmsy-10x-x-120"><img
-src="cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
+src="assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
 class="cmsy-10x-x-120">{</span><span
 class="cmmi-12">Q, </span><span
 class="cmr-12">&#x03A3;</span><span
@@ -195,7 +195,7 @@ class="ecti-1200">k </span>de n <span
 class="ecbx-1200">à partir du chiffre de poids faible</span>. Si on lit dans
 l&#8217;automate <span
 class="cmsy-10x-x-120"><img
-src="cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>la suite constituée des chiffres de <span
+src="assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>la suite constituée des chiffres de <span
 class="cmmi-12">n </span>en base <span
 class="cmmi-12">k </span>à partir du chiffre de poids faible, on
 tombe sur un état dont la valeur de sortie est <span
@@ -267,7 +267,7 @@ class="cmmi-8">n</span></sub> correspond à la somme des chiffres dans l&#8217;�
 2 de <span
 class="cmmi-12">n </span>modulo 2. La suite de Thue-Morse est ainsi 2-automatique ; elle est engendrée par l&#8217;automate
 suivant <span class="footnote-mark"><a
-href="suites_automatiques2.html#fn1x0"><sup class="textsuperscript">1</sup></a></span><a
+href="assets/suites_automatiques/suites_automatiques2.html#fn1x0"><sup class="textsuperscript">1</sup></a></span><a
  id="x1-3002f1"></a>  :
 <!--l. 127--><p class="indent" >   <hr class="figure"><div class="figure"
 >
@@ -296,7 +296,7 @@ class="content">L&#8217;automate de Thue-Morse.</span></div><!--tex4ht:label?: x
 <!--l. 142--><p class="indent" >   </div><hr class="endfigure">
 <!--l. 144--><p class="indent" >   Donnons une autre manière pour définir la suite de Thue-Morse. On considère le morphisme
 2-uniforme <span class="footnote-mark"><a
-href="suites_automatiques3.html#fn2x0"><sup class="textsuperscript">2</sup></a></span><a
+href="assets/suites_automatiques/suites_automatiques3.html#fn2x0"><sup class="textsuperscript">2</sup></a></span><a
  id="x1-3004f2"></a>
 <span
 class="cmmi-12">&#x03C3; </span><span
@@ -764,7 +764,7 @@ class="cmmi-12">ii</span><span
 class="cmr-12">)</span>. On dispose d&#8217;un <span
 class="cmmi-12">k</span>-automate <span
 class="cmsy-10x-x-120"><img
-src="cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
+src="assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
 class="cmsy-10x-x-120">{</span><span
 class="cmmi-12">Q, </span><span
 class="cmr-12">&#x03A3;</span><span
@@ -1029,7 +1029,7 @@ class="cmsy-8">&#x221E;</span></sup><span
 class="cmr-12">(</span><span
 class="cmmi-12">v</span><span
 class="cmr-12">)</span><span class="footnote-mark"><a
-href="suites_automatiques4.html#fn3x0"><sup class="textsuperscript">3</sup></a></span><a
+href="/assets/suites_automatiques/suites_automatiques4.html#fn3x0"><sup class="textsuperscript">3</sup></a></span><a
  id="x1-7010f3"></a> ,
 c&#8217;est-à-dire le point fixe de <span
 class="cmmi-12">&#x03C3; </span>où <span
@@ -1050,7 +1050,7 @@ class="cmmi-8">n</span></sub><span
 class="cmr-12">)</span>.
 <!--l. 318--><p class="indent" >   Consiérons maintenant l&#8217;automate <span
 class="cmsy-10x-x-120"><img
-src="cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
+src="assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
 class="cmsy-10x-x-120">{</span><span
 class="cmr-12">&#x03A3;</span><sup><span
 class="cmsy-8">&#x2032;</span></sup><span
@@ -1119,7 +1119,7 @@ class="cmr-12">)</span><sub><span
 class="cmmi-8">n</span></sub> est bien engendrée par le <span
 class="cmmi-12">q</span>-automate <span
 class="cmsy-10x-x-120"><img
-src="cmsy10-c-41.png" alt="A" class="10-120x-x-41" /></span>.                                             __
+src="assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /></span>.                                             __
    </div>
 <!--l. 338--><p class="noindent" >
    <h3 class="sectionHead"><span class="titlemark">3   </span> <a
@@ -1140,7 +1140,7 @@ class="cmmi-8">q</span></sub><span
 class="cmr-12">(</span><span
 class="cmmi-12">X</span><span
 class="cmr-12">)</span>. <span class="footnote-mark"><a
-href="suites_automatiques5.html#fn4x0"><sup class="textsuperscript">4</sup></a></span><a
+href="assets/suites_automatiques/suites_automatiques5.html#fn4x0"><sup class="textsuperscript">4</sup></a></span><a
  id="x1-8001f4"></a>
 Plus précisément, le théorème donne une équivalence entre l&#8217;algébricité d&#8217;une série formelle à
 coefficients dans un corps fini et la nature automatique de la suite des coefficients. On va, dans un
@@ -1177,7 +1177,7 @@ class="ecti-1200">Exemple </span>12<span
 class="ecti-1200">.</span>  </span>On se place dans <span
 class="msbm-10x-x-120">F</span><sub><span
 class="cmr-8">2</span></sub> <span class="footnote-mark"><a
-href="suites_automatiques6.html#fn5x0"><sup class="textsuperscript">5</sup></a></span><a
+href="assets/suites_automatiques/suites_automatiques6.html#fn5x0"><sup class="textsuperscript">5</sup></a></span><a
  id="x1-9002f5"></a> .
 En utilisant la définition de la suite de Thue-Morse <span
 class="cmmi-12">t</span>, il vient :
@@ -1418,7 +1418,7 @@ class="ecbx-1200">Th</span><span
 class="ecbx-1200">éor</span><span
 class="ecbx-1200">ème 17 </span>(Christol, 1979)<span
 class="ecbx-1200">.</span>  </span><span class="footnote-mark"><a
-href="suites_automatiques7.html#fn6x0"><sup class="textsuperscript">6</sup></a></span><a
+href="assets/suites_automatiques/suites_automatiques7.html#fn6x0"><sup class="textsuperscript">6</sup></a></span><a
  id="x1-10002f6"></a>
 <span
 class="ecti-1200">Soit </span><span
@@ -1674,7 +1674,7 @@ class="cmmi-8">k</span></sub><span
 class="cmr-12">)</span><span
 class="cmsy-10x-x-120">} </span>et <span
 class="cmsy-10x-x-120"><img
-src="cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>l&#8217;ensemble défini par :
+src="assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>l&#8217;ensemble défini par :
    <center class="math-display" >
 <img
 src="suites_automatiques44x.png" alt="                        &#x2211;          i
@@ -1683,7 +1683,7 @@ H  =  {H  &#x2208; Fq[[X ]]|H  =    ki=0 DiGqu etDi &#x2208;  Fq[X ],deg (Di ) &
 <!--l. 437--><p class="nopar" >
 <span
 class="cmsy-10x-x-120"><img
-src="cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>est un ensemble fini contenant <span
+src="assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>est un ensemble fini contenant <span
 class="cmmi-12">F</span><sub><span
 class="cmmi-8">u</span></sub>. Pour montrer que <span
 class="cmmi-12">K</span><sub><span
@@ -1692,12 +1692,12 @@ class="cmsy-10x-x-120">&#x2200;</span><span
 class="cmmi-12">r &#x003C; q</span>,
 <span
 class="cmsy-10x-x-120"><img
-src="cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>est stable par <span
+src="assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>est stable par <span
 class="cmr-12">&#x039B;</span><sub><span
 class="cmmi-8">r</span></sub>. Soit alors <span
 class="cmmi-12">H </span>un élément de <span
 class="cmsy-10x-x-120"><img
-src="cmsy10-c-48.png" alt="H" class="10-120x-x-48" /></span>, on a :
+src="assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /></span>, on a :
 
 
    <center class="math-display" >
@@ -1743,7 +1743,7 @@ class="cmr-12">) </span><span
 class="cmsy-10x-x-120">&#x2208;</span>
 <span
 class="cmsy-10x-x-120"><img
-src="cmsy10-c-48.png" alt="H" class="10-120x-x-48" /></span>.                                                                                                                  __
+src="assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /></span>.                                                                                                                  __
    </div>
 <!--l. 446--><p class="noindent" >
    <h3 class="sectionHead"><span class="titlemark">4   </span> <a
@@ -1766,7 +1766,7 @@ class="ecti-1200">et </span><span
 class="cmmi-12">l </span><span
 class="ecti-1200">deux entiers multiplicativement ind</span><span
 class="ecti-1200">épendants</span><span class="footnote-mark"><a
-href="suites_automatiques8.html#fn7x0"><sup class="textsuperscript">7</sup></a></span><a
+href="assets/suites_automatiques/suites_automatiques8.html#fn7x0"><sup class="textsuperscript">7</sup></a></span><a
  id="x1-11002f7"></a>
 <span
 class="ecti-1200">et soit </span><span
@@ -1825,7 +1825,7 @@ class="ecti-1200">émonstration.</span> </span>En vertu du théorème précéden
    </div>
 <!--l. 465--><p class="indent" >   En particulier, les suites de Thue-Morse et de Rudin-Shapiro ne sont pas
 3-automatiques. <span class="footnote-mark"><a
-href="suites_automatiques9.html#fn8x0"><sup class="textsuperscript">8</sup></a></span><a
+href="assets/suites_automatiques/suites_automatiques9.html#fn8x0"><sup class="textsuperscript">8</sup></a></span><a
  id="x1-11004f8"></a>
 Il est donc intéressant de comparer ce corollaire à la conjecture suivante.
    <div class="newtheorem">
@@ -1919,7 +1919,7 @@ class="cmr-12">(</span><span
 class="cmmi-12">X</span><span
 class="cmr-12">)</span><span
 class="ecti-1200">, alors le produit d&#8217;Hadamard</span><span class="footnote-mark"><a
-href="suites_automatiques10.html#fn9x0"><sup class="textsuperscript">9</sup></a></span><a
+href="assets/suites_automatiques/suites_automatiques10.html#fn9x0"><sup class="textsuperscript">9</sup></a></span><a
  id="x1-11007f9"></a>
 <span
 class="ecti-1200">de </span><span
