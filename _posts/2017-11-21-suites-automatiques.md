@@ -50,11 +50,8 @@ href="#x1-100003.2" id="QQ2-1-12">Théorème de Christol</a></span>
 <br />   <span class="sectionToc" >4 <a
 href="#x1-110004" id="QQ2-1-13">Divers</a></span>
    </div>
-   <div
-class="abstract"
->
-<div class="center"
->
+   <div class="abstract">
+   <div class="center">
 <!--l. 74--><p class="noindent" >
 <!--l. 74--><p class="noindent" ><span
 class="ecbx-1095">R</span><span
