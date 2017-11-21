@@ -1,0 +1,1076 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2018/dev/Debian) (preloaded format=latex 2017.11.10)  21 NOV 2017 16:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode .a.b.c.\input  suites_autom
+atiques.tex
+(./suites_automatiques.tex
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2016-07-18-16:08
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/10/04 3.14 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2017/10/04 3.14 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-french/francais.ldf
+Language: francais 2017/10/19 v3.3d French support from the babel system
+
+
+Package francais.ldf Warning: Option `francais' for Babel is *deprecated*,
+(francais.ldf)                it might be removed sooner or later. Please
+(francais.ldf)                use `french' instead; reported on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2017/10/19 v3.3d French support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/10/04 3.14 Babel common definitions
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2017/10/04 3.14 Babel switching mechanism
+)
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\FB@nonchar=\count88
+\FBcolonsp=\toks17
+\FBthinsp=\toks18
+Package babel Info: Making : an active character on input line 322.
+Package babel Info: Making ; an active character on input line 323.
+Package babel Info: Making ! an active character on input line 324.
+Package babel Info: Making ? an active character on input line 325.
+\FBguillsp=\toks19
+\FBguill@level=\count89
+\FB@everypar=\toks20
+\FB@Mht=\dimen104
+\mc@charclass=\count90
+\mc@charfam=\count91
+\mc@charslot=\count92
+\std@mcc=\count93
+\dec@mcc=\count94
+\c@FBcaption@count=\count95
+\listindentFB=\skip43
+\descindentFB=\skip44
+\labelwidthFB=\skip45
+\leftmarginFB=\skip46
+\parindentFFN=\dimen105
+\FBfnindent=\skip47
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen106
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks30
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks31
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks32
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auto-pst-pdf/auto-pst-pdf.sty
+Package: auto-pst-pdf 2009/04/26 v0.6 Wrapper for pst-pdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks34
+\XKV@tempa@toks=\toks35
+)
+\XKV@depth=\count108
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/catchfile.sty
+Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+
+Package ifplatform Warning: 
+    shell escape is disabled, so I can only detect \ifwindows.
+
+)
+\c@app@runs=\count109
+ (/usr/share/texlive/texmf-dist/tex/latex/pst-pdf/pst-pdf.sty
+Package: pst-pdf 2017/06/22 v1.2d PS graphics for pdfLaTeX (RN,HjG)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\c@pspicture=\count110
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+Package pst-pdf Info: MODE: 9 (inactive mode) on input line 459.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/gastex/gastex.sty
+Package: gastex 2006/11/28 v2.8
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count111
+\calc@Bcount=\count112
+\calc@Adimen=\dimen117
+\calc@Bdimen=\dimen118
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count113
+\calc@Cskip=\skip57
+)
+\c@cnt@a=\count114
+\c@cnt@b=\count115
+\c@cnt@c=\count116
+\dim@x=\dimen119
+\dim@y=\dimen120
+\temp@box=\box28
+\d@my@unit=\dimen121
+\c@cnt@@a=\count117
+\c@cnt@@b=\count118
+\c@cnt@@c=\count119
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2017/09/17 v0.65 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count120
+\pstFP@xia=\count121
+\pstFP@xib=\count122
+\pstFP@xfa=\count123
+\pstFP@xfb=\count124
+\pstFP@rega=\count125
+\pstFP@regb=\count126
+\pstFP@regs=\count127
+\pstFP@times=\count128
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks36
+\pgfutil@tempdima=\dimen122
+\pgfutil@tempdimb=\dimen123
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks37
+\pgfkeys@temptoks=\toks38
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks39
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen124
+\pgf@xa=\dimen125
+\pgf@xb=\dimen126
+\pgf@xc=\dimen127
+\pgf@y=\dimen128
+\pgf@ya=\dimen129
+\pgf@yb=\dimen130
+\pgf@yc=\dimen131
+\c@pgf@counta=\count129
+\c@pgf@countb=\count130
+\c@pgf@countc=\count131
+\c@pgf@countd=\count132
+\pgfutil@tempcnta=\count133
+\pgfutil@tempcntb=\count134
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen132
+\pgfmath@count=\count135
+\pgfmath@box=\box29
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count136
+))
+\pgffor@iter=\dimen133
+\pgffor@skip=\dimen134
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+)
+\psLoopIndex=\count137
+
+`PSTricks' v2.77  <2017/10/04> (tvz)
+\pst@dima=\dimen135
+\pst@dimb=\dimen136
+\pst@dimc=\dimen137
+\pst@dimd=\dimen138
+\pst@dimg=\dimen139
+\pst@dimh=\dimen140
+\pst@dimm=\dimen141
+\pst@dimn=\dimen142
+\pst@dimo=\dimen143
+\pst@dimp=\dimen144
+\pst@hbox=\box30
+\pst@ibox=\box31
+\pst@boxg=\box32
+\pst@cnta=\count138
+\pst@cntb=\count139
+\pst@cntc=\count140
+\pst@cntd=\count141
+\pst@cntg=\count142
+\pst@cnth=\count143
+\pst@cntm=\count144
+\pst@cntn=\count145
+\pst@cnto=\count146
+\pst@cntp=\count147
+\@zero=\count148
+\pst@toks=\toks45
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen145
+\psxunit=\dimen146
+\psyunit=\dimen147
+\pst@C@@rType=\count149
+\pslinewidth=\dimen148
+\psk@startLW=\dimen149
+\psk@endLW=\dimen150
+\pst@customdefs=\toks46
+\pslinearc=\dimen151
+\pst@symbolStep=\dimen152
+\pst@symbolWidth=\dimen153
+\pst@symbolLinewidth=\dimen154
+\everypsbox=\toks47
+\psframesep=\dimen155
+\pslabelsep=\dimen156
+\sh@wgridXunit=\dimen157
+\sh@wgridYunit=\dimen158
+\pst@shift=\dimen159
+)
+File: pstricks.tex 2017/10/04 v2.77 `PSTricks' (tvz,hv)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2017/10/04 v2.77 `PST-fp' (hv)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pst-node/pst-node.sty
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pst-node/pst-node.tex
+ v1.39, 2017/01/20
+\psrow=\count150
+\pscol=\count151
+\psmatrixcnt=\count152
+\psrowsep=\skip58
+\pscolsep=\skip59
+\pst@args=\count153
+\num@pts=\count154
+\pst@argcnt=\count155
+)
+File: pst-node.tex 2017/01/20 1.39 `pst-node' (tvz,hv)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pst-tree/pst-tree.sty
+Package: pst-tree 2009/01/25 package wrapper for pst-tree.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pst-tree/pst-tree.tex
+ v1.13, 2017/02/18(tvz,dg,hv)
+\pstree@rootbox=\box33
+\pstree@box=\box34
+\psnodecnt=\count156
+\pstreelevel=\count157
+\pstreecnt=\count158
+\pstree@cnt=\count159
+\pstree@stop=\count160
+)
+File: pst-tree.tex 2017/02/18 1.13 `pst-tree' (tvz,hv)
+)
+\c@theoreme=\count161
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2017-05-09-09:21
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2016-07-18-16:08
+
+--- needs --- tex4ht suites_automatiques ---
+\tmp:cnt=\count162
+\openout15 = `suites_automatiques.tmp'.
+
+(./suites_automatiques.tmp)
+\tmp:dim=\skip60
+--------------------------------------
+--- Note --- for XML code, use the command line option `xml' or `xhtml'
+--------------------------------------
+ (./suites_automatiques.xref)
+\:refout=\write3
+\openout3 = `suites_automatiques.xref'.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+--------------------------------------
+--- Note --- for alternative charset, use the command line option `charset=...'
+
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: html
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+\:tokwrite=\toks48
+\:tokpage=\toks49
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `suites_automatiques.4ct'.
+
+\:tocout=\write4
+\openout4 = `suites_automatiques.4tc'.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2017-01-24-15:21
+LaTeX Info: Redefining \_ on input line 168.
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/article.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/inputenc.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/latin1.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/babel.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/francais.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amssymb.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsfonts.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsthm.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsmath.4ht
+version 2009-05-21-09:32
+\tmp:muskip=\muskip11
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amstext.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsbsy.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsopn.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2017-10-21-16:16
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphics.4ht
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pstricks.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/xcolor.4ht
+version 2017-04-28-08:47
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
+(./suites_automatiques.aux)
+\openout1 = `suites_automatiques.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Info: Redefining \degres on input line 67.
+
+
+Package french.ldf Warning: Figures' and tables' captions might look like
+(french.ldf)                `Figure 1:' in French instead of `Figure 1 :'.
+(french.ldf)                If it happens, see your class documentation to
+(french.ldf)                fix this issue or add AFTER babel/french
+(french.ldf)                \usepackage[labelsep=period]{caption} or
+(french.ldf)                \usepackage[labelsep=endash]{caption} or
+(french.ldf)                or ... live with it; reported on input line 67.
+
+LaTeX Info: Redefining \dots on input line 67.
+LaTeX Info: Redefining \up on input line 67.
+--- file suites_automatiques.css ---
+[1
+
+] [2]
+LaTeX Font Info:    Try loading font information for U+msa on input line 70.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 70.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 72.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+(./suites_automatiques.4ct) [3]
+l. 94 Writing suites_automatiques.idv[1] (suites_automatiques0x.png)
+ [4]
+l. 102 Writing suites_automatiques.idv[2] (suites_automatiques1x.png)
+l. 115 Writing suites_automatiques.idv[3] (suites_automatiques2x.png)
+ [5]
+--- file suites_automatiques2.html ---
+ [6
+
+] [7
+
+]
+l. 130 Writing suites_automatiques.idv[4] (suites_automatiques3x.png)
+ [8
+
+]
+--- file suites_automatiques3.html ---
+l. 145 Writing suites_automatiques.idv[5] (suites_automatiques4x.png)
+l. 158 Writing suites_automatiques.idv[6] (suites_automatiques5x.png)
+ [9
+
+
+] [10
+
+]
+l. 174 Writing suites_automatiques.idv[7] (suites_automatiques6x.png)
+ [11
+
+]
+l. 195 Writing suites_automatiques.idv[8] (suites_automatiques7x.png)
+l. 204 Writing suites_automatiques.idv[9] (suites_automatiques8x.png)
+l. 210 Writing suites_automatiques.idv[10] (suites_automatiques9x.png)
+ [12
+
+]
+l. 226 Writing suites_automatiques.idv[11] (suites_automatiques10x.png)
+l. 234 Writing suites_automatiques.idv[12] (suites_automatiques11x.png)
+ [13]
+l. 242 Writing suites_automatiques.idv[13] (suites_automatiques12x.png)
+l. 251 Writing suites_automatiques.idv[14] (suites_automatiques13x.png)
+l. 252 Writing suites_automatiques.idv[15] (suites_automatiques14x.png)
+
+[14]
+l. 253 Writing suites_automatiques.idv[16] (suites_automatiques15x.png)
+l. 254 Writing suites_automatiques.idv[17] (suites_automatiques16x.png)
+ [15]
+l. 274 Writing suites_automatiques.idv[18] (suites_automatiques17x.png)
+l. 282 Writing suites_automatiques.idv[19] (suites_automatiques18x.png)
+ [16]
+l. 305 Writing suites_automatiques.idv[20] (suites_automatiques19x.png)
+l. 307 Writing suites_automatiques.idv[21] (suites_automatiques20x.png)
+--- file suites_automatiques4.html ---
+l. 319 Writing suites_automatiques.idv[22] (suites_automatiques21x.png)
+ [17]
+l. 321 Writing suites_automatiques.idv[23] (suites_automatiques22x.png)
+l. 325 Writing suites_automatiques.idv[24] (suites_automatiques23x.png)
+
+
+LaTeX Warning: Citation `Allouche05' on page 18 undefined on input line 339.
+
+--- file suites_automatiques5.html ---
+[18
+
+]
+l. 343 Writing suites_automatiques.idv[25] (suites_automatiques24x.png)
+--- file suites_automatiques6.html ---
+l. 351 Writing suites_automatiques.idv[26] (suites_automatiques25x.png)
+l. 359 Writing suites_automatiques.idv[27] (suites_automatiques26x.png)
+ [19]
+l. 364 Writing suites_automatiques.idv[28] (suites_automatiques27x.png)
+l. 371 Writing suites_automatiques.idv[29] (suites_automatiques28x.png)
+l. 371 Writing suites_automatiques.idv[30] (suites_automatiques29x.png)
+l. 378 Writing suites_automatiques.idv[31] (suites_automatiques30x.png)
+ [20]
+l. 378 Writing suites_automatiques.idv[32] (suites_automatiques31x.png)
+l. 386 Writing suites_automatiques.idv[33] (suites_automatiques32x.png)
+l. 387 Writing suites_automatiques.idv[34] (suites_automatiques33x.png)
+ [21]
+l. 397 Writing suites_automatiques.idv[35] (suites_automatiques34x.png)
+l. 398 Writing suites_automatiques.idv[36] (suites_automatiques35x.png)
+--- file suites_automatiques7.html ---
+ [22]
+l. 414 Writing suites_automatiques.idv[37] (suites_automatiques36x.png)
+l. 416 Writing suites_automatiques.idv[38] (suites_automatiques37x.png)
+l. 418 Writing suites_automatiques.idv[39] (suites_automatiques38x.png)
+ [23]
+l. 420 Writing suites_automatiques.idv[40] (suites_automatiques39x.png)
+l. 422 Writing suites_automatiques.idv[41] (suites_automatiques40x.png)
+l. 424 Writing suites_automatiques.idv[42] (suites_automatiques41x.png)
+l. 428 Writing suites_automatiques.idv[43] (suites_automatiques42x.png)
+l. 431 Writing suites_automatiques.idv[44] (suites_automatiques43x.png)
+l. 432 Writing suites_automatiques.idv[45] (suites_automatiques44x.png)
+ [24]
+l. 440 Writing suites_automatiques.idv[46] (suites_automatiques45x.png)
+
+
+LaTeX Warning: Citation `Allouche03' on page 25 undefined on input line 447.
+
+--- file suites_automatiques8.html ---
+[25]
+--- file suites_automatiques9.html ---
+l. 468 Writing suites_automatiques.idv[47] (suites_automatiques46x.png)
+l. 469 Writing suites_automatiques.idv[48] (suites_automatiques47x.png)
+--- file suites_automatiques10.html ---
+
+No file suites_automatiques.bbl.
+[26
+
+] (./suites_automatiques.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16311 strings out of 492991
+ 248307 string characters out of 6135022
+ 465056 words of memory out of 5000000
+ 19492 multiletter control sequences out of 15000+600000
+ 23460 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,9n,46p,1218b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on suites_automatiques.dvi (26 pages, 102896 bytes).

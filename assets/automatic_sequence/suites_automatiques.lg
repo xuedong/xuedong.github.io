@@ -1,0 +1,293 @@
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: eccc1000 font-variant: small-caps;
+htfcss: ecbx  font-weight: bold;
+htfcss: ecsx  font-weight: bold;
+htfcss: ecbi  font-weight: bold;   font-style: italic;
+htfcss: ecit  font-style: italic; font-family: monospace;
+htfcss: ecss  font-family: sans-serif;
+htfcss: ecff  font-family: fantasy;
+htfcss: ecti  font-style: italic;
+htfcss: ectt  font-family: monospace;
+htfcss: ecbx  font-weight: bold;
+htfcss: ecsx  font-weight: bold;
+htfcss: ecbi  font-weight: bold;   font-style: italic;
+htfcss: ecit  font-style: italic; font-family: monospace;
+htfcss: ecss  font-family: sans-serif;
+htfcss: ecff  font-family: fantasy;
+htfcss: ecti  font-style: italic;
+htfcss: ectt  font-family: monospace;
+htfcss: ecbx  font-weight: bold;
+htfcss: ecsx  font-weight: bold;
+htfcss: ecbi  font-weight: bold;   font-style: italic;
+htfcss: ecit  font-style: italic; font-family: monospace;
+htfcss: ecss  font-family: sans-serif;
+htfcss: ecff  font-family: fantasy;
+htfcss: ecti  font-style: italic;
+htfcss: ectt  font-family: monospace;
+htfcss: ecbx  font-weight: bold;
+htfcss: ecsx  font-weight: bold;
+htfcss: ecbi  font-weight: bold;   font-style: italic;
+htfcss: ecit  font-style: italic; font-family: monospace;
+htfcss: ecss  font-family: sans-serif;
+htfcss: ecff  font-family: fantasy;
+htfcss: ecti  font-style: italic;
+htfcss: ectt  font-family: monospace;
+htfcss: ecbx  font-weight: bold;
+htfcss: ecsx  font-weight: bold;
+htfcss: ecbi  font-weight: bold;   font-style: italic;
+htfcss: ecit  font-style: italic; font-family: monospace;
+htfcss: ecss  font-family: sans-serif;
+htfcss: ecff  font-family: fantasy;
+htfcss: ecti  font-style: italic;
+htfcss: ectt  font-family: monospace;
+htfcss: cmmi font-style: italic;
+htfcss: cmmib font-style: italic; font-weight: bold;
+htfcss: ecbx  font-weight: bold;
+htfcss: ecsx  font-weight: bold;
+htfcss: ecbi  font-weight: bold;   font-style: italic;
+htfcss: ecit  font-style: italic; font-family: monospace;
+htfcss: ecss  font-family: sans-serif;
+htfcss: ecff  font-family: fantasy;
+htfcss: ecti  font-style: italic;
+htfcss: ectt  font-family: monospace;
+htfcss: ecbx  font-weight: bold;
+htfcss: ecsx  font-weight: bold;
+htfcss: ecbi  font-weight: bold;   font-style: italic;
+htfcss: ecit  font-style: italic; font-family: monospace;
+htfcss: ecss  font-family: sans-serif;
+htfcss: ecff  font-family: fantasy;
+htfcss: ecti  font-style: italic;
+htfcss: ectt  font-family: monospace;
+htfcss: ecbx  font-weight: bold;
+htfcss: ecsx  font-weight: bold;
+htfcss: ecbi  font-weight: bold;   font-style: italic;
+htfcss: ecit  font-style: italic; font-family: monospace;
+htfcss: ecss  font-family: sans-serif;
+htfcss: ecff  font-family: fantasy;
+htfcss: ecti  font-style: italic;
+htfcss: ectt  font-family: monospace;
+File: suites_automatiques.html
+File: suites_automatiques.css
+File: suites_automatiques.tmp
+Font_Class(1,"1"): <img  src="" alt="" class="%s-%dx-x-%x" />
+File: suites_automatiques2.html
+File: suites_automatiques.tmp
+Font_Class(4,"4"): <span  class="small-caps"></span>
+File: suites_automatiques3.html
+File: suites_automatiques.tmp
+File: suites_automatiques4.html
+File: suites_automatiques5.html
+File: suites_automatiques6.html
+File: suites_automatiques7.html
+File: suites_automatiques8.html
+File: suites_automatiques9.html
+File: suites_automatiques10.html
+Css: p.noindent { text-indent: 0em }
+Css: td p.noindent { text-indent: 0em; margin-top:0em; }
+Css: p.nopar { text-indent: 0em; }
+Css: p.indent{ text-indent: 1.5em }
+Css: @media print {div.crosslinks {visibility:hidden;}}
+Css: a img { border-top: 0; border-left: 0; border-right: 0; }
+Font_Css("4"): .small-caps{font-variant: small-caps; }
+Font_Css("10"): .htf-cmbx {font-weight: bold; font-style:normal;}
+Font_Css("12"): .htf-calligraphy {font-family:cursive}
+Font_Css("14"): .htf-italic {font-style: italic;}
+Font_Css("16"): .htf-bold {font-weight: bold;}
+Font_Css("12"): .htf-calligraphy-bold {font-family:cursive ; font-weight: bold; }
+Css: center { margin-top:1em; margin-bottom:1em; }
+Css: td center { margin-top:0em; margin-bottom:0em; }
+Css: .Canvas { position:relative; }
+Css: img.math{vertical-align:middle;}
+Css: li p.indent { text-indent: 0em }
+Css: li p:first-child{ margin-top:0em; }
+Css: li p:last-child, li div:last-child { margin-bottom:0.5em; }
+Css: li p~ul:last-child, li p~ol:last-child{ margin-bottom:0.5em; }
+Css: .enumerate1 {list-style-type:decimal;}
+Css: .enumerate2 {list-style-type:lower-alpha;}
+Css: .enumerate3 {list-style-type:lower-roman;}
+Css: .enumerate4 {list-style-type:upper-alpha;}
+Css: div.newtheorem { margin-bottom: 2em; margin-top: 2em;}
+Css: .obeylines-h,.obeylines-v {white-space: nowrap; }
+Css: div.obeylines-v p { margin-top:0; margin-bottom:0; }
+Css: .overline{ text-decoration:overline; }
+Css: .overline img{ border-top: 1px solid black; }
+Css: td.displaylines {text-align:center; white-space:nowrap;}
+Css: .centerline {text-align:center;}
+Css: .rightline {text-align:right;}
+Css: div.verbatim {font-family: monospace; white-space: nowrap; text-align:left; clear:both; }
+Css: .fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.fbox {display:table}
+Css: div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: div.minipage{width:100%;}
+Css: div.center, div.center div.center {text-align: center; margin-left:1em; margin-right:1em;}
+Css: div.center div {text-align: left;}
+Css: div.flushright, div.flushright div.flushright {text-align: right;}
+Css: div.flushright div {text-align: left;}
+Css: div.flushleft {text-align: left;}
+Css: .underline{ text-decoration:underline; }
+Css: .underline img{ border-bottom: 1px solid black; margin-bottom:1pt; }
+Css: .framebox-c, .framebox-l, .framebox-r { padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
+Css: .framebox-c {text-align:center;}
+Css: .framebox-l {text-align:left;}
+Css: .framebox-r {text-align:right;}
+Css: span.thank-mark{ vertical-align: super }
+Css: span.footnote-mark sup.textsuperscript, span.footnote-mark a sup.textsuperscript{ font-size:80%; }
+Css: div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+Css: table.tabular td p{margin-top:0em;}
+Css: table.tabular {margin-left: auto; margin-right: auto;}
+Css: td p:first-child{ margin-top:0em; }
+Css: td p:last-child{ margin-bottom:0em; }
+Css: div.td00{ margin-left:0pt; margin-right:0pt; }
+Css: div.td01{ margin-left:0pt; margin-right:5pt; }
+Css: div.td10{ margin-left:5pt; margin-right:0pt; }
+Css: div.td11{ margin-left:5pt; margin-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: td.td00{ padding-left:0pt; padding-right:0pt; }
+Css: td.td01{ padding-left:0pt; padding-right:5pt; }
+Css: td.td10{ padding-left:5pt; padding-right:0pt; }
+Css: td.td11{ padding-left:5pt; padding-right:5pt; }
+Css: table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+Css: .hline hr, .cline hr{ height : 1px; margin:0px; }
+Css: .tabbing-right {text-align:right;}
+Css: span.TEX {letter-spacing: -0.125em; }
+Css: span.TEX span.E{ position:relative;top:0.5ex;left:-0.0417em;}
+Css: a span.TEX span.E {text-decoration: none; }
+Css: span.LATEX span.A{ position:relative; top:-0.5ex; left:-0.4em; font-size:85%;}
+Css: span.LATEX span.TEX{ position:relative; left: -0.4em; }
+Css: div.float, div.figure {margin-left: auto; margin-right: auto;}
+Css: div.float img {text-align:center;}
+Css: div.figure img {text-align:center;}
+Css: .marginpar {width:20%; float:right; text-align:left; margin-left:auto; margin-top:0.5em; font-size:85%; text-decoration:underline;}
+Css: .marginpar p{margin-top:0.4em; margin-bottom:0.4em;}
+Css: table.equation {width:100%;}
+Css: .equation td{text-align:center; }
+Css: td.equation { margin-top:1em; margin-bottom:1em; } 
+Css: td.equation-label { width:5%; text-align:center; }
+Css: td.eqnarray4 { width:5%; white-space: normal; }
+Css: td.eqnarray2 { width:5%; }
+Css: table.eqnarray-star, table.eqnarray {width:100%;}
+Css: div.eqnarray{text-align:center;}
+Css: div.array {text-align:center;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.pmatrix img{vertical-align:middle;}
+Css: div.pmatrix {text-align:center;}
+Css: table.pmatrix {width:100%;}
+Css: span.bar-css {text-decoration:overline;}
+Css: img.cdots{vertical-align:middle;}
+Css: .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
+Css: .index-item, .index-subitem, .index-subsubitem {display:block}
+Css: div.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:left;}
+Css: div.caption span.id{font-weight: bold; white-space: nowrap; }
+Css: h1.partHead{text-align: center}
+Css: p.bibitem { text-indent: -2em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: p.bibitem-p { text-indent: 0em; margin-left: 2em; margin-top:0.6em; margin-bottom:0.6em; }
+Css: .paragraphHead, .likeparagraphHead { margin-top:2em; font-weight: bold;}
+Css: .subparagraphHead, .likesubparagraphHead { font-weight: bold;}
+Css: .quote {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; margin-right:1em; text-align:justify;}
+Css: .verse{white-space:nowrap; margin-left:2em}
+Css: div.maketitle {text-align:center;}
+Css: h2.titleHead{text-align:center;}
+Css: div.maketitle{ margin-bottom: 2em; }
+Css: div.author, div.date {text-align:center;}
+Css: div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
+Css: div.author{white-space: nowrap;}
+Font_Size: 12
+Css: .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
+Css: .abstract p {margin-left:5%; margin-right:5%;}
+Css: div.abstract {width:100%;}
+Css: .equation td{text-align:center; }
+Css: .equation-star td{text-align:center; }
+Css: table.equation-star { width:100%; }
+Css: table.equation { width:100%; }
+Css: table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-left:5%; white-space: nowrap;}
+Css: table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto; margin-right:auto; white-space: nowrap;}
+Css: td.align-label { width:5%; text-align:center; }
+Css: td.align-odd { text-align:right; padding-right:0.3em;}
+Css: td.align-even { text-align:left; padding-right:0.6em;}
+Css: table.multline, table.multline-star {width:100%;}
+Css: td.gather {text-align:center; }
+Css: table.gather {width:100%;}
+Css: div.gather-star {text-align:center;}
+Css: .figure img.graphics {margin-left:10%;}
+--- needs --- suites_automatiques.idv[2] ==> suites_automatiques0x.png ---
+--- needs --- suites_automatiques.idv[3] ==> suites_automatiques1x.png ---
+--- needs --- suites_automatiques.idv[4] ==> suites_automatiques2x.png ---
+--- needs --- suites_automatiques.idv[6] ==> suites_automatiques3x.png ---
+--- needs --- suites_automatiques.idv[8] ==> suites_automatiques4x.png ---
+--- needs --- suites_automatiques.idv[9] ==> suites_automatiques5x.png ---
+--- needs --- suites_automatiques.idv[11] ==> suites_automatiques6x.png ---
+--- needs --- suites_automatiques.idv[13] ==> suites_automatiques7x.png ---
+--- needs --- suites_automatiques.idv[14] ==> suites_automatiques8x.png ---
+--- needs --- suites_automatiques.idv[15] ==> suites_automatiques9x.png ---
+--- needs --- suites_automatiques.idv[17] ==> suites_automatiques10x.png ---
+--- needs --- suites_automatiques.idv[18] ==> suites_automatiques11x.png ---
+--- needs --- suites_automatiques.idv[20] ==> suites_automatiques12x.png ---
+--- needs --- suites_automatiques.idv[21] ==> suites_automatiques13x.png ---
+--- needs --- suites_automatiques.idv[23] ==> suites_automatiques14x.png ---
+--- needs --- suites_automatiques.idv[24] ==> suites_automatiques15x.png ---
+--- needs --- suites_automatiques.idv[25] ==> suites_automatiques16x.png ---
+--- needs --- suites_automatiques.idv[27] ==> suites_automatiques17x.png ---
+--- needs --- suites_automatiques.idv[28] ==> suites_automatiques18x.png ---
+--- needs --- suites_automatiques.idv[30] ==> suites_automatiques19x.png ---
+--- needs --- suites_automatiques.idv[31] ==> suites_automatiques20x.png ---
+--- needs --- suites_automatiques.idv[32] ==> suites_automatiques21x.png ---
+--- needs --- suites_automatiques.idv[34] ==> suites_automatiques22x.png ---
+--- needs --- suites_automatiques.idv[35] ==> suites_automatiques23x.png ---
+--- needs --- suites_automatiques.idv[37] ==> suites_automatiques24x.png ---
+--- needs --- suites_automatiques.idv[38] ==> suites_automatiques25x.png ---
+--- needs --- suites_automatiques.idv[39] ==> suites_automatiques26x.png ---
+--- needs --- suites_automatiques.idv[41] ==> suites_automatiques27x.png ---
+--- needs --- suites_automatiques.idv[42] ==> suites_automatiques28x.png ---
+--- needs --- suites_automatiques.idv[43] ==> suites_automatiques29x.png ---
+--- needs --- suites_automatiques.idv[45] ==> suites_automatiques30x.png ---
+--- needs --- suites_automatiques.idv[46] ==> suites_automatiques31x.png ---
+--- needs --- suites_automatiques.idv[47] ==> suites_automatiques32x.png ---
+--- needs --- suites_automatiques.idv[48] ==> suites_automatiques33x.png ---
+--- needs --- suites_automatiques.idv[50] ==> suites_automatiques34x.png ---
+--- needs --- suites_automatiques.idv[51] ==> suites_automatiques35x.png ---
+--- needs --- suites_automatiques.idv[53] ==> suites_automatiques36x.png ---
+--- needs --- suites_automatiques.idv[54] ==> suites_automatiques37x.png ---
+--- needs --- suites_automatiques.idv[55] ==> suites_automatiques38x.png ---
+--- needs --- suites_automatiques.idv[57] ==> suites_automatiques39x.png ---
+--- needs --- suites_automatiques.idv[58] ==> suites_automatiques40x.png ---
+--- needs --- suites_automatiques.idv[59] ==> suites_automatiques41x.png ---
+--- needs --- suites_automatiques.idv[60] ==> suites_automatiques42x.png ---
+--- needs --- suites_automatiques.idv[61] ==> suites_automatiques43x.png ---
+--- needs --- suites_automatiques.idv[62] ==> suites_automatiques44x.png ---
+--- needs --- suites_automatiques.idv[64] ==> suites_automatiques45x.png ---
+--- needs --- suites_automatiques.idv[66] ==> suites_automatiques46x.png ---
+--- needs --- suites_automatiques.idv[67] ==> suites_automatiques47x.png ---
+--- characters ---
+Font("cmr","7","7","100")
+Font("cmr","10","10","100")
+Font("cmmi","7","7","100")
+Font("cmmi","10","10","100")
+Font("cmsy","7","7","100")
+Font("cmsy","10","10","100")
+Font("cmr","12","12","100")
+Font("ecrm","1200","12","100")
+Font("ecrm","2074","20","100")
+Font("ecrm","1440","14","100")
+Font("msbm","10","10","100")
+Font("cmr","8","8","100")
+Font("cmr","6","6","100")
+Font("cmmi","12","12","100")
+Font("cmmi","8","8","100")
+Font("cmmi","6","6","100")
+Font("cmsy","10","10","120")
+--- needs --- suites_automatiques.idv[69] ==> cmsy10-c-48.png ---
+--- needs --- suites_automatiques.idv[70] ==> cmsy10-c-41.png ---
+Font("cmsy","8","8","100")
+Font("cmsy","6","6","100")
+Font("cmex","10","10","120")
+Font("msbm","10","10","120")
+Font("msbm","10","10","80")
+Font("ecrm","1095","10","100")
+Font("ecbx","1095","10","100")
+Font("ecti","1200","12","100")
+Font("ecbx","1200","12","100")
+Font("ecrm","1000","10","100")
+Font("eccc1200","","12","100")
+Font("cmbx","12","12","100")
