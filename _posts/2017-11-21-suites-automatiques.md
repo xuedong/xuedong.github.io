@@ -173,7 +173,7 @@ class="cmmi-8">n</span></sub> est <span
 class="ecti-1200">k</span>-automatique s&#8217;il existe un
 automate <span
 class="cmsy-10x-x-120"><img
-src="assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
+src="/assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
 class="cmsy-10x-x-120">{</span><span
 class="cmmi-12">Q, </span><span
 class="cmr-12">&#x03A3;</span><span
@@ -183,7 +183,7 @@ class="cmsy-10x-x-120">} </span>tel que :
 
    <center class="math-display" >
 <img
-src="suites_automatiques0x.png" alt="&#x2200;n, &#x03C4;(&#x03B4;(i,&#x27E8;n&#x27E9;k)) = un
+src="/assets/suites_automatiques/suites_automatiques0x.png" alt="&#x2200;n, &#x03C4;(&#x03B4;(i,&#x27E8;n&#x27E9;k)) = un
 " class="math-display" ></center>
 <!--l. 96--><p class="nopar" >
 où <span
@@ -195,7 +195,7 @@ class="ecti-1200">k </span>de n <span
 class="ecbx-1200">à partir du chiffre de poids faible</span>. Si on lit dans
 l&#8217;automate <span
 class="cmsy-10x-x-120"><img
-src="assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>la suite constituée des chiffres de <span
+src="/assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>la suite constituée des chiffres de <span
 class="cmmi-12">n </span>en base <span
 class="cmmi-12">k </span>à partir du chiffre de poids faible, on
 tombe sur un état dont la valeur de sortie est <span
@@ -208,7 +208,7 @@ class="cmr-12">0</span><span
 class="cmmi-12">, </span><span
 class="cmr-12">1</span><span
 class="cmmi-12">,</span><img
-src="suites_automatiques1x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
+src="/assets/suites_automatiques/suites_automatiques1x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
 class="cmmi-12">,k </span><span
 class="cmsy-10x-x-120">- </span><span
 class="cmr-12">1</span><span
@@ -250,7 +250,7 @@ class="cmr-12">)</span><sub><span
 class="cmmi-8">n</span></sub> de la façon suivante :
    <center class="math-display" >
 <img
-src="suites_automatiques2x.png" alt="       t0 = 0,
+src="/assets/suites_automatiques/suites_automatiques2x.png" alt="       t0 = 0,
    &#x2200;n &#x2265; 0,t2n = tn,
 &#x2200;n &#x2265;  0,t2n+1 = 1 - tn
 
@@ -267,7 +267,7 @@ class="cmmi-8">n</span></sub> correspond à la somme des chiffres dans l&#8217;�
 2 de <span
 class="cmmi-12">n </span>modulo 2. La suite de Thue-Morse est ainsi 2-automatique ; elle est engendrée par l&#8217;automate
 suivant <span class="footnote-mark"><a
-href="assets/suites_automatiques/suites_automatiques2.html#fn1x0"><sup class="textsuperscript">1</sup></a></span><a
+href="/assets/suites_automatiques/suites_automatiques2.html#fn1x0"><sup class="textsuperscript">1</sup></a></span><a
  id="x1-3002f1"></a>  :
 <!--l. 127--><p class="indent" >   <hr class="figure"><div class="figure"
 >
@@ -280,7 +280,7 @@ href="assets/suites_automatiques/suites_automatiques2.html#fn1x0"><sup class="te
 <div class="center">
 <!--l. 128--><p class="noindent" >
 <!--l. 130--><p class="center" ><img
-src="suites_automatiques3x.png" alt="PICT" >
+src="/assets/suites_automatiques/suites_automatiques3x.png" alt="PICT" >
 </div>
 <br /> <div class="caption"><span class="id"><span
 class="eccc1200-"><span
@@ -296,7 +296,7 @@ class="content">L&#8217;automate de Thue-Morse.</span></div><!--tex4ht:label?: x
 <!--l. 142--><p class="indent" >   </div><hr class="endfigure">
 <!--l. 144--><p class="indent" >   Donnons une autre manière pour définir la suite de Thue-Morse. On considère le morphisme
 2-uniforme <span class="footnote-mark"><a
-href="assets/suites_automatiques/suites_automatiques3.html#fn2x0"><sup class="textsuperscript">2</sup></a></span><a
+href="/assets/suites_automatiques/suites_automatiques3.html#fn2x0"><sup class="textsuperscript">2</sup></a></span><a
  id="x1-3004f2"></a>
 <span
 class="cmmi-12">&#x03C3; </span><span
@@ -315,7 +315,7 @@ class="cmsy-10x-x-120">}</span><sup><span
 class="cmsy-8"></span></sup> donné par :
    <center class="math-display" >
 <img
-src="suites_automatiques4x.png" alt="&#x03C3;(0) = 01
+src="/assets/suites_automatiques/suites_automatiques4x.png" alt="&#x03C3;(0) = 01
 &#x03C3;(1) = 10
 " class="math-display" ></center>
 <!--l. 150--><p class="nopar" >
@@ -348,7 +348,7 @@ class="cmr-12">)</span><sub><span
 class="cmmi-8">n</span></sub> de la façon suivante :
    <center class="math-display" >
 <img
-src="suites_automatiques5x.png" alt="         r0 = 0,
+src="/assets/suites_automatiques/suites_automatiques5x.png" alt="         r0 = 0,
     &#x2200;n  &#x2265; 0,r   = r ,
              2n    n
    &#x2200;n  &#x2265; 0,r4n+1 = rn,
@@ -370,7 +370,7 @@ class="cmmi-12">&#x2026;</span>
 <div class="center">
 <!--l. 172--><p class="noindent" >
 <!--l. 174--><p class="center" ><img
-src="suites_automatiques6x.png" alt="PICT" >
+src="/assets/suites_automatiques/suites_automatiques6x.png" alt="PICT" >
 </div>
 <br /> <div class="caption"><span class="id"><span
 class="eccc1200-"><span
@@ -395,7 +395,7 @@ class="cmmi-12">A,B,C,D</span><span
 class="cmsy-10x-x-120">} </span>par :
    <center class="math-display" >
 <img
-src="suites_automatiques7x.png" alt="&#x03C3;(A ) = AB
+src="/assets/suites_automatiques/suites_automatiques7x.png" alt="&#x03C3;(A ) = AB
 
 &#x03C3;(B ) = AC
 &#x03C3;(C ) = DB
@@ -410,7 +410,7 @@ class="cmmi-12">A</span><span
 class="cmr-12">) </span>est de la forme suivante :
    <center class="math-display" >
 <img
-src="suites_automatiques8x.png" alt="ABACABDBABACDCAC             &#x22C5;&#x22C5;&#x22C5;
+src="/assets/suites_automatiques/suites_automatiques8x.png" alt="ABACABDBABACDCAC             &#x22C5;&#x22C5;&#x22C5;
 " class="math-display" ></center>
 <!--l. 208--><p class="nopar" >
 La suite de Rudin-Shapiro s&#8217;obtient alors en prenant l&#8217;image du point fixe pour <span
@@ -427,7 +427,7 @@ class="cmr-12">1</span><span
 class="cmsy-10x-x-120">} </span>définie par :
    <center class="math-display" >
 <img
-src="suites_automatiques9x.png" alt="&#x03C0; (A ) = &#x03C0;(B ) = 0
+src="/assets/suites_automatiques/suites_automatiques9x.png" alt="&#x03C0; (A ) = &#x03C0;(B ) = 0
 
 &#x03C0;(C ) = &#x03C0;(D ) = 1
 " class="math-display" ></center>
@@ -464,7 +464,7 @@ class="cmmi-12">K</span><sub><span
 class="cmmi-8">u</span></sub> s&#8217;il n&#8217;y a pas d&#8217;ambiguïté) est :
    <center class="math-display" >
 <img
-src="suites_automatiques10x.png" alt="  (q)        &#x03B1;
+src="/assets/suites_automatiques/suites_automatiques10x.png" alt="  (q)        &#x03B1;
 Ku  =  {(u(q n + r))n | &#x03B1; &#x2208; &#x2115;, 0 &#x2264; r &#x003C; &#x03B1; }
 " class="math-display" ></center>
 <!--l. 228--><p class="nopar" >
@@ -482,7 +482,7 @@ class="cmmi-12">X</span><sub><span
 class="cmmi-8">k</span></sub> donnés par :
    <center class="math-display" >
 <img
-src="suites_automatiques11x.png" alt="X0 =  {(an)n&#x2265;0}etXk+1  = Xk &#x222A; {(bqn+r)n|(bn)n &#x2208; Xk, r &#x2208; [0,q - 1]}.  " class="math-display" ></center>
+src="/assets/suites_automatiques/suites_automatiques11x.png" alt="X0 =  {(an)n&#x2265;0}etXk+1  = Xk &#x222A; {(bqn+r)n|(bn)n &#x2208; Xk, r &#x2208; [0,q - 1]}.  " class="math-display" ></center>
 S&#8217;il existe <span
 class="cmmi-12">k </span>tel que <span
 class="cmmi-12">X</span><sub><span
@@ -511,7 +511,7 @@ class="ecti-1200">D</span><span
 class="ecti-1200">émonstration.</span> </span>On a
    <center class="math-display" >
 <img
-src="suites_automatiques12x.png" alt="X1 = { (t2n)n,(t2n+1)n} = {(tn)n,(1 - tn)n}
+src="/assets/suites_automatiques/suites_automatiques12x.png" alt="X1 = { (t2n)n,(t2n+1)n} = {(tn)n,(1 - tn)n}
 " class="math-display" ></center> Donc <span
 class="cmmi-12">K</span><sub><span
 class="cmmi-8">t</span></sub> <span
@@ -547,21 +547,21 @@ class="ecti-1200">D</span><span
 class="ecti-1200">émonstration.</span> </span>On a
    <center class="math-display" >
 <img
-src="suites_automatiques13x.png" alt="X1 =  {(rn)n, (r2n+1)n}
+src="/assets/suites_automatiques/suites_automatiques13x.png" alt="X1 =  {(rn)n, (r2n+1)n}
 " class="math-display" ></center> Puis
 
 
    <center class="math-display" >
 <img
-src="suites_automatiques14x.png" alt="X2  = {(rn)n,(r2n+1)n,(r4n+3)n}
+src="/assets/suites_automatiques/suites_automatiques14x.png" alt="X2  = {(rn)n,(r2n+1)n,(r4n+3)n}
 " class="math-display" ></center> Ensuite
    <center class="math-display" >
 <img
-src="suites_automatiques15x.png" alt="X3 =  {(rn)n,(r2n+1 )n, (r4n+3)n,(r8n+3)n}
+src="/assets/suites_automatiques/suites_automatiques15x.png" alt="X3 =  {(rn)n,(r2n+1 )n, (r4n+3)n,(r8n+3)n}
 " class="math-display" ></center> Enfin
    <center class="math-display" >
 <img
-src="suites_automatiques16x.png" alt="X4 =  {(rn)n,(r2n+1)n,(r4n+3 )n,(r8n+3)n} = X3
+src="/assets/suites_automatiques/suites_automatiques16x.png" alt="X4 =  {(rn)n,(r2n+1)n,(r4n+3 )n,(r8n+3)n} = X3
 " class="math-display" ></center> D&#8217;où le 2-noyau <span
 class="cmmi-12">K</span><sub><span
 class="cmmi-8">r</span></sub> <span
@@ -670,7 +670,7 @@ class="ecti-1200">en est un</span>
 class="ecti-1200">point fixe si et seulement si :</span>
    <center class="math-display" >
 <img
-src="suites_automatiques17x.png" alt="&#x2200;n  &#x2208; &#x2115;,&#x2200;r &#x2264;  q,&#x03C3;(w  ) =  w
+src="/assets/suites_automatiques/suites_automatiques17x.png" alt="&#x2200;n  &#x2208; &#x2115;,&#x2200;r &#x2264;  q,&#x03C3;(w  ) =  w
                     n r    qn+r
 " class="math-display" ></center>
 <!--l. 276--><p class="nopar" >
@@ -704,7 +704,7 @@ class="ecti-1200">à valeurs dans </span><span
 class="cmsy-10x-x-120">{</span><span
 class="cmr-12">0</span><span
 class="cmmi-12">,</span><img
-src="suites_automatiques18x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
+src="/assets/suites_automatiques/suites_automatiques18x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
 class="cmmi-12">,q </span><span
 class="cmsy-10x-x-120">- </span><span
 class="cmr-12">1</span><span
@@ -764,7 +764,7 @@ class="cmmi-12">ii</span><span
 class="cmr-12">)</span>. On dispose d&#8217;un <span
 class="cmmi-12">k</span>-automate <span
 class="cmsy-10x-x-120"><img
-src="assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
+src="/assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
 class="cmsy-10x-x-120">{</span><span
 class="cmmi-12">Q, </span><span
 class="cmr-12">&#x03A3;</span><span
@@ -971,7 +971,7 @@ class="cmsy-10x-x-120">-</span><span
 class="cmr-12">1]</span>, on dispose d&#8217;une application :
    <center class="math-display" >
 <img
-src="suites_automatiques19x.png" alt="      d     d
+src="/assets/suites_automatiques/suites_automatiques19x.png" alt="      d     d
 &#x03C3;j : &#x03A3;  &#x2192;  &#x03A3;  telleque &#x2200;n  &#x2208; &#x2115;,Vqn+j =  &#x03C3;j(Vn)
 " class="math-display" ></center> On considère le morphisme <span
 class="cmmi-12">&#x03C3; </span><span
@@ -986,7 +986,7 @@ class="cmr-12">)</span><sup><span
 class="cmsy-8"></span></sup> défini par :
    <center class="math-display" >
 <img
-src="suites_automatiques20x.png" alt="        d
+src="/assets/suites_automatiques/suites_automatiques20x.png" alt="        d
 &#x2200;V  &#x2208; &#x03A3;  ,&#x03C3;(V ) = &#x03C3;0(V)&#x03C3;1 (V )&#x22C5;&#x22C5;&#x22C5; &#x03C3;q-1(V).
 " class="math-display" ></center>
 <!--l. 309--><p class="indent" >   Il est aisé à voir que le morphisme <span
@@ -1050,7 +1050,7 @@ class="cmmi-8">n</span></sub><span
 class="cmr-12">)</span>.
 <!--l. 318--><p class="indent" >   Consiérons maintenant l&#8217;automate <span
 class="cmsy-10x-x-120"><img
-src="assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
+src="/assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /> </span>= <span
 class="cmsy-10x-x-120">{</span><span
 class="cmr-12">&#x03A3;</span><sup><span
 class="cmsy-8">&#x2032;</span></sup><span
@@ -1072,7 +1072,7 @@ class="cmmi-12">&#x03B4;</span><span
 class="cmr-12">(</span><span
 class="cmmi-12">x, </span><span
 class="cmr-12">1)</span><img
-src="suites_automatiques21x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span
+src="/assets/suites_automatiques/suites_automatiques21x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span
 class="cmmi-12">&#x03B4;</span><span
 class="cmr-12">(</span><span
 class="cmmi-12">x,q </span><span
@@ -1100,12 +1100,12 @@ effet, on montre par récurrence que :
 
    <center class="math-display" >
 <img
-src="suites_automatiques22x.png" alt="&#x2200;k, &#x03C3;k(v) = &#x03B4;(v,&#x27E8;0&#x27E9;q)&#x03B4;(v,&#x27E8;1&#x27E9;q)&#x22C5;&#x22C5;&#x22C5;&#x03B4;(v,&#x27E8;qk - 1&#x27E9;q).
+src="/assets/suites_automatiques/suites_automatiques22x.png" alt="&#x2200;k, &#x03C3;k(v) = &#x03B4;(v,&#x27E8;0&#x27E9;q)&#x03B4;(v,&#x27E8;1&#x27E9;q)&#x22C5;&#x22C5;&#x22C5;&#x03B4;(v,&#x27E8;qk - 1&#x27E9;q).
 " class="math-display" ></center>
 <!--l. 324--><p class="indent" >   L&#8217;initialisation est claire. Pour l&#8217;héritage, on a :
    <center class="math-display" >
 <img
-src="suites_automatiques23x.png" alt="&#x03C3;k+1(v)  = &#x03C3; (&#x03B4;(v,&#x27E8;0&#x27E9;q)&#x03B4;(v, &#x27E8;1 &#x27E9;q) &#x22C5;&#x22C5;&#x22C5;&#x03B4;(v,&#x27E8;qk - 1 &#x27E9;q))
+src="/assets/suites_automatiques/suites_automatiques23x.png" alt="&#x03C3;k+1(v)  = &#x03C3; (&#x03B4;(v,&#x27E8;0&#x27E9;q)&#x03B4;(v, &#x27E8;1 &#x27E9;q) &#x22C5;&#x22C5;&#x22C5;&#x03B4;(v,&#x27E8;qk - 1 &#x27E9;q))
          = &#x03B4;(&#x03B4;(v,&#x27E8;0&#x27E9;q),0)&#x22C5; &#x22C5;&#x22C5;&#x03B4;(&#x03B4; (v, &#x27E8;0 &#x27E9;q),q - 1)&#x22C5;&#x22C5; &#x22C5;&#x03B4;(&#x03B4; (v, &#x27E8;qk - 1&#x27E9;q),0)&#x22C5;&#x22C5;&#x22C5;&#x03B4; (&#x03B4; (v, &#x27E8;qk - 1&#x27E9;q),q - 1)
          = &#x03B4;(v, &#x27E8;0 &#x27E9;) &#x22C5;&#x22C5;&#x22C5;&#x03B4;(v,&#x27E8;q - 1 &#x27E9;) &#x22C5;&#x22C5;&#x22C5;&#x03B4;(v,&#x27E8;qk+1 - q&#x27E9;) &#x22C5;&#x22C5;&#x22C5;&#x03B4;(v,&#x27E8;qk+1 - q + (q - 1)&#x27E9; ).
                   q               q                   q                           q
@@ -1119,7 +1119,7 @@ class="cmr-12">)</span><sub><span
 class="cmmi-8">n</span></sub> est bien engendrée par le <span
 class="cmmi-12">q</span>-automate <span
 class="cmsy-10x-x-120"><img
-src="assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /></span>.                                             __
+src="/assets/suites_automatiques/cmsy10-c-41.png" alt="A" class="10-120x-x-41" /></span>.                                             __
    </div>
 <!--l. 338--><p class="noindent" >
    <h3 class="sectionHead"><span class="titlemark">3   </span> <a
@@ -1140,7 +1140,7 @@ class="cmmi-8">q</span></sub><span
 class="cmr-12">(</span><span
 class="cmmi-12">X</span><span
 class="cmr-12">)</span>. <span class="footnote-mark"><a
-href="assets/suites_automatiques/suites_automatiques5.html#fn4x0"><sup class="textsuperscript">4</sup></a></span><a
+href="/assets/suites_automatiques/suites_automatiques5.html#fn4x0"><sup class="textsuperscript">4</sup></a></span><a
  id="x1-8001f4"></a>
 Plus précisément, le théorème donne une équivalence entre l&#8217;algébricité d&#8217;une série formelle à
 coefficients dans un corps fini et la nature automatique de la suite des coefficients. On va, dans un
@@ -1163,7 +1163,7 @@ class="cmmi-8">q</span></sub>, on note :
 
    <center class="math-display" >
 <img
-src="suites_automatiques24x.png" alt="             &#x2211;&#x221E;      n
+src="/assets/suites_automatiques/suites_automatiques24x.png" alt="             &#x2211;&#x221E;      n
 F (u) = Fu =     unX   .
              n=0
 " class="math-display" ></center>
@@ -1177,13 +1177,13 @@ class="ecti-1200">Exemple </span>12<span
 class="ecti-1200">.</span>  </span>On se place dans <span
 class="msbm-10x-x-120">F</span><sub><span
 class="cmr-8">2</span></sub> <span class="footnote-mark"><a
-href="assets/suites_automatiques/suites_automatiques6.html#fn5x0"><sup class="textsuperscript">5</sup></a></span><a
+href="/assets/suites_automatiques/suites_automatiques6.html#fn5x0"><sup class="textsuperscript">5</sup></a></span><a
  id="x1-9002f5"></a> .
 En utilisant la définition de la suite de Thue-Morse <span
 class="cmmi-12">t</span>, il vient :
    <center class="math-display" >
 <img
-src="suites_automatiques25x.png" alt="F (X ) =  &#x2211;   tXn   =  &#x2211;   t X2n  + &#x2211;   t    X2n+1
+src="/assets/suites_automatiques/suites_automatiques25x.png" alt="F (X ) =  &#x2211;   tXn   =  &#x2211;   t X2n  + &#x2211;   t    X2n+1
  t          n n        &#x2211; n  2n  2n   &#x2211;   n 22nn++11   &#x2211;       2n+1
                     =    n tn2X   +X   nX      +2   n tnX
                     =  F (X ) + 1+X2-+  XF (X  )
@@ -1206,7 +1206,7 @@ class="cmmi-12">X</span><span
 class="cmr-12">) </span>:
    <center class="math-display" >
 <img
-src="suites_automatiques26x.png" alt="                            X
+src="/assets/suites_automatiques/suites_automatiques26x.png" alt="                            X
 P(Y ) = (1 + X )Y2 + Y +  ------2.
                           1 + X
 " class="math-display" ></center>
@@ -1224,7 +1224,7 @@ Rudin-Shapiro <span
 class="cmmi-12">r </span>:
    <center class="math-display" >
 <img
-src="suites_automatiques27x.png" alt="(1 + X )5F (X )2 + (1 + X )4F (X ) + X3 = 0.
+src="/assets/suites_automatiques/suites_automatiques27x.png" alt="(1 + X )5F (X )2 + (1 + X )4F (X ) + X3 = 0.
 " class="math-display" ></center>
    </div>
 <!--l. 368--><p class="indent" >   Avant de continuer, il sera utile d&#8217;introduire une famille d&#8217;opérateurs sur les séries formelles qui
@@ -1241,7 +1241,7 @@ class="cmmi-12">r </span><span
 class="cmsy-10x-x-120">&#x2208;{</span><span
 class="cmr-12">0</span><span
 class="cmmi-12">,</span><img
-src="suites_automatiques28x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
+src="/assets/suites_automatiques/suites_automatiques28x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
 class="cmmi-12">,q </span><span
 class="cmsy-10x-x-120">- </span><span
 class="cmr-12">1</span><span
@@ -1251,7 +1251,7 @@ class="cmr-12">&#x039B;</span><sub><span
 class="cmmi-8">r</span></sub> :
    <center class="math-display" >
 <img
-src="suites_automatiques29x.png" alt="    &#x2211;                      &#x2211;
+src="/assets/suites_automatiques/suites_automatiques29x.png" alt="    &#x2211;                      &#x2211;
 &#x039B;r :    anXn  &#x2208; Fq [[X ]] &#x21A6;&#x2192;     aqn+rXn.
       n                     n
 " class="math-display" ></center>
@@ -1270,7 +1270,7 @@ class="cmmi-12">r </span><span
 class="cmsy-10x-x-120">&#x2208;{</span><span
 class="cmr-12">0</span><span
 class="cmmi-12">,</span><img
-src="suites_automatiques30x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
+src="/assets/suites_automatiques/suites_automatiques30x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
 class="cmmi-12">,q </span><span
 class="cmsy-10x-x-120">- </span><span
 class="cmr-12">1</span><span
@@ -1287,7 +1287,7 @@ class="cmmi-12">. </span><span
 class="ecti-1200">Alors :</span>
    <center class="math-display" >
 <img
-src="suites_automatiques31x.png" alt="&#x039B;r(F Gq) = &#x039B;r (F)G.
+src="/assets/suites_automatiques/suites_automatiques31x.png" alt="&#x039B;r(F Gq) = &#x039B;r (F)G.
 " class="math-display" ></center>
    </div>
 <!--l. 382--><p class="indent" >   Précisons maintenant ce que veut dire être algégrique sur <span
@@ -1338,7 +1338,7 @@ class="cmr-12">(</span><span
 class="cmmi-12">X</span><span
 class="cmr-12">)</span><span
 class="cmmi-12">,</span><img
-src="suites_automatiques32x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
+src="/assets/suites_automatiques/suites_automatiques32x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
 class="cmmi-12">,B</span><sub><span
 class="cmmi-8">k</span></sub><span
 class="cmr-12">(</span><span
@@ -1349,7 +1349,7 @@ class="ecti-1200">, non</span>
 class="ecti-1200">tous nuls tels que :</span>
    <center class="math-display" >
 <img
-src="suites_automatiques33x.png" alt="B0F  + B1F  q + &#x22C5;&#x22C5;&#x22C5; + BkF qk = 0
+src="/assets/suites_automatiques/suites_automatiques33x.png" alt="B0F  + B1F  q + &#x22C5;&#x22C5;&#x22C5; + BkF qk = 0
 " class="math-display" ></center> <span
 class="ecti-1200">On peut supposer en outre que </span><span
 class="cmmi-12">B</span><sub><span
@@ -1396,12 +1396,12 @@ class="cmr-8">0</span></sub> <span
 class="cmr-12">= 0 </span>:
    <center class="math-display" >
 <img
-src="suites_automatiques34x.png" alt="                  k
+src="/assets/suites_automatiques/suites_automatiques34x.png" alt="                  k
 B1F q + &#x22C5;&#x22C5;&#x22C5; + BkF q = 0
 " class="math-display" ></center> Puis, en utilisant le lemme plus haut :
    <center class="math-display" >
 <img
-src="suites_automatiques35x.png" alt="       q             qk                             qk-1
+src="/assets/suites_automatiques/suites_automatiques35x.png" alt="       q             qk                             qk-1
 &#x039B;r(B1F   + &#x22C5;&#x22C5;&#x22C5; + BkF   ) = &#x039B;r(B1)F  + &#x22C5;&#x22C5;&#x22C5; + &#x039B;r (Bk)F    = 0
 " class="math-display" ></center> Ce qui contredit alors la minimalité de <span
 class="cmmi-12">k</span>.                                                              __
@@ -1418,7 +1418,7 @@ class="ecbx-1200">Th</span><span
 class="ecbx-1200">éor</span><span
 class="ecbx-1200">ème 17 </span>(Christol, 1979)<span
 class="ecbx-1200">.</span>  </span><span class="footnote-mark"><a
-href="assets/suites_automatiques/suites_automatiques7.html#fn6x0"><sup class="textsuperscript">6</sup></a></span><a
+href="/assets/suites_automatiques/suites_automatiques7.html#fn6x0"><sup class="textsuperscript">6</sup></a></span><a
  id="x1-10002f6"></a>
 <span
 class="ecti-1200">Soit </span><span
@@ -1486,7 +1486,7 @@ class="cmmi-8">u</span></sub><span
 class="cmr-12">)</span>.
    <center class="math-display" >
 <img
-src="suites_automatiques36x.png" alt="        q-1
+src="/assets/suites_automatiques/suites_automatiques36x.png" alt="        q-1
         &#x2211;    r &#x2211;          nq
 F (u ) =    X      uqn+rX
         r=0     n
@@ -1506,25 +1506,25 @@ class="cmmi-8">q</span></sup> où <span
 class="cmmi-12">G </span>est un polynôme
    <center class="math-display" >
 <img
-src="suites_automatiques37x.png" alt="        q&#x2211;-1    &#x2211;
+src="/assets/suites_automatiques/suites_automatiques37x.png" alt="        q&#x2211;-1    &#x2211;
 F (u) =     Xr (   uqn+rXn )q
         r=0      n
 " class="math-display" ></center> Ce qui montre que :
    <center class="math-display" >
 <img
-src="suites_automatiques38x.png" alt="                      q
+src="/assets/suites_automatiques/suites_automatiques38x.png" alt="                      q
 F(u ) &#x2208; V ectv&#x2208;Ku&#x27E8;F (v) &#x27E9;
 " class="math-display" ></center> On peut ainsi répéter le processus de la même manière :
 
 
    <center class="math-display" >
 <img
-src="suites_automatiques39x.png" alt="&#x2200;k &#x2264;  d : F (u )qk &#x2208; V ectv&#x2208;K &#x27E8;F (v)qk+1&#x27E9;
+src="/assets/suites_automatiques/suites_automatiques39x.png" alt="&#x2200;k &#x2264;  d : F (u )qk &#x2208; V ectv&#x2208;K &#x27E8;F (v)qk+1&#x27E9;
                           u
 " class="math-display" ></center> Et donc par une récurrence simple, on obtient :
    <center class="math-display" >
 <img
-src="suites_automatiques40x.png" alt="              k                  d+1
+src="/assets/suites_automatiques/suites_automatiques40x.png" alt="              k                  d+1
 &#x2200;k &#x2264;  d : F (u )q &#x2208; V ectv&#x2208;Ku&#x27E8;F (v)q &#x27E9;
 " class="math-display" ></center> Mais <span
 class="cmmi-12">V ect</span><sub><span
@@ -1553,7 +1553,7 @@ class="cmmi-12">u</span><span
 class="cmr-12">)</span><sup><span
 class="cmmi-8">q</span></sup><span
 class="cmmi-12">,</span><img
-src="suites_automatiques41x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
+src="/assets/suites_automatiques/suites_automatiques41x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
 class="cmmi-12">,F</span><span
 class="cmr-12">(</span><span
 class="cmmi-12">u</span><span
@@ -1603,7 +1603,7 @@ class="cmmi-12">B</span><sub><span
 class="cmr-8">0</span></sub> non nul tels que :
    <center class="math-display" >
 <img
-src="suites_automatiques42x.png" alt="&#x2211;k               i
+src="/assets/suites_automatiques/suites_automatiques42x.png" alt="&#x2211;k               i
    Bi (X )Fu(X )q = 0
 i=0  " class="math-display" ></center>
 Posons <span
@@ -1666,7 +1666,7 @@ class="cmmi-12">C</span><sub><span
 class="cmr-8">1</span></sub><span
 class="cmr-12">)</span><span
 class="cmmi-12">,</span><img
-src="suites_automatiques43x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
+src="/assets/suites_automatiques/suites_automatiques43x.png" alt="&#x22C5;&#x22C5;&#x22C5;"  class="@cdots" ><span style="margin-left:0.3em" class="thinspace"></span><span
 class="cmmi-12">,deg</span><span
 class="cmr-12">(</span><span
 class="cmmi-12">C</span><sub><span
@@ -1674,16 +1674,16 @@ class="cmmi-8">k</span></sub><span
 class="cmr-12">)</span><span
 class="cmsy-10x-x-120">} </span>et <span
 class="cmsy-10x-x-120"><img
-src="assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>l&#8217;ensemble défini par :
+src="/assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>l&#8217;ensemble défini par :
    <center class="math-display" >
 <img
-src="suites_automatiques44x.png" alt="                        &#x2211;          i
+src="/assets/suites_automatiques/suites_automatiques44x.png" alt="                        &#x2211;          i
 H  =  {H  &#x2208; Fq[[X ]]|H  =    ki=0 DiGqu etDi &#x2208;  Fq[X ],deg (Di ) &#x2264; N }.
 " class="math-display" ></center>
 <!--l. 437--><p class="nopar" >
 <span
 class="cmsy-10x-x-120"><img
-src="assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>est un ensemble fini contenant <span
+src="/assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>est un ensemble fini contenant <span
 class="cmmi-12">F</span><sub><span
 class="cmmi-8">u</span></sub>. Pour montrer que <span
 class="cmmi-12">K</span><sub><span
@@ -1692,17 +1692,17 @@ class="cmsy-10x-x-120">&#x2200;</span><span
 class="cmmi-12">r &#x003C; q</span>,
 <span
 class="cmsy-10x-x-120"><img
-src="assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>est stable par <span
+src="/assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /> </span>est stable par <span
 class="cmr-12">&#x039B;</span><sub><span
 class="cmmi-8">r</span></sub>. Soit alors <span
 class="cmmi-12">H </span>un élément de <span
 class="cmsy-10x-x-120"><img
-src="assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /></span>, on a :
+src="/assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /></span>, on a :
 
 
    <center class="math-display" >
 <img
-src="suites_automatiques45x.png" alt="                     &#x2211;k       i       &#x2211;k                i    &#x2211;k                 i-1
+src="/assets/suites_automatiques/suites_automatiques45x.png" alt="                     &#x2211;k       i       &#x2211;k                i    &#x2211;k                 i-1
 &#x039B;r (H ) = &#x039B;r (D0Gu +     DiGqu ) = &#x039B;r (  (D0Gu  + Di )Gqu ) =    &#x039B; (D0Ci +  Di)Gqu
                      i=1              i=1                    i=1  " class="math-display" ></center>
 Comme pour tout <span
@@ -1743,7 +1743,7 @@ class="cmr-12">) </span><span
 class="cmsy-10x-x-120">&#x2208;</span>
 <span
 class="cmsy-10x-x-120"><img
-src="assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /></span>.                                                                                                                  __
+src="/assets/suites_automatiques/cmsy10-c-48.png" alt="H" class="10-120x-x-48" /></span>.                                                                                                                  __
    </div>
 <!--l. 446--><p class="noindent" >
    <h3 class="sectionHead"><span class="titlemark">4   </span> <a
@@ -1766,7 +1766,7 @@ class="ecti-1200">et </span><span
 class="cmmi-12">l </span><span
 class="ecti-1200">deux entiers multiplicativement ind</span><span
 class="ecti-1200">épendants</span><span class="footnote-mark"><a
-href="assets/suites_automatiques/suites_automatiques8.html#fn7x0"><sup class="textsuperscript">7</sup></a></span><a
+href="/assets/suites_automatiques/suites_automatiques8.html#fn7x0"><sup class="textsuperscript">7</sup></a></span><a
  id="x1-11002f7"></a>
 <span
 class="ecti-1200">et soit </span><span
@@ -1825,7 +1825,7 @@ class="ecti-1200">émonstration.</span> </span>En vertu du théorème précéden
    </div>
 <!--l. 465--><p class="indent" >   En particulier, les suites de Thue-Morse et de Rudin-Shapiro ne sont pas
 3-automatiques. <span class="footnote-mark"><a
-href="assets/suites_automatiques/suites_automatiques9.html#fn8x0"><sup class="textsuperscript">8</sup></a></span><a
+href="/assets/suites_automatiques/suites_automatiques9.html#fn8x0"><sup class="textsuperscript">8</sup></a></span><a
  id="x1-11004f8"></a>
 Il est donc intéressant de comparer ce corollaire à la conjecture suivante.
    <div class="newtheorem">
@@ -1853,7 +1853,7 @@ class="cmex-10x-x-120">&#x2211;</span>
 class="cmmi-8">n</span><span
 class="cmsy-8">&#x2208;</span><span
 class="cmmi-8">N</span></sub><img
-src="suites_automatiques46x.png" alt="un-
+src="/assets/suites_automatiques/suites_automatiques46x.png" alt="un-
 2n"  class="frac" align="middle"> <span
 class="ecti-1200">et</span> <span
 class="cmex-10x-x-120">&#x2211;</span>
@@ -1861,7 +1861,7 @@ class="cmex-10x-x-120">&#x2211;</span>
 class="cmmi-8">n</span><span
 class="cmsy-8">&#x2208;</span><span
 class="cmmi-8">N</span></sub><img
-src="suites_automatiques47x.png" alt="un
+src="/assets/suites_automatiques/suites_automatiques47x.png" alt="un
 3n"  class="frac" align="middle">
 <span
 class="ecti-1200">sont alg</span><span
@@ -1919,7 +1919,7 @@ class="cmr-12">(</span><span
 class="cmmi-12">X</span><span
 class="cmr-12">)</span><span
 class="ecti-1200">, alors le produit d&#8217;Hadamard</span><span class="footnote-mark"><a
-href="assets/suites_automatiques/suites_automatiques10.html#fn9x0"><sup class="textsuperscript">9</sup></a></span><a
+href="/assets/suites_automatiques/suites_automatiques10.html#fn9x0"><sup class="textsuperscript">9</sup></a></span><a
  id="x1-11007f9"></a>
 <span
 class="ecti-1200">de </span><span
