@@ -12,7 +12,7 @@ categories: formal language
 <meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)">
 <!-- html -->
 <meta name="src" content="suites_automatiques.tex">
-<link rel="stylesheet" type="text/css" href="suites_automatiques.css">
+<link rel="stylesheet" type="text/css" href="/static/css/suites_automatiques.css">
 </head>
 
 
