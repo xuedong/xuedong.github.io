@@ -1,0 +1,11 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}D\'efinitions et exemples}{1}
+\contentsline {subsection}{\numberline {1.1}La suite de Thue-Morse}{2}
+\contentsline {subsection}{\numberline {1.2}La suite de Rudin-Shapiro}{3}
+\contentsline {section}{\numberline {2}Th\'eor\`eme de Cobham}{4}
+\contentsline {subsection}{\numberline {2.1}Le $q$-noyau}{4}
+\contentsline {subsection}{\numberline {2.2}Th\'eor\`eme de Cobham}{5}
+\contentsline {section}{\numberline {3}Th\'eor\`eme de Christol}{6}
+\contentsline {subsection}{\numberline {3.1}Op\'erateur de Cartier}{6}
+\contentsline {subsection}{\numberline {3.2}Th\'eor\`eme de Christol}{8}
+\contentsline {section}{\numberline {4}Divers}{9}

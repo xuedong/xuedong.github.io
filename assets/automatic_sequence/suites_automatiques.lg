@@ -210,7 +210,6 @@ Css: table.multline, table.multline-star {width:100%;}
 Css: td.gather {text-align:center; }
 Css: table.gather {width:100%;}
 Css: div.gather-star {text-align:center;}
-Css: .figure img.graphics {margin-left:10%;}
 --- needs --- suites_automatiques.idv[2] ==> suites_automatiques0x.png ---
 --- needs --- suites_automatiques.idv[3] ==> suites_automatiques1x.png ---
 --- needs --- suites_automatiques.idv[4] ==> suites_automatiques2x.png ---

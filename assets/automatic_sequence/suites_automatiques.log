@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2018/dev/Debian) (preloaded format=latex 2017.11.10)  21 NOV 2017 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2018/dev/Debian) (preloaded format=latex 2017.11.10)  21 NOV 2017 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -194,125 +194,35 @@ LaTeX Info: Redefining \] on input line 2818.
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip54
 )
-(/usr/share/texlive/texmf-dist/tex/latex/auto-pst-pdf/auto-pst-pdf.sty
-Package: auto-pst-pdf 2009/04/26 v0.6 Wrapper for pst-pdf
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks34
-\XKV@tempa@toks=\toks35
-)
-\XKV@depth=\count108
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
-Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
-Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
-Package shellesc Info: Restricted shell escape enabled on input line 69.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/catchfile.sty
-Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-))
-
-Package ifplatform Warning: 
-    shell escape is disabled, so I can only detect \ifwindows.
-
-)
-\c@app@runs=\count109
- (/usr/share/texlive/texmf-dist/tex/latex/pst-pdf/pst-pdf.sty
-Package: pst-pdf 2017/06/22 v1.2d PS graphics for pdfLaTeX (RN,HjG)
-
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-\c@pspicture=\count110
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: dvips.def on input line 99.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
-))
-\Gin@req@height=\dimen115
-\Gin@req@width=\dimen116
-)
-Package pst-pdf Info: MODE: 9 (inactive mode) on input line 459.
-))
 (/usr/share/texlive/texmf-dist/tex/latex/gastex/gastex.sty
 Package: gastex 2006/11/28 v2.8
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count111
-\calc@Bcount=\count112
-\calc@Adimen=\dimen117
-\calc@Bdimen=\dimen118
+\calc@Acount=\count108
+\calc@Bcount=\count109
+\calc@Adimen=\dimen115
+\calc@Bdimen=\dimen116
 \calc@Askip=\skip55
 \calc@Bskip=\skip56
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count113
+\calc@Ccount=\count110
 \calc@Cskip=\skip57
 )
-\c@cnt@a=\count114
-\c@cnt@b=\count115
-\c@cnt@c=\count116
-\dim@x=\dimen119
-\dim@y=\dimen120
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+\c@cnt@a=\count111
+\c@cnt@b=\count112
+\c@cnt@c=\count113
+\dim@x=\dimen117
+\dim@y=\dimen118
 \temp@box=\box28
-\d@my@unit=\dimen121
-\c@cnt@@a=\count117
-\c@cnt@@b=\count118
-\c@cnt@@c=\count119
+\d@my@unit=\dimen119
+\c@cnt@@a=\count114
+\c@cnt@@b=\count115
+\c@cnt@@c=\count116
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
 Package: pstricks 2017/09/17 v0.65 LaTeX wrapper for `PSTricks' (RN,HV)
@@ -321,6 +231,10 @@ Package: pstricks 2017/09/17 v0.65 LaTeX wrapper for `PSTricks' (RN,HV)
 Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
 and LuaTeX
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -328,6 +242,10 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
@@ -339,24 +257,35 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks34
+\XKV@tempa@toks=\toks35
 )
+\XKV@depth=\count117
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count120
-\pstFP@xia=\count121
-\pstFP@xib=\count122
-\pstFP@xfa=\count123
-\pstFP@xfb=\count124
-\pstFP@rega=\count125
-\pstFP@regb=\count126
-\pstFP@regs=\count127
-\pstFP@times=\count128
+\pstFP@xs=\count118
+\pstFP@xia=\count119
+\pstFP@xib=\count120
+\pstFP@xfa=\count121
+\pstFP@xfb=\count122
+\pstFP@rega=\count123
+\pstFP@regb=\count124
+\pstFP@regs=\count125
+\pstFP@times=\count126
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks36
-\pgfutil@tempdima=\dimen122
-\pgfutil@tempdimb=\dimen123
+\pgfutil@tempdima=\dimen120
+\pgfutil@tempdimb=\dimen121
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
@@ -370,24 +299,24 @@ ex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
-\pgf@x=\dimen124
-\pgf@xa=\dimen125
-\pgf@xb=\dimen126
-\pgf@xc=\dimen127
-\pgf@y=\dimen128
-\pgf@ya=\dimen129
-\pgf@yb=\dimen130
-\pgf@yc=\dimen131
-\c@pgf@counta=\count129
-\c@pgf@countb=\count130
-\c@pgf@countc=\count131
-\c@pgf@countd=\count132
-\pgfutil@tempcnta=\count133
-\pgfutil@tempcntb=\count134
+\pgf@x=\dimen122
+\pgf@xa=\dimen123
+\pgf@xb=\dimen124
+\pgf@xc=\dimen125
+\pgf@y=\dimen126
+\pgf@ya=\dimen127
+\pgf@yb=\dimen128
+\pgf@yc=\dimen129
+\c@pgf@counta=\count127
+\c@pgf@countb=\count128
+\c@pgf@countc=\count129
+\c@pgf@countd=\count130
+\pgfutil@tempcnta=\count131
+\pgfutil@tempcntb=\count132
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen132
-\pgfmath@count=\count135
+\pgfmath@dimen=\dimen130
+\pgfmath@count=\count133
 \pgfmath@box=\box29
 \pgfmath@toks=\toks40
 \pgfmath@stack@operand=\toks41
@@ -411,60 +340,60 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count136
+\c@pgfmathroundto@lastzeros=\count134
 ))
-\pgffor@iter=\dimen133
-\pgffor@skip=\dimen134
+\pgffor@iter=\dimen131
+\pgffor@skip=\dimen132
 \pgffor@stack=\toks43
 \pgffor@toks=\toks44
 )
-\psLoopIndex=\count137
+\psLoopIndex=\count135
 
 `PSTricks' v2.77  <2017/10/04> (tvz)
-\pst@dima=\dimen135
-\pst@dimb=\dimen136
-\pst@dimc=\dimen137
-\pst@dimd=\dimen138
-\pst@dimg=\dimen139
-\pst@dimh=\dimen140
-\pst@dimm=\dimen141
-\pst@dimn=\dimen142
-\pst@dimo=\dimen143
-\pst@dimp=\dimen144
+\pst@dima=\dimen133
+\pst@dimb=\dimen134
+\pst@dimc=\dimen135
+\pst@dimd=\dimen136
+\pst@dimg=\dimen137
+\pst@dimh=\dimen138
+\pst@dimm=\dimen139
+\pst@dimn=\dimen140
+\pst@dimo=\dimen141
+\pst@dimp=\dimen142
 \pst@hbox=\box30
 \pst@ibox=\box31
 \pst@boxg=\box32
-\pst@cnta=\count138
-\pst@cntb=\count139
-\pst@cntc=\count140
-\pst@cntd=\count141
-\pst@cntg=\count142
-\pst@cnth=\count143
-\pst@cntm=\count144
-\pst@cntn=\count145
-\pst@cnto=\count146
-\pst@cntp=\count147
-\@zero=\count148
+\pst@cnta=\count136
+\pst@cntb=\count137
+\pst@cntc=\count138
+\pst@cntd=\count139
+\pst@cntg=\count140
+\pst@cnth=\count141
+\pst@cntm=\count142
+\pst@cntn=\count143
+\pst@cnto=\count144
+\pst@cntp=\count145
+\@zero=\count146
 \pst@toks=\toks45
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con)
-\psunit=\dimen145
-\psxunit=\dimen146
-\psyunit=\dimen147
-\pst@C@@rType=\count149
-\pslinewidth=\dimen148
-\psk@startLW=\dimen149
-\psk@endLW=\dimen150
+\psunit=\dimen143
+\psxunit=\dimen144
+\psyunit=\dimen145
+\pst@C@@rType=\count147
+\pslinewidth=\dimen146
+\psk@startLW=\dimen147
+\psk@endLW=\dimen148
 \pst@customdefs=\toks46
-\pslinearc=\dimen151
-\pst@symbolStep=\dimen152
-\pst@symbolWidth=\dimen153
-\pst@symbolLinewidth=\dimen154
+\pslinearc=\dimen149
+\pst@symbolStep=\dimen150
+\pst@symbolWidth=\dimen151
+\pst@symbolLinewidth=\dimen152
 \everypsbox=\toks47
-\psframesep=\dimen155
-\pslabelsep=\dimen156
-\sh@wgridXunit=\dimen157
-\sh@wgridYunit=\dimen158
-\pst@shift=\dimen159
+\psframesep=\dimen153
+\pslabelsep=\dimen154
+\sh@wgridXunit=\dimen155
+\sh@wgridYunit=\dimen156
+\pst@shift=\dimen157
 )
 File: pstricks.tex 2017/10/04 v2.77 `PSTricks' (tvz,hv)
 
@@ -477,14 +406,14 @@ Package: pst-node 2010/04/22 package wrapper for pst-node.tex
 
 (/usr/share/texlive/texmf-dist/tex/generic/pst-node/pst-node.tex
  v1.39, 2017/01/20
-\psrow=\count150
-\pscol=\count151
-\psmatrixcnt=\count152
+\psrow=\count148
+\pscol=\count149
+\psmatrixcnt=\count150
 \psrowsep=\skip58
 \pscolsep=\skip59
-\pst@args=\count153
-\num@pts=\count154
-\pst@argcnt=\count155
+\pst@args=\count151
+\num@pts=\count152
+\pst@argcnt=\count153
 )
 File: pst-node.tex 2017/01/20 1.39 `pst-node' (tvz,hv)
 )
@@ -495,15 +424,15 @@ Package: pst-tree 2009/01/25 package wrapper for pst-tree.tex
  v1.13, 2017/02/18(tvz,dg,hv)
 \pstree@rootbox=\box33
 \pstree@box=\box34
-\psnodecnt=\count156
-\pstreelevel=\count157
-\pstreecnt=\count158
-\pstree@cnt=\count159
-\pstree@stop=\count160
+\psnodecnt=\count154
+\pstreelevel=\count155
+\pstreecnt=\count156
+\pstree@cnt=\count157
+\pstree@stop=\count158
 )
 File: pst-tree.tex 2017/02/18 1.13 `pst-tree' (tvz,hv)
 )
-\c@theoreme=\count161
+\c@theoreme=\count159
 
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
 version 2017-05-09-09:21
@@ -518,7 +447,7 @@ version 2017-05-09-09:21
 version 2016-07-18-16:08
 
 --- needs --- tex4ht suites_automatiques ---
-\tmp:cnt=\count162
+\tmp:cnt=\count160
 \openout15 = `suites_automatiques.tmp'.
 
 (./suites_automatiques.tmp)
@@ -835,40 +764,6 @@ version 2017-10-26-14:53
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2017-03-30-16:04
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphicx.4ht
-version 2017-10-21-16:16
-
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2017-10-26-14:53
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
-))
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphics.4ht
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2017-10-26-14:53
---------------------------------------
---- Note --- if included graphics are of degraded quality, try the command line
- options `graphics-num' or `graphics-'. The `num' should provide the density of
- pixels in the bitmaps (e.g., 110). 
---------------------------------------
---------------------------------------
---- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
-en bounding box is unavailable try `Gin-dim+'; neither is recommended
---------------------------------------
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
-))
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/dvips.4ht
-version 2009-05-21-09:32
-
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2017-10-26-14:53
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2017-03-30-16:04
-))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pstricks.4ht
 version 2009-05-21-09:32
 
@@ -899,6 +794,15 @@ version 2017-03-30-16:04
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht
 version 2009-05-21-09:32
 )
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2017-10-26-14:53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2017-03-30-16:04
+))
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2017-10-26-14:53
 )
@@ -1007,12 +911,8 @@ l. 319 Writing suites_automatiques.idv[22] (suites_automatiques21x.png)
  [17]
 l. 321 Writing suites_automatiques.idv[23] (suites_automatiques22x.png)
 l. 325 Writing suites_automatiques.idv[24] (suites_automatiques23x.png)
-
-
-LaTeX Warning: Citation `Allouche05' on page 18 undefined on input line 339.
-
 --- file suites_automatiques5.html ---
-[18
+ [18
 
 ]
 l. 343 Writing suites_automatiques.idv[25] (suites_automatiques24x.png)
@@ -1045,32 +945,23 @@ l. 431 Writing suites_automatiques.idv[44] (suites_automatiques43x.png)
 l. 432 Writing suites_automatiques.idv[45] (suites_automatiques44x.png)
  [24]
 l. 440 Writing suites_automatiques.idv[46] (suites_automatiques45x.png)
-
-
-LaTeX Warning: Citation `Allouche03' on page 25 undefined on input line 447.
-
 --- file suites_automatiques8.html ---
-[25]
+ [25]
 --- file suites_automatiques9.html ---
 l. 468 Writing suites_automatiques.idv[47] (suites_automatiques46x.png)
 l. 469 Writing suites_automatiques.idv[48] (suites_automatiques47x.png)
 --- file suites_automatiques10.html ---
 
-No file suites_automatiques.bbl.
-[26
+(./suites_automatiques.bbl [26
 
-] (./suites_automatiques.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+]) [27] (./suites_automatiques.aux) ) 
 Here is how much of TeX's memory you used:
- 16311 strings out of 492991
- 248307 string characters out of 6135022
- 465056 words of memory out of 5000000
- 19492 multiletter control sequences out of 15000+600000
+ 15574 strings out of 492991
+ 236039 string characters out of 6135022
+ 453673 words of memory out of 5000000
+ 18817 multiletter control sequences out of 15000+600000
  23460 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,9n,46p,1218b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,9n,46p,1218b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on suites_automatiques.dvi (26 pages, 102896 bytes).
+Output written on suites_automatiques.dvi (27 pages, 104296 bytes).
