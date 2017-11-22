@@ -4,13 +4,20 @@
 		"image": "time_series.png",
 		"url": "#",
 		"date": "April 2016",
-		"tags": ["time series","clustering","dtw","data science"]
+		"tags": ["time series","clustering","dtw","data science","python"]
 	},
 	{
 		"name": "Ray Tracing",
 		"image": "ray_tracing.png",
 		"url": "#",
 		"date": "Feb 2014",
-		"tags": ["ray tracing","sdl","computer graphics"]
+		"tags": ["ray tracing","sdl","computer graphics","c++"]
+	},
+	{
+		"name": "Microprocessor Simulator",
+		"image": "micro.png",
+		"url": "#",
+		"date": "Jan 2012",
+		"tags": ["microprocessor","computer architecture","ocaml","mips"]
 	}
 ]
