@@ -4,7 +4,13 @@
 		"image": "time_series.png",
 		"url": "#",
 		"date": "April 2016",
-		"tags": ["time series","clustering","dtw"]
+		"tags": ["time series","clustering","dtw","data science"]
+	},
+	{
+		"name": "Ray Tracing",
+		"image": "ray_tracing.png",
+		"url": "#",
+		"date": "Feb 2014",
+		"tags": ["ray tracing","computer graphics"]
 	}
-
 ]
