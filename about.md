@@ -19,9 +19,10 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 <blockquote>
 
 <ul class="fa-ul" itemscope>
-	<li>
-	<a href="/static/documents/cv.pdf" class="button"><i class="fa-li fa fa-file-pdf-o"></i> Curriculum Vitæ </a>
-	</li>
+<li>
+	<i class="fa-li fa fa-file-pdf-o"></i>
+	<span>Curriculum Vitæ</span>
+</li>
 </ul>
 
 </blockquote>
