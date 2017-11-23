@@ -18,7 +18,7 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 
 <blockquote>
 <p>
-My CV is <a href="/static/documents/cv.pdf">here</a>.
+<a href="static/documents/cv.pdf" class="button"><i class="icon fa-file-pdf-o"></i> Curriculum Vitæ </a>
 </p>
 </blockquote>
 
