@@ -16,4 +16,6 @@ This page contains my avocational activities.
 
 <hr />
 
-<h3>History, Literature, Philosophy...</h3>
+<h3>Live Streaming</h3>
+
+I occasionally do live streaming on Douyu (斗鱼 in Chinese), the largest live streaming video platform in China, this is <a href="https://www.douyu.com/680727">my personal streaming room</a>.
