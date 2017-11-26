@@ -18,5 +18,17 @@
   {
     "icon": "fa-wikipedia-w",
     "link": "https://en.wikipedia.org/wiki/User:Samuelshang"
+  },
+  {
+    "icon": "fa-quora",
+    "link": "https://www.quora.com/profile/Xuedong-1"
+  },
+  {
+    "icon": "fa-twitter",
+    "link": "https://twitter.com/AbsolutSamuel"
+  },
+  {
+    "icon": "fa-google-plus",
+    "link": "https://plus.google.com/u/0/112981570340996330366"
   }
 ]
