@@ -60,4 +60,4 @@ categories: music_mathematics
 
 <p><a href="http://rrurl.cn/2mRZji">草鱼</a>原创，转载请注明</p>
 
-<p>参考文献： <br> <a href="http://rrurl.cn/7MMRvR">《律制详解》</a>  <br> <a href="http://rrurl.cn/4OgC20">【和专题】跟我和一曲阿卡贝拉</a>，by<a href="http://rrurl.cn/7TYRp2">悠扬</a>  <br> <a href="http://rrurl.cn/bn9blP">Cook N.D. &amp; Hayashi T. (2008).The Psychoacoustics of Harmony Perception. American Scientist, July-August: 311-319.</a>  <br> <a href="http://rrurl.cn/aPsKu7">Plomp, R., &amp; Levelt, W.J.M. (1965). Tonal consonances and critical bandwidth. Journal of the Acoustical Society of America, 38, 548-560.</a></p>
+<p>参考文献： <br>[1] <a href="http://rrurl.cn/7MMRvR">《律制详解》</a>  <br> <a href="http://rrurl.cn/4OgC20">【和专题】跟我和一曲阿卡贝拉</a>，by<a href="http://rrurl.cn/7TYRp2">悠扬</a>  <br> <a href="http://rrurl.cn/bn9blP">Cook N.D. &amp; Hayashi T. (2008).The Psychoacoustics of Harmony Perception. American Scientist, July-August: 311-319.</a>  <br> <a href="http://rrurl.cn/aPsKu7">Plomp, R., &amp; Levelt, W.J.M. (1965). Tonal consonances and critical bandwidth. Journal of the Acoustical Society of America, 38, 548-560.</a></p>
