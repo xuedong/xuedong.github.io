@@ -20,10 +20,10 @@ categories: music_mathematics
 
 <p>【音程的协和】</p>
 <p>前 菜上完了，下面是主菜：音程的协和。协和（consonant）这个概念，操作定义大致就是听起来和谐、悦耳。在实证研究中一般是给参与者同时播放两个正 弦音（这种音不带陪音，只有基音），调整其间的频率间隔，然后让参与者在7点量表上评价这个音程有多悦耳、多优美、多和谐之类。Plomp和Levelt 的<a href="http://rrurl.cn/21lFfT">这篇论文</a>里结合了前人和他们自己的实验结果，得到这样一条曲线来描述两个正弦音的间隔与这个音程不协和程度的关系：</p>
-<p></p><img src="http://fmn.rrimg.com/fmn062/20120715/0400/b_large_BS8q_4fd2000006f81262.jpg" alt="image"><p></p>
+<p></p><img src="http://fmn.rrimg.com/fmn062/20120715/0400/b_large_BS8q_4fd2000006f81262.jpg" alt="image"><p> </p>
 <p>图一：音程不协和度与音程中根音和冠音间隔半音数的关系（图出自《American Scientist》上的<a href="http://rrurl.cn/nBpPp2">这篇文章</a>，是P &amp; L原文Fig.10的重新制作）</p>
 <p>怎么样，这条曲线看起来很光滑圆润小正太吧？可如果是这样，难道两个音的间隔越大越协和？那为什么又要分协和音程和不协和音程呢？且慢，记得我们讲这只是两个基音之间的不协和程度，而考虑上两个音各自陪音之间的协和程度之后，这图就变成了下面的样子：</p>
-<p></p><img src="http://fmn.rrimg.com/fmn063/20120715/0405/b_large_xlRE_2df800004f541261.jpg" alt="image"><p></p>
+<p></p><img src="http://fmn.rrimg.com/fmn063/20120715/0405/b_large_xlRE_2df800004f541261.jpg" alt="image"><p> </p>
 <p>图二：考虑陪音后的音程不协和度（出自《American Scientist》，P &amp; L原文Fig.11的重新制作）</p>
 <p>光滑圆润的小正太转眼变成了小刺猬，而且这刺还不是乱长，偏偏长在0、3、4、5、7、9、12这几条线附近，是不是很神奇？我反正觉得挺神奇的。原文中没有给详细的推导过程，于是我就自己尝试推导了一下（蓝字部分）。</p>
 <p>首先图一这个小正太，怎么看怎么像一个<a href="http://rrurl.cn/iigX4x">Gamma分布</a>。我试了几次后发现它和Gamma (2,1)最为接近：</p>
