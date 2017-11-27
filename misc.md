@@ -10,12 +10,14 @@ This page contains my avocational activities.
 
 <h3>MOOC</h3>
 
-I described myself as a life learner, so I am keen on taking online courses on MOOC websites such as <a href="https://www.coursera.org">Coursera</a>, <a href="https://www.edx.org">edX</a> and <a href="https://www.udacity.com">Udacity</a>. Below is a full list of courses that I have followed and obtained a certificate.
+I describe myself as a life learner, so I am keen on taking online courses on MOOC websites such as <a href="https://www.coursera.org">Coursera</a>, <a href="https://www.edx.org">edX</a> and <a href="https://www.udacity.com">Udacity</a>. Below is a list of courses that I have followed and obtained a (verified) certificate.
 
 <blockquote>
 <ul>
   <li><a href="https://www.coursera.org/specializations/computer-fundamentals">Coursera Specialization: Fundamentals of Computing</a> - Rice University</li>
   <li><a href="https://www.coursera.org/specializations/jhu-data-science">Coursera Specialization: Data Science</a> - Johns Hopkins University</li>
+  <li><a href="https://www.coursera.org/specializations/product-management">Coursera Specialization: Software Product Management</a> (halfway) - Johns Hopkins University</li>
+  <li><a href="https://www.coursera.org/specializations/big-data">Coursera Specialization: Big Data</a> (halfway) - University of California San Diego</li>
 </ul>
 </blockquote>
 
@@ -28,7 +30,7 @@ MOOC: I am a member of <a href="http://www.edu-infinity.org/">Edu-Infinity Trans
 </p>
 <blockquote>
 <ul>
-	<li></li>
+	<li><a href="https://www.coursera.org/specializations/jhu-data-science">Coursera Specialization: Data Science</a> - Johns Hopkins University</li>, here is one example of the <a href=/static/documents/mooc_translation.pdf">volunteer certificates</a> I've been awarded as a group leader
 </ul>
 </blockquote>
 <p>
