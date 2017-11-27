@@ -42,5 +42,9 @@
   {
     "icon": "fa-youtube",
     "link": "https://www.youtube.com/user/samuelshang/featured?view_as=subscriber"
+  },
+  {
+    "icon": "fa-tripadvisor",
+    "link": "https://www.tripadvisor.com/members/Y9776YVsamuels"
   }
 ]
