@@ -30,7 +30,7 @@ MOOC: I am a member of <a href="http://www.edu-infinity.org/">Edu-Infinity Trans
 </p>
 <blockquote>
 <ul>
-	<li><a href="https://www.coursera.org/specializations/jhu-data-science">Coursera Specialization: Data Science</a> - Johns Hopkins University</li>, here is one example of the <a href="/static/documents/mooc_translation.pdf">volunteer certificates</a> I've been awarded as a group leader
+	<li><a href="https://www.coursera.org/specializations/jhu-data-science">Coursera Specialization: Data Science</a> - Johns Hopkins University, here is one example of the <a href="/static/documents/mooc_translation.pdf">volunteer certificates</a> I've been awarded as a group leader</li>
 </ul>
 </blockquote>
 <p>
