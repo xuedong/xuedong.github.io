@@ -1,5 +1,29 @@
 [
   {
+    "icon": "fa-github",
+    "link": "https://github.com/xuedong"
+  },
+  {
+    "icon": "fa-linkedin",
+    "link": "https://www.linkedin.com/in/xuedong-shang-85b7aa3a/"
+  },
+  {
+    "icon": "fa-wikipedia-w",
+    "link": "https://en.wikipedia.org/wiki/User:Samuelshang"
+  },
+  {
+    "icon": "fa-tumblr",
+    "link": "https://www.tumblr.com/blog/samuelshang-blog"
+  },
+  {
+    "icon": "fa-google-plus",
+    "link": "https://plus.google.com/u/0/112981570340996330366"
+  },
+  {
+    "icon": "fa-quora",
+    "link": "https://www.quora.com/profile/Xuedong-1"
+  },
+  {
     "icon": "fa-facebook",
     "link": "https://www.facebook.com/samuel.shang.18"
   },
@@ -8,35 +32,15 @@
     "link": "https://www.weibo.com/1802690157/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
   },
   {
-    "icon": "fa-linkedin",
-    "link": "https://www.linkedin.com/in/xuedong-shang-85b7aa3a/"
-  },
-  {
-    "icon": "fa-github",
-    "link": "https://github.com/xuedong"
-  },
-  {
-    "icon": "fa-wikipedia-w",
-    "link": "https://en.wikipedia.org/wiki/User:Samuelshang"
-  },
-  {
-    "icon": "fa-quora",
-    "link": "https://www.quora.com/profile/Xuedong-1"
-  },
-  {
     "icon": "fa-twitter",
     "link": "https://twitter.com/AbsolutSamuel"
-  },
-  {
-    "icon": "fa-google-plus",
-    "link": "https://plus.google.com/u/0/112981570340996330366"
   },
   {
     "icon": "fa-instagram",
     "link": "https://www.instagram.com/machine_hazard/"
   },
   {
-    "icon": "fa-tumblr",
-    "link": "https://www.tumblr.com/blog/samuelshang-blog"
+    "icon": "fa-youtube",
+    "link": "https://www.youtube.com/user/samuelshang/featured?view_as=subscriber"
   }
 ]
