@@ -41,7 +41,8 @@ Book translations: I also participated to some book translation projects.
 </p>
 <blockquote>
 <ul>
-  <li></li>
+  <li>TBA soon</li>
+  <li>TBA soon</li>
 </ul>
 </blockquote>
 
