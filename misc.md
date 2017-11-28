@@ -32,7 +32,7 @@ MOOC: I am a member of <a href="http://www.edu-infinity.org/">Edu-Infinity Trans
 <blockquote>
 <ul>
   <li>Here is one example of the <a href="/static/documents/mooc_translation.pdf">volunteer certificates</a> I've been awarded as a group leader from Coursera and <a href="https://www.guokr.com/">Guokr</a> (果壳 in Chinese)</li>
-  <li>Here is a <a href="/static/documents/gtc.pdf">statement of accomplishment</a> from GTC (Global Translation Community), the official international subtitle group established by Coursera itself</li>
+  <li>Here is a <a href="/static/documents/gtc.pdf">statement of accomplishment</a> from <a href="https://translate-coursera.org/">GTC</a> (Global Translation Community), the official international subtitle group established by Coursera itself, I was ranked 47th on the contribution leaderboard as a career high</li>
 	<li><a href="https://www.coursera.org/specializations/jhu-data-science">Coursera Specialization: Data Science</a> - Johns Hopkins University</li>
 </ul>
 </blockquote>
