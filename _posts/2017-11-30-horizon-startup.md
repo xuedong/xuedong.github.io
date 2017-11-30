@@ -7,4 +7,7 @@ categories: events
 
 A new session of Horizon Startup was held in Inria Lille center yesterday. Initiated in 2016, Horizon Startup is dedicated to agitate Inria researchers, post-doctorate, PhD students to spread their scientific knowledge more widely by startup creations.
 
-![my alternate text](/assets/events/horizon_startup.jpg)
+Here is a video for one of the last Horizon Startup events, a new video for our session is to be appeared soon.
+
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=roGa1DsWpoA">
+</iframe>
