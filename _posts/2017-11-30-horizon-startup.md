@@ -9,5 +9,4 @@ A new session of Horizon Startup was held in Inria Lille center yesterday. Initi
 
 Here is a video for one of the last Horizon Startup events, a new video for our session is to be appeared soon.
 
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=roGa1DsWpoA">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/roGa1DsWpoA" frameborder="0" allowfullscreen></iframe>
