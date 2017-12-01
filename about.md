@@ -42,6 +42,7 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 </ul>
 <p>I'm also interested in:</p>
 <ul>
+	<li>online learning</li>
 	<li>deep learning</li>
 	<li>natural language processing</li>
 	<li>time series</li>
