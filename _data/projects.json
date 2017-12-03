@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "Reduced Ordered Binary Decision Diagram",
-		"image": "robdd.ps",
+		"image": "robdd.png",
 		"url": "#",
 		"date": "April 2015",
 		"tags": ["logic", "ocaml"]
