@@ -19,5 +19,12 @@
 		"url": "#",
 		"date": "Jan 2012",
 		"tags": ["microprocessor","computer architecture","ocaml","mips"]
+	},
+	{
+		"name": "Reduced Ordered Binary Decision Diagram",
+		"image": "robdd.ps",
+		"url": "#",
+		"date": "April 2015",
+		"tags": ["logic", "ocaml"]
 	}
 ]
