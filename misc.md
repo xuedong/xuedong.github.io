@@ -40,6 +40,13 @@ MOOC: I am a member of <a href="http://www.edu-infinity.org/">Edu-Infinity Trans
   <li>Here is one example of the <a href="/static/documents/mooc_translation.pdf">volunteer certificates</a> I've been awarded as a group leader from Coursera and <a href="https://www.guokr.com/">Guokr</a> (果壳 in Chinese)</li>
   <li>Here is a <a href="/static/documents/gtc.pdf">statement of accomplishment</a> from <a href="https://translate-coursera.org/">GTC</a> (Global Translation Community), the official international subtitle group established by Coursera itself, I was ranked 47th on the contribution leaderboard as a career high</li>
 	<li><a href="https://www.coursera.org/specializations/jhu-data-science">Coursera Specialization: Data Science</a> - Johns Hopkins University</li>
+  <li><a href="https://www.coursera.org/specializations/music-production">Coursera Specialization: Music Production</a> - Berklee College of Music</li>
+  <li><a href="https://www.coursera.org/learn/roman-architecture">Coursera: Roman Architecture</a> - Yale University</li>
+  <li><a href="https://www.coursera.org/learn/learning-how-to-learn">Coursera: Learning How to Learn: Powerful Mental Tools to Help You Master Tough Subjects</a> - University of California, San Diego</li>
+  <li><a href="https://www.coursera.org/learn/single-variable-calculus">Coursera: Single Variable Calculus</a> - University of Pennsylvania</li>
+  <li><a href="https://www.coursera.org/learn/droits-de-lhomme">Coursera: Introduction aux droits de l'homme</a> - Université de Genève</li>
+  <li><a href="https://www.edx.org/course/ignorance-wu-zhi-anux-igno101x">edX: Ignorance!</a> - Australian National University</li>
+  <li>PS: I am also fascinated by Natural Language Processing techniques applied on machine translation...
 </ul>
 </blockquote>
 <p>
@@ -47,7 +54,7 @@ Book translations: I also participated to some book translation projects.
 </p>
 <blockquote>
 <ul>
-  <li>TBA soon</li>
+  <li>A book based on the ignorance course I have mentioned above to be appeared soon...</li>
   <li>TBA soon</li>
 </ul>
 </blockquote>
