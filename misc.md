@@ -10,7 +10,7 @@ This page contains my avocational activities.
 
 <h3>MOOC</h3>
 
-I describe myself as a life learner, so I am keen on taking online courses on MOOC websites such as <a href="https://www.coursera.org">Coursera</a>, <a href="https://www.edx.org">edX</a> and <a href="https://www.udacity.com">Udacity</a>. Below is an incomplete list of courses that I have followed and obtained a (verified) certificate.
+I describe myself as a life learner, so I am keen on taking online courses on MOOC websites such as <a href="https://www.coursera.org">Coursera</a>, <a href="https://www.edx.org">edX</a> and <a href="https://www.udacity.com">Udacity</a>. Below is an incomplete list of courses that I have followed and obtained a (verified) certificate concurrently with my academic curriculum.
 
 <blockquote>
 <ul>
@@ -21,6 +21,8 @@ I describe myself as a life learner, so I am keen on taking online courses on MO
   <li>Coursera: Computer Networks (course non available anymore) - University of Columbia</li>
   <li><a href="https://www.coursera.org/learn/game-programming">Coursera: Begin Game Programming with C#</a> - University of Colorado System</li>
   <li>Coursera: Heterogeneous Parallel Programming (course non available anymore)- University of Illinois</li>
+  <li><a href="https://www.coursera.org/learn/programmation-orientee-objet-java">Coursera: Initiation et introduction à la programmation orienté objet (en Java)</a> - École Polytechnique Fédérale de Lausanne</li>
+  <li><a href="https://www.coursera.org/learn/programmation-orientee-objet-cpp">Coursera: Initiation et introduction à la programmation orienté objet (en C++)</a> - École Polytechnique Fédérale de Lausanne</li>
   <li><a href="https://www.coursera.org/learn/financial-engineering-1">Coursera: Financial Engineering and Risk Management</a> - Columbia University</li>
   <li><a href="https://www.edx.org/course/chinese-history-warring-states-tang-tsinghuax-00612642x">edX: 资治通鉴</a> - 清华大学</li>
 </ul>
