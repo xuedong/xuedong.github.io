@@ -46,7 +46,7 @@ MOOC: I am a member of <a href="http://www.edu-infinity.org/">Edu-Infinity Trans
   <li><a href="https://www.coursera.org/learn/single-variable-calculus">Coursera: Single Variable Calculus</a> - University of Pennsylvania</li>
   <li><a href="https://www.coursera.org/learn/droits-de-lhomme">Coursera: Introduction aux droits de l'homme</a> - Université de Genève</li>
   <li><a href="https://www.edx.org/course/ignorance-wu-zhi-anux-igno101x">edX: Ignorance!</a> - Australian National University</li>
-  <li>PS: I am also fascinated by Natural Language Processing techniques applied on machine translation...
+  <li>PS: I am also fascinated by Natural Language Processing techniques applied on machine translation...</li>
 </ul>
 </blockquote>
 <p>
