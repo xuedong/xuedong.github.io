@@ -18,6 +18,10 @@ I describe myself as a life learner, so I am keen on taking online courses on MO
   <li><a href="https://www.coursera.org/specializations/jhu-data-science">Coursera Specialization: Data Science</a> - Johns Hopkins University</li>
   <li><a href="https://www.coursera.org/specializations/product-management">Coursera Specialization: Software Product Management</a> (halfway) - Johns Hopkins University</li>
   <li><a href="https://www.coursera.org/specializations/big-data">Coursera Specialization: Big Data</a> (halfway) - University of California San Diego</li>
+  <li>Coursera: Computer Networks (course non available anymore) - University of Columbia</li>
+  <li><a href="https://www.coursera.org/learn/game-programming">Coursera: Begin Game Programming with C#</a> - University of Colorado System</li>
+  <li>Coursera: Heterogeneous Parallel Programming (course non available anymore)- University of Illinois</li>
+  <li><a href="https://www.coursera.org/learn/financial-engineering-1">Coursera: Financial Engineering and Risk Management</a> - Columbia University</li>
   <li><a href="https://www.edx.org/course/chinese-history-warring-states-tang-tsinghuax-00612642x">edX: 资治通鉴</a> - 清华大学</li>
 </ul>
 </blockquote>
