@@ -63,13 +63,13 @@ Book translations: I also participated to some book translation projects.
 
 <h3>Live Streaming</h3>
 
-I occasionally do live streaming on Douyu (斗鱼 in Chinese), the largest live streaming video platform in China, this is <a href="https://www.douyu.com/680727">my personal streaming room</a>.
+I occasionally do live streaming on Douyu (斗鱼 in Chinese), the largest live streaming video platform in China, this is my <a href="https://www.douyu.com/680727">personal streaming room</a>.
 
 <hr />
 
 <h3>Wikipedia</h3>
 
-I am working on some Wikipedia projects especially in Chinese. You can find my English user page from my social links. I also have user pages in other languages (Chinese Mandarin, Japanese, French). My current task is to create/edit/translate machine learning pages in Chinese. If you are also interested, please kindly leave me some messages in my <a href="https://zh.wikipedia.org/wiki/User_talk:Samuelshang">user talk</a> page.
+I am working on some Wikipedia projects especially in Chinese. You can find my English user page from my social links. I also have user pages in other languages (Chinese Mandarin, Japanese, French). My current task is to create/edit/translate machine learning pages in Chinese. If you are also interested, please kindly leave me some messages in my <a href="https://zh.wikipedia.org/wiki/User_talk:Samuelshang">user talk page</a>.
 
 <hr />
 
