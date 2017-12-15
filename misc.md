@@ -58,6 +58,9 @@ Book translations: I also participated to some book translation projects.
   <li>TBA soon</li>
 </ul>
 </blockquote>
+<p>
+Google Translate Community: I am a member of Google Translate Community, this project aims at enhancing machine translation AI of Google.
+</p>
 
 <hr />
 
