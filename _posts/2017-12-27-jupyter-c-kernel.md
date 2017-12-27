@@ -19,9 +19,9 @@ Works only on Linux and OS X. Windows is not supported yet. If you want to use t
 
 ### Instructions
  * `sudo pip install jupyter-c-kernel`
- * `sudo install_c_kernel`
- * `jupyter-notebook`. Enjoy!
+ * `sudo install_c_kernel` <- `sudo` is indispensable in some environments
+ * `jupyter notebook`. Enjoy!
 
 ## Troubleshooting
 
-Above are the instructions from the original installation guide page. It says "Enjoy!", well, not yet.
+Above are the instructions from the original installation guide page. It says "Enjoy!", well, not yet. Your code will still not be executable for now. The issue here is when you install with `pip`, it doesn't pull in the `resources/` folder as Docker does (so when you are using Docker, you will not face this issue). The solution is very simple, you just need to download the folder from the repository, then put it into the folder where your jupyter-c-kernel is installed. For example, I am using ananconda, thus put it into `/home/username/anacoda3/lib/python3.6/site-packages/`. Then launch `jupyter notebook`, enjoy!
