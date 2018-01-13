@@ -2,7 +2,7 @@
 	{
 		"name": "Time Series Clustering",
 		"image": "time_series.png",
-		"url": "#",
+		"url": "https://github.com/xuedong/time-series",
 		"date": "April 2016",
 		"tags": ["time series","clustering","dtw","data science","python"]
 	},
@@ -23,7 +23,7 @@
 	{
 		"name": "Reduced Ordered Binary Decision Diagram",
 		"image": "robdd.png",
-		"url": "#",
+		"url": "https://github.com/xuedong/robdd",
 		"date": "April 2015",
 		"tags": ["logic", "ocaml"]
 	},
