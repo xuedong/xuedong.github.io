@@ -47,5 +47,12 @@
 		"url": "#",
 		"date": "Jan 2017",
 		"tags": ["n-gram", "grammar induction", "matlab"]
+	},
+	{
+		"name": "Localization and Classification of Multi-channel Sound Sources",
+		"image": "smart-voice.png",
+		"url": "#",
+		"date": "Jan 2017",
+		"tags": ["mfcc", "tdoa", "lstm", "python"]
 	}
 ]
