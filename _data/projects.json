@@ -40,5 +40,12 @@
 		"url": "https://github.com/xuedong/project-euler",
 		"date": "Dec 2017",
 		"tags": ["number theory", "maths", "ocaml"]
+	},
+	{
+		"name": "Music Style Classification and Generation",
+		"image": "sheet.png",
+		"url": "#",
+		"date": "Jan 2017",
+		"tags": ["n-gram", "grammar induction", "matlab"]
 	}
 ]
