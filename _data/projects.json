@@ -18,7 +18,7 @@
 		"image": "micro.png",
 		"url": "https://github.com/xuedong/micro-simul",
 		"date": "Jan 2012",
-		"tags": ["microprocessor","computer architecture","ocaml","mips"]
+		"tags": ["microprocessor","ocaml","mips"]
 	},
 	{
 		"name": "Reduced Ordered Binary Decision Diagram",
@@ -44,14 +44,14 @@
 	{
 		"name": "Music Style Classification and Generation",
 		"image": "sheet.png",
-		"url": "#",
+		"url": "https://github.com/xuedong/auto-music",
 		"date": "Jan 2017",
 		"tags": ["n-gram", "grammar induction", "matlab"]
 	},
 	{
 		"name": "Localization and Classification of Multi-channel Sound Sources",
-		"image": "smart-voice.png",
-		"url": "#",
+		"image": "smart_voice.png",
+		"url": "https://github.com/xuedong/smart-voice",
 		"date": "Jan 2017",
 		"tags": ["mfcc", "tdoa", "lstm", "python"]
 	}
