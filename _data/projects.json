@@ -39,7 +39,7 @@
 		"image": "project_euler.png",
 		"url": "https://github.com/xuedong/project-euler",
 		"date": "Dec 2017",
-		"tags": ["number theory", "maths", "ocaml"]
+		"tags": ["number theory", "computational arithmetic", "maths", "ocaml"]
 	},
 	{
 		"name": "Music Style Classification and Generation",
@@ -49,7 +49,7 @@
 		"tags": ["n-gram", "grammar induction", "matlab"]
 	},
 	{
-		"name": "Localization and Classification of Multi-channel Sound Sources",
+		"name": "Localization of Multi-channel Sound Sources",
 		"image": "smart_voice.png",
 		"url": "https://github.com/xuedong/smart-voice",
 		"date": "Jan 2017",
