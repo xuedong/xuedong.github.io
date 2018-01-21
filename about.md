@@ -8,7 +8,7 @@ permalink: /about/
 
 <blockquote>
 <p>
-I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inria Lille-Nord Europe</a> in team <a href="https://team.inria.fr/sequel/">SequeL</a> under the supervision of <a href="http://chercheurs.lille.inria.fr/ekaufman/index.html">Emilie Kaufmann</a> and <a href="http://researchers.lille.inria.fr/~valko/hp/">Michal Valko</a>. My research focuses on multi-armed bandits and its applications (hyper-parameter optimization for machine learning, online algorithm selection, etc). Before I received a BSc and a MSc of Computer Science from Ecole normale supérieure de Cachan (Rennes Campus) and a BSc of Mathematics from Université Pierre et Marie Curie (Paris VI).
+I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inria Lille-Nord Europe</a> in team <a href="https://team.inria.fr/sequel/">SequeL</a> under the supervision of <a href="http://chercheurs.lille.inria.fr/ekaufman/index.html">Emilie Kaufmann</a> and <a href="http://researchers.lille.inria.fr/~valko/hp/">Michal Valko</a>. My current  research focuses on multi-armed bandits and its applications (hyper-parameter optimization for machine learning, online algorithm selection, etc). Before I received a BSc and a MSc of Computer Science from Ecole normale supérieure de Cachan (Rennes Campus) and a BSc of Mathematics from Université Pierre et Marie Curie (Paris VI).
 </p>
 </blockquote>
 
