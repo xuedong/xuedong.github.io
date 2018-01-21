@@ -30,7 +30,7 @@
 	{
 		"name": "Burger and Teddybear Game",
 		"image": "burger_teddy.png",
-		"url": "#",
+		"url": "https://github.com/xuedong/teddy",
 		"date": "May 2015",
 		"tags": ["game programming", "c#"]
 	},
