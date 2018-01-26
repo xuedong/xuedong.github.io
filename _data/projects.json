@@ -9,7 +9,7 @@
 	{
 		"name": "Ray Tracing",
 		"image": "ray_tracing.png",
-		"url": "assets/ray_tracing/index.html",
+		"url": "https://xuedong.github.io/assets/ray_tracing/index.html",
 		"date": "Feb 2014",
 		"tags": ["ray tracing","sdl","computer graphics","c++"]
 	},
