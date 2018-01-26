@@ -54,7 +54,7 @@
 		"url": "https://github.com/xuedong/smart-voice",
 		"date": "Jan 2017",
 		"tags": ["mfcc", "tdoa", "lstm", "python"]
-	}
+	},
 	{
 		"name": "Awalé",
 		"image": "awale.png",
