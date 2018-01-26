@@ -55,4 +55,11 @@
 		"date": "Jan 2017",
 		"tags": ["mfcc", "tdoa", "lstm", "python"]
 	}
+	{
+		"name": "Awalé",
+		"image": "awale.png",
+		"url": "https://github.com/xuedong/awale",
+		"date": "Sep 2014",
+		"tags": ["game", "ai", "ruby"]
+	}
 ]
