@@ -1,0 +1,119 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>2048朝代版 - 5*5 Version</title>
+
+  <link href="style/main.css" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="meta/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
+
+  <meta property="og:title" content="2048 game"/>
+  <meta property="og:site_name" content="2048 game"/>
+</head>
+<body>
+
+  <div class="container">
+<p class="game-explanation">
+    如果觉得太丧心病狂坚持不住了可以回去简单版： <a href="http://oprilzeng.github.io/2048/">http://oprilzeng.github.io/2048/</a> </p>
+    <hr>
+    <p>
+    <strong class="important">Note:</strong> This is a fork from <a href="http://gabrielecirulli.github.io/2048">http://gabrielecirulli.github.io/2048</a> created by <a href="http://gabrielecirulli.com" target="_blank">Gabriele Cirulli.</a>    
+<br>鉴于这个版本火得太莫名其妙了，我还是把<strong>这句话↑</strong>搬到上面来吧...本网页也只是2048的众多恶搞改编版中的一个。<br>想donate的话欢迎戳链接去捐助给2048原作者。</p>
+    <hr>
+
+    <div class="heading">
+      <h1 class="title">PRC</h1>
+      <div class="scores-container">
+        <div class="score-container">0</div>
+        <div class="best-container">0</div>
+      </div>
+    </div>
+    <p class="game-intro">合并方块，努力到达 <strong>PRC</strong> 时代吧！</p>
+    <div class="game-container">
+      <div class="game-message">
+        <p></p>
+        <div class="lower">
+          <a class="retry-button">Try again</a>
+          <div class="score-sharing"></div>
+        </div>
+      </div>
+
+      <div class="grid-container">
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+      </div>
+
+      <div class="tile-container">
+
+      </div>
+    </div>
+    <p class="game-explanation">
+      <strong class="important">规则:</strong> 使用 <strong>上下左右键</strong> 移动方块（触屏设备请直接滑动手指），相同的两个朝代合并后会变成 <strong>更新的一个</strong>。
+    </p>
+    <hr>
+       <p><a href="http://www.oprilzeng.com/2048">http://www.oprilzeng.com/2048</a><br><a href="http://www.oprilzeng.com/2048/full">http://www.oprilzeng.com/2048/full</a><br><a href="http://oprilzeng.github.io/2048">http://oprilzeng.github.io/2048</a><br><a href="http://oprilzeng.github.io/2048/full">http://oprilzeng.github.io/2048/full</a><br>以上四个地址以外的所有“朝代版2048”（包括网页和APP）均与本人无关，提醒大家使用时注意隐私安全。</p>
+    <hr>
+    <p>
+    这个算不算<strong>单线程RPG游戏</strong>？<br>你觉得是那就是咯。</p>
+    <hr> 
+    <p>
+    不知道后面的样式会不会特别丑，反正我没试着玩下去..以及这个也不全哦十六国啥的还没加上呢<br>by <a href="http://weibo.com/compileerror" target="_blank">Opril Zeng</a></p>
+  </div>
+
+  <script src="js/animframe_polyfill.js"></script>
+  <script src="js/keyboard_input_manager.js"></script>
+  <script src="js/html_actuator.js"></script>
+  <script src="js/grid.js"></script>
+  <script src="js/tile.js"></script>
+  <script src="js/local_score_manager.js"></script>
+  <script src="js/game_manager.js"></script>
+  <script src="js/application.js"></script>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F63420b9558ce85b4619e0f4f1877517d' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<img border="0" src="style/131072.jpg" width="0" height="0"><img border="0" src="style/65536.jpg" width="0" height="0">
+</body>
+</html>

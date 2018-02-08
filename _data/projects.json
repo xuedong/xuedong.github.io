@@ -61,5 +61,12 @@
 		"url": "https://github.com/xuedong/awale",
 		"date": "Sep 2014",
 		"tags": ["game", "ai", "ruby"]
+	},
+	{
+		"name": "2048 Eduinfinity",
+		"image": "",
+		"url": "https://xuedong.github.io/assets/2048/index.html",
+		"date": "Sep 2015",
+		"tags": ["game", "edu-infinity", "javascript", "html/css"]
 	}
 ]
