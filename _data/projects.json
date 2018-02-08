@@ -64,7 +64,7 @@
 	},
 	{
 		"name": "2048 Eduinfinity",
-		"image": "",
+		"image": "2048.png",
 		"url": "https://xuedong.github.io/assets/2048/index.html",
 		"date": "Sep 2015",
 		"tags": ["game", "edu-infinity", "javascript", "html/css"]
