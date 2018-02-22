@@ -72,6 +72,10 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 	<i class="fa-li fa fa-phone"></i>
 	<span>(+33) 6 51 88 xx xx</span>
 	</li>
+
+	<li>
+	I'm quite active on different social networks, however please refrain from following me on Instagram, Tumblr and Pinterest, don't ask why ;)
+	</li>
 </ul>
 
 </blockquote>
