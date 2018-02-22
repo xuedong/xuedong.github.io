@@ -74,7 +74,8 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 	</li>
 
 	<li>
-	I'm quite active on different social networks, however please refrain from following me on Instagram, Tumblr and Pinterest, don't ask why ;)
+	<i class="fa-li fa fa-hand-peace-o"></i>
+	<span>I'm quite active on different social networks, however please refrain from following me on Instagram, Tumblr and Pinterest, don't ask why ;)</span>
 	</li>
 </ul>
 
