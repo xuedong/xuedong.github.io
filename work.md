@@ -61,6 +61,6 @@ permalink: /work/
 <div><B>Services</B></div>
 
 <p>
-  NIPS 2017 - External Reviewer
+  NIPS 2017 - External Reviewer<br>
   ICML 2018 - External Reviewer
 </p>
