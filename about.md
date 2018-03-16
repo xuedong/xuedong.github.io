@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![my alternate text](/static/img/epigram.png)
+
 <h3>Short Bio</h3>
 
 <blockquote>
