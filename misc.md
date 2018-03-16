@@ -77,3 +77,5 @@ I am working on some Wikipedia projects especially in Chinese. You can find my E
 <hr />
 
 <h3>Travel</h3>
+
+I love traveling and enjoy authentic local gourmet, if you want see where I've been, just check out my <a href="https://www.tripadvisor.com/members/Y9776YVsamuels">tripadvisor</a> profile. I may think of starting a travel blog in the near future as well.
