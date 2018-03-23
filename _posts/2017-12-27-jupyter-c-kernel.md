@@ -12,15 +12,17 @@ Using Jupyter Notebook with a C kernel? That's possible with the <a href="https:
 Works only on Linux and OS X. Windows is not supported yet. If you want to use this project on Windows, please use Docker.
 
 ### Dependencies
-  * gcc
-  * jupyter
-  * python 3
-  * pip
+
+-   gcc
+-   jupyter
+-   python 3
+-   pip
 
 ### Instructions
- * `sudo pip install jupyter-c-kernel`
- * `sudo install_c_kernel` <- `sudo` is indispensable in some environments
- * `jupyter notebook`. Enjoy!
+
+-   `sudo pip install jupyter-c-kernel`
+-   `sudo install_c_kernel` &lt;- `sudo` is indispensable in some environments
+-   `jupyter notebook`. Enjoy!
 
 ## Troubleshooting
 

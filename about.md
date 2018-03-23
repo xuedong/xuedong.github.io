@@ -63,17 +63,14 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 	<i class="fa-li fa fa-envelope"></i>
 	<span><pre><code class="language-ocaml">List.map (fun x -> "xuedong.shang@" ^ x ^ ".fr") ["inria"; "ens-rennes"; "univ-lille1"]</code></pre></span>
 	</li>
-
 	<li>
 	<i class="fa-li fa fa-map-marker"></i>
 	<span>SequeL<br>Inria Lille &ndash; Nord Europe<br>40 Avenue du Halley<br>59650 Villeneuve-d'Ascq, France</span>
 	</li>
-
 	<li>
 	<i class="fa-li fa fa-phone"></i>
 	<span>(+33) 6 51 88 xx xx</span>
 	</li>
-
 	<li>
 	<i class="fa-li fa fa-hand-peace-o"></i>
 	<span>I'm quite active on different social networks, however please refrain from following me on Instagram, Tumblr and Pinterest, don't ask why ;)</span>
