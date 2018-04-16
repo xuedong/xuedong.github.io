@@ -42,7 +42,7 @@ permalink: /work/
 </div>
 
 <div>
-  <p>Internship \& Master Thesis: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/bandits.pdf">Hierarchical Bandits for Black Box Optimization and Monte-Carlo Tree Search</a>, under the supervison of Emilie Kaufmann & Michal
+  <p>Internship & Master Thesis: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/bandits.pdf">Hierarchical Bandits for Black Box Optimization and Monte-Carlo Tree Search</a>, under the supervison of Emilie Kaufmann & Michal
     Valko
   </p>
 </div>
