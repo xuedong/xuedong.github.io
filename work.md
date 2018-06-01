@@ -65,7 +65,7 @@ permalink: /work/
 <hr />
 
 <div>
-  <B>Other Experiences</B>
+  <B>Talks and Other Experiences</B>
 </div>
 
 <hr />
