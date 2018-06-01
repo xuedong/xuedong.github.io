@@ -70,7 +70,7 @@ permalink: /work/
 
 <div>
 <ul>
-  <li><i>CIMI Optimization and Learning Workshop</i>, Toulouse, France, September 10-13, 2018 (poster?)</li>
+  <li><i><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/">CIMI Optimization and Learning Workshop</a></i>, Toulouse, France, September 10-13, 2018 (poster?)</li>
 </ul>
 </div>
 
