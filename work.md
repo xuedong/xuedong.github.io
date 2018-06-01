@@ -68,6 +68,10 @@ permalink: /work/
   <B>Talks and Other Experiences</B>
 </div>
 
+<div>
+  <p>CIMI Optimization and Learning Workshop, Toulouse, France, September 10-13, 2018 (poster?)</p>
+</div>
+
 <hr />
 
 <div>
