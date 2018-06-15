@@ -74,6 +74,7 @@ permalink: /work/
 <div>
   <p>Internship: 06/2015-07/2015, Team Magnet, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/recommender.pdf">Recommender System</a> (in French), under the supervision of Marc Tommasi</p>
 </div>
+</blockquote>
 
 <hr />
 
