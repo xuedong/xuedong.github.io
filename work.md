@@ -27,7 +27,7 @@ permalink: /work/
 <h4><B>Workshops</B></h4>
 
 <blockquote>
-<ul>
+<ul style="list-style-type:square">
   <li>
     <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko: <em><a href="">TBA</a></em>.<br />
     <a href="https://ewrl.wordpress.com/ewrl14-2018/">EWRL 2018</a>, Lille, France. [poster]
