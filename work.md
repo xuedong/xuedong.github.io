@@ -4,29 +4,27 @@ title: Research and Publications
 permalink: /work/
 ---
 
-<div>
-  <B>Conferences</B>
-</div>
+<h4><B>Conferences</B></h4>
 
-<div>
-  <p>TBA
-  </p>
-</div>
-
-<hr />
-
-<div>
-  <B>Journals</B>
-</div>
-
-<div>
-  <p>TBA
-  </p>
-</div>
+<blockquote>
+<ul>
+  TBA
+</ul>
+</blockquote>
 
 <hr />
 
-<h3><B>Workshops</B></h3>
+<h4><B>Journals</B></h4>
+
+<blockquote>
+<ul>
+  TBA
+</ul>
+</blockquote>
+
+<hr />
+
+<h4><B>Workshops</B></h4>
 
 <blockquote>
 <ul>
@@ -39,18 +37,17 @@ permalink: /work/
 
 <hr />
 
-<div>
-  <B>Preprint</B>
-</div>
+<h4><B>Preprints</B></h4>
 
-<div>
-  <p>TBA
-  </p>
-</div>
+<blockquote>
+<ul>
+  TBA
+</ul>
+</blockquote>
 
 <hr />
 
-<h3><B>Thesis and Reports</B></h3>
+<h4><B>Thesis and Reports</B></h4>
 
 <blockquote>
 <ul>
@@ -71,22 +68,23 @@ permalink: /work/
 
 <hr />
 
-<div>
-  <B>Talks and Other Experiences</B>
-</div>
+<h4><B>Talks and Other Experiences</B></h4>
 
-<div>
+<blockquote>
 <ul>
-  <li><i><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/">CIMI Optimization and Learning Workshop</a></i>, Toulouse, France, September 10-13, 2018 (poster?)</li>
+  <li><i><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/">CIMI Optimization and Learning Workshop</a></i>, Toulouse, France, September 10-13, 2018 [poster?]</li>
 </ul>
+</blockquote>
+
 </div>
 
 <hr />
 
-<div>
-  <B>Services</B>
-</div>
+<h4><B>Services</B></h4>
 
-<p>
-  NIPS 2017 - External Reviewer<br> ICML 2018 - External Reviewer
-</p>
+<blockquote>
+<ul>
+  <li>NIPS 2017 - External Reviewer</li>
+  <li>ICML 2018 - External Reviewer</li>
+</ul>
+</blockquote>
