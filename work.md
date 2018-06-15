@@ -76,8 +76,6 @@ permalink: /work/
 </ul>
 </blockquote>
 
-</div>
-
 <hr />
 
 <h4><B>Services</B></h4>
