@@ -35,7 +35,7 @@ permalink: /work/
   <li>
     <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko:<br />
     <em>TBA</em>.<br />
-    <a href="https://ewrl.wordpress.com/ewrl14-2018/">EWRL 2018</a>, Lille, France. [Poster]
+    <a href="https://ewrl.wordpress.com/ewrl14-2018/">EWRL 2018</a>, Lille, France. [poster]
   </li>
 </ul>
 </div>
@@ -57,16 +57,13 @@ permalink: /work/
   <B>Thesis and Reports</B>
 </div>
 
-<div>
-  <p>Internship & Master Thesis: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/bandits.pdf">Hierarchical Bandits for Black Box Optimization and Monte-Carlo Tree Search</a>, under the supervison of Emilie Kaufmann & Michal
-    Valko
-  </p>
-</div>
+<blockquote>
+<ul>
+  <li>Internship & Master Thesis: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <em><a href="/static/documents/bandits.pdf">Hierarchical Bandits for Black Box Optimization and Monte-Carlo Tree Search</a></em>, under the supervison of Emilie Kaufmann & Michal Valko
+  </li>
 
-<div>
-  <p>Internship: 05/2016-07/2016, Yamamoto-Cuturi Lab., Graduate School of Informatics, Kyoto University, Kyoto, Japan, <a href="/static/documents/optimal_transport.pdf">Optimal Transport Geometry for Sentiment Analysis</a>, under the supervision of Marco
-    Cuturi
-  </p>
+  <li>Internship: 05/2016-07/2016, Yamamoto-Cuturi Lab., Graduate School of Informatics, Kyoto University, Kyoto, Japan, <em><a href="/static/documents/optimal_transport.pdf">Optimal Transport Geometry for Sentiment Analysis</a></em>, under the supervision of Marco Cuturi
+  </li>
 </div>
 
 <div>
