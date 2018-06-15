@@ -53,9 +53,7 @@ permalink: /work/
 
 <hr />
 
-<div>
-  <B>Thesis and Reports</B>
-</div>
+<h3><B>Thesis and Reports</B></h3>
 
 <blockquote>
 <ul>
