@@ -37,6 +37,7 @@ permalink: /work/
     <em>TBA</em>.<br />
     <a href="https://ewrl.wordpress.com/ewrl14-2018/">EWRL 2018</a>, Lille, France. [Poster]
   </li>
+</ul>
 </div>
 
 <hr />
