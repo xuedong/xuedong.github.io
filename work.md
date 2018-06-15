@@ -7,7 +7,7 @@ permalink: /work/
 <h4><B>Conferences</B></h4>
 
 <blockquote>
-<ul>
+<ul style="list-style-type:square">
   TBA
 </ul>
 </blockquote>
@@ -17,7 +17,7 @@ permalink: /work/
 <h4><B>Journals</B></h4>
 
 <blockquote>
-<ul>
+<ul style="list-style-type:square">
   TBA
 </ul>
 </blockquote>
@@ -40,7 +40,7 @@ permalink: /work/
 <h4><B>Preprints</B></h4>
 
 <blockquote>
-<ul>
+<ul style="list-style-type:square">
   TBA
 </ul>
 </blockquote>
@@ -50,7 +50,7 @@ permalink: /work/
 <h4><B>Thesis and Reports</B></h4>
 
 <blockquote>
-<ul>
+<ul style="list-style-type:square">
   <li>Internship & Master Thesis: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <em><a href="/static/documents/bandits.pdf">Hierarchical Bandits for Black Box Optimization and Monte-Carlo Tree Search</a></em>, under the supervison of Emilie Kaufmann & Michal Valko
   </li>
 
@@ -71,7 +71,7 @@ permalink: /work/
 <h4><B>Talks and Other Experiences</B></h4>
 
 <blockquote>
-<ul>
+<ul style="list-style-type:square">
   <li><i><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/">CIMI Optimization and Learning Workshop</a></i>, Toulouse, France, September 10-13, 2018 [poster?]</li>
 </ul>
 </blockquote>
@@ -81,7 +81,7 @@ permalink: /work/
 <h4><B>Services</B></h4>
 
 <blockquote>
-<ul>
+<ul style="list-style-type:square">
   <li>NIPS 2017 - External Reviewer</li>
   <li>ICML 2018 - External Reviewer</li>
 </ul>
