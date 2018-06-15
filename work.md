@@ -64,16 +64,14 @@ permalink: /work/
 
   <li>Internship: 05/2016-07/2016, Yamamoto-Cuturi Lab., Graduate School of Informatics, Kyoto University, Kyoto, Japan, <em><a href="/static/documents/optimal_transport.pdf">Optimal Transport Geometry for Sentiment Analysis</a></em>, under the supervision of Marco Cuturi
   </li>
-</div>
 
-<div>
-  <p>Research Project: 09/2015-04/2016, Team Costel, LETG Rennes, Rennes, France, <a href="/static/documents/time_series.pdf">Time Series Clustering</a>, under the supervision of Thomas Corpetti & Romain Tavenard
+  <li>Research Project: 09/2015-04/2016, Team Costel, LETG Rennes, Rennes, France, <em><a href="/static/documents/time_series.pdf">Time Series Clustering</a></em>, under the supervision of Thomas Corpetti & Romain Tavenard
+  </li>
+
+  <li>Internship: 06/2015-07/2015, Team Magnet, Inria Lille-Nord Europe, Lille, France, <em><a href="/static/documents/recommender.pdf">Recommender System</a></em> (in French), under the supervision of Marc Tommasi
   </p>
-</div>
+</ul>
 
-<div>
-  <p>Internship: 06/2015-07/2015, Team Magnet, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/recommender.pdf">Recommender System</a> (in French), under the supervision of Marc Tommasi</p>
-</div>
 </blockquote>
 
 <hr />
