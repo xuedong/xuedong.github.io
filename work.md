@@ -29,7 +29,7 @@ permalink: /work/
 <blockquote>
 <ul style="list-style-type:square">
   <li>
-    <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko: <em><a href="">TBA</a></em>. <a href="https://ewrl.wordpress.com/ewrl14-2018/">EWRL 2018</a>, Lille, France. [poster]
+    <!--<strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko: <em><a href="">TBA</a></em>. <a href="https://ewrl.wordpress.com/ewrl14-2018/">EWRL 2018</a>, Lille, France. [poster]-->
   </li>
 </ul>
 </blockquote>
