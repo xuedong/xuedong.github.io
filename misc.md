@@ -55,7 +55,7 @@ Book translations: I also participated to some book translation projects.
 <blockquote>
 <ul style="list-style-type:square">
   <li>A book based on the ignorance course I have mentioned above to be appeared soon...</li>
-  <li><a href="http://www.sup.org/books/title/?id=21853">Schools and Societies, 3rd Edition</a>, Steven Brint, Stanford University Press - Publisher in Chinese TBA</li>
+  <li>Steven Brint. <a href="http://www.sup.org/books/title/?id=21853">Schools and Societies.</a>, tanford University Press - Publisher in Chinese TBA</li>
 </ul>
 </blockquote>
 <p>
