@@ -7,7 +7,7 @@ categories: programming
 
 Using Jupyter Notebook with a C kernel? That's possible with the <a href="https://github.com/brendan-rius/jupyter-c-kernel">Minimal C Kernel for Jupyter</a>. To make use of it, the best practice for the moment IMHO is to use Docker (as is suggested by the author himself), especially for Windows users. Instructions on how to use C kernel with Docker is on the GitHub page. While there has been a manual installation guide on the page too, there are some issues indeed.
 
-## Manual installation
+## Manual Installation
 
 Works only on Linux and OS X. Windows is not supported yet. If you want to use this project on Windows, please use Docker.
 
