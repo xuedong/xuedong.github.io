@@ -16,7 +16,7 @@ body.inverse .card, body.inverse .card .form-control, body.inverse .modal, body.
 }
 
 .h1, .h2, .h3, .h4, body, h1, h2, h3, h4, h5, h6 {
-  font-family: Comic Sans MS, Roboto, Helvetica, Arial, "FangSong", "仿宋", STFangSong, "华文仿宋", sans-serif;
+  font-family: Comic Sans MS, Roboto, Helvetica, Arial, sans-serif;
   font-weight: 300
 }
 
