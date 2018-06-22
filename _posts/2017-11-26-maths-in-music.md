@@ -5,7 +5,9 @@ date:   2017-11-26 23:58:39
 categories: music_mathematics
 ---
 <style>
-p {font-family: "Times New Roman", Times, serif;}
+body {
+  font-family: 'Hiragino Kaku Gothic Pro', 'WenQuanYi Zen Hei', '微軟正黑體', '蘋果儷中黑', Helvetica, Arial, sans-serif;
+}
 </style>
 
 <p>以前在校内上曾经流行一个<a href="http://blog.renren.com/blog/229032183/846449988">matlab演奏《卡农》</a>的帖子，写法蛮帅的，用的还是纯律而非平均律。回想起我初中时候在少科站无聊也用Turbo Pascal编过《亚洲雄风》来着，当时就觉得一串数字转化成音乐是件很神奇的事情。来聊聊音乐和数学哈~</p>
