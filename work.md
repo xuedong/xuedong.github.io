@@ -50,16 +50,16 @@ permalink: /work/
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li>Internship & Master Thesis: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <em><a href="/static/documents/bandits.pdf">Hierarchical Bandits for Black Box Optimization and Monte-Carlo Tree Search</a></em>, under the supervison of Emilie Kaufmann & Michal Valko
+  <li>Internship & Master Thesis: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/bandits.pdf">Hierarchical Bandits for Black Box Optimization and Monte-Carlo Tree Search</a>, under the supervison of Emilie Kaufmann & Michal Valko
   </li>
 
-  <li>Internship: 05/2016-07/2016, Yamamoto-Cuturi Lab., Graduate School of Informatics, Kyoto University, Kyoto, Japan, <em><a href="/static/documents/optimal_transport.pdf">Optimal Transport Geometry for Sentiment Analysis</a></em>, under the supervision of Marco Cuturi
+  <li>Internship: 05/2016-07/2016, Yamamoto-Cuturi Lab., Graduate School of Informatics, Kyoto University, Kyoto, Japan, <a href="/static/documents/optimal_transport.pdf">Optimal Transport Geometry for Sentiment Analysis</a>, under the supervision of Marco Cuturi
   </li>
 
-  <li>Research Project: 09/2015-04/2016, Team Costel, LETG Rennes, Rennes, France, <em><a href="/static/documents/time_series.pdf">Time Series Clustering</a></em>, under the supervision of Thomas Corpetti & Romain Tavenard
+  <li>Research Project: 09/2015-04/2016, Team Costel, LETG Rennes, Rennes, France, <a href="/static/documents/time_series.pdf">Time Series Clustering</a>, under the supervision of Thomas Corpetti & Romain Tavenard
   </li>
 
-  <li>Internship: 06/2015-07/2015, Team Magnet, Inria Lille-Nord Europe, Lille, France, <em><a href="/static/documents/recommender.pdf">Recommender System</a></em> (in French), under the supervision of Marc Tommasi
+  <li>Internship: 06/2015-07/2015, Team Magnet, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/recommender.pdf">Recommender System</a> (in French), under the supervision of Marc Tommasi
   </li>
 </ul>
 
