@@ -67,7 +67,7 @@ p.info a {
 }
 
 .icon {
-  /* background: rgba(255, 255, 255, 0.63); */
+  background: rgba(255, 255, 255, 0.63);
   border-radius: 100%;
   text-align: center;
   line-height: 20px;

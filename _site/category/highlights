@@ -34,6 +34,7 @@
 
 <!-- FontAwesome icons -->
 <link rel="stylesheet" href="https://use.fontawesome.com/2cdb511f32.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 
 <!-- Core BootStrap CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
@@ -69,6 +70,8 @@
           <div class="social-icons">
 	
       <a class="icon" target="_blank" href="https://github.com/xuedong"><i class="fa fa-github"></i></a>
+  
+      <a class="icon" target="_blank" href="https://www.hackerrank.com/xuedong?hr_r=1"><i class="fa fa-hackerrank"></i></a>
   
       <a class="icon" target="_blank" href="https://www.linkedin.com/in/xuedong-shang-85b7aa3a/"><i class="fa fa-linkedin"></i></a>
   
@@ -183,7 +186,7 @@
 	
       
 	
-	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  highlights"><a href="/teaching/" target="_self"><i class="fa fa-pencil"></i> Teaching</a></li>
+	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  highlights"><a href="/teaching/" target="_self"><i class="fa fa-pencil-alt"></i> Teaching</a></li>
 
 	
 	
@@ -219,7 +222,7 @@
 	
     
 	
-	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  highlights"><a href="/feed.xml" target="_blank"><i class="fa fa-feed"></i> XML Feed</a></li>
+	<li class="col-lg-12 col-md-12 col-sm-4 col-xs-12  highlights"><a href="/feed.xml" target="_blank"><i class="fa fa-rss-square"></i> XML Feed</a></li>
 
 </ul>
 
