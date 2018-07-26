@@ -18,7 +18,7 @@
   {
     "text": "Teaching",
     "url": "/teaching/",
-    "icon": "fa-pencil"
+    "icon": "fa-pencil-alt"
   },
   {
     "text": "Projects",
@@ -33,7 +33,7 @@
   {
     "text": "XML Feed",
     "url": "/feed.xml",
-    "icon": "fa-feed",
+    "icon": "fa-rss-square",
     "target": _blank
   }
 ]
