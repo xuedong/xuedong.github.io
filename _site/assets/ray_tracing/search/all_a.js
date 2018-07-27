@@ -1,7 +1,0 @@
-var searchData=
-[
-  ['map',['map',['../classrt_1_1color.html#af593d5a040b875baf43382d776242367',1,'rt::color::map()'],['../classrt_1_1GeneratedMap.html#ae4ba5317615d3f0ce30cb6a5665e62f2',1,'rt::GeneratedMap::map()'],['../classrt_1_1TextureMap.html#ac13bdde9c1125acdc4d09254f6768916',1,'rt::TextureMap::map()']]],
-  ['material',['Material',['../classrt_1_1Material.html',1,'rt::Material'],['../classrt_1_1element.html#afa62e5015aa14ff116a7545b2dc199cf',1,'rt::element::material()'],['../classrt_1_1Object.html#a36b5c2aa4931679243ef0fc42556bbf2',1,'rt::Object::material()'],['../classrt_1_1Material.html#aed6bdf2079f2a390bdd6ebd07d6b0db5',1,'rt::Material::Material()']]],
-  ['matrix',['matrix',['../classrt_1_1matrix.html',1,'rt::matrix'],['../classrt_1_1matrix.html#a9380f29ccb553c0519052497778f81e5',1,'rt::matrix::matrix()'],['../classrt_1_1matrix.html#a600b804908410258032445b55e3da84d',1,'rt::matrix::matrix(const matrix &amp;)'],['../classrt_1_1matrix.html#ad38d715b5d998ff48daf1388e88bb3e9',1,'rt::matrix::matrix(double *data, Format format=RowMajorFormat)'],['../classrt_1_1matrix.html#a3fc7b5bd890d672f663331d9f0127340',1,'rt::matrix::matrix(double m11, double m12, double m13, double m14, double m21, double m22, double m23, double m24, double m31, double m32, double m33, double m34, double m41, double m42, double m43, double m44)']]],
-  ['mesh',['Mesh',['../classrt_1_1Mesh.html',1,'rt']]]
-];
