@@ -22,7 +22,7 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 
 <ul class="fa-ul" itemscope>
 <li>
-	<i class="fa-li fa fa-file-pdf"></i>
+	<i class="fa-li fa fa-pdf-o"></i>
 	<span><a href="/static/documents/cv.pdf">Curriculum Vitæ</a></span>
 </li>
 </ul>
@@ -72,7 +72,7 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 	<span>(+33) 6 51 88 xx xx</span>
 	</li>
 	<li>
-	<i class="fa-li fa fa-hand-peace"></i>
+	<i class="fa-li fa fa-hand-peace-o"></i>
 	<span>I'm quite active on different social networks, however please refrain from following me on Instagram, Tumblr and Pinterest, don't ask why ;)</span>
 	</li>
 </ul>
