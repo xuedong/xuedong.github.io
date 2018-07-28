@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Best Arm Identification",
+		"image": "bandit.png",
+		"url": "",
+		"date": "Oct 2018",
+		"tags": ["multi-armed bandit", "machine learning", "reinforcement learning", "julia"]
+	},
+	{
 		"name": "Time Series Clustering",
 		"image": "time_series.png",
 		"url": "https://github.com/xuedong/time-series",
@@ -32,7 +39,7 @@
 		"image": "burger_teddy.png",
 		"url": "https://github.com/xuedong/teddy",
 		"date": "May 2015",
-		"tags": ["game programming", "c#"]
+		"tags": ["game programming", "visual studio", "c#"]
 	},
 	{
 		"name": "Project Euler",
