@@ -2,9 +2,16 @@
 	{
 		"name": "Best Arm Identification",
 		"image": "bandit.png",
-		"url": "",
+		"url": "https://xuedong.github.io/assets/research/index.html",
 		"date": "Oct 2018",
 		"tags": ["multi-armed bandit", "machine learning", "reinforcement learning", "julia"]
+	},
+	{
+		"name": "Hyperparamter Optimization",
+		"image": "hyperparamter.png",
+		"url": "https://xuedong.github.io/assets/research/index.html",
+		"date": "Feb 2018",
+		"tags": ["multi-armed bandit", "machine learning", "deep learning", "theano", "pytorch", "tensorflow", "python"]
 	},
 	{
 		"name": "Time Series Clustering",
