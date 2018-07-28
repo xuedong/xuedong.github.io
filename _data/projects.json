@@ -14,27 +14,6 @@
 		"tags": ["multi-armed bandit", "machine learning", "deep learning", "theano", "python"]
 	},
 	{
-		"name": "Time Series Clustering",
-		"image": "time_series.png",
-		"url": "https://github.com/xuedong/time-series",
-		"date": "April 2016",
-		"tags": ["time series","clustering","dtw","data science","python"]
-	},
-	{
-		"name": "Ray Tracing",
-		"image": "ray_tracing.png",
-		"url": "https://xuedong.github.io/assets/ray_tracing/index.html",
-		"date": "Feb 2014",
-		"tags": ["ray tracing","sdl","computer graphics","c++"]
-	},
-	{
-		"name": "Microprocessor Simulator",
-		"image": "micro.png",
-		"url": "https://github.com/xuedong/micro-simul",
-		"date": "Jan 2012",
-		"tags": ["microprocessor","ocaml","mips"]
-	},
-	{
 		"name": "Reduced Ordered Binary Decision Diagram",
 		"image": "robdd.png",
 		"url": "https://github.com/xuedong/robdd",
@@ -61,6 +40,27 @@
 		"url": "https://github.com/xuedong/auto-music",
 		"date": "Jan 2017",
 		"tags": ["n-gram", "grammar induction", "matlab"]
+	},
+	{
+		"name": "Time Series Clustering",
+		"image": "time_series.png",
+		"url": "https://github.com/xuedong/time-series",
+		"date": "April 2016",
+		"tags": ["time series","clustering","dtw","data science","python"]
+	},
+	{
+		"name": "Ray Tracing",
+		"image": "ray_tracing.png",
+		"url": "https://xuedong.github.io/assets/ray_tracing/index.html",
+		"date": "Feb 2014",
+		"tags": ["ray tracing","sdl","computer graphics","c++"]
+	},
+	{
+		"name": "Microprocessor Simulator",
+		"image": "micro.png",
+		"url": "https://github.com/xuedong/micro-simul",
+		"date": "Jan 2012",
+		"tags": ["microprocessor","ocaml","mips"]
 	},
 	{
 		"name": "Localization of Multi-channel Sound Sources",
