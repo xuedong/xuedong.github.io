@@ -49,11 +49,11 @@
 		"tags": ["game programming", "visual studio", "c#"]
 	},
 	{
-		"name": "Awalé",
-		"image": "awale.png",
-		"url": "https://github.com/xuedong/awale",
-		"date": "Sep 2014",
-		"tags": ["game", "minimax", "artificial intelligence", "ruby"]
+		"name": "Music Style Classification and Generation",
+		"image": "sheet.png",
+		"url": "https://github.com/xuedong/auto-music",
+		"date": "Jan 2017",
+		"tags": ["n-gram", "grammar induction", "matlab"]
 	},
 	{
 		"name": "Project Euler",
@@ -63,18 +63,18 @@
 		"tags": ["number theory", "computational arithmetic", "maths", "ocaml"]
 	},
 	{
-		"name": "Music Style Classification and Generation",
-		"image": "sheet.png",
-		"url": "https://github.com/xuedong/auto-music",
-		"date": "Jan 2017",
-		"tags": ["n-gram", "grammar induction", "matlab"]
-	},
-	{
 		"name": "Localization of Multi-channel Sound Sources",
 		"image": "smart_voice.png",
 		"url": "https://github.com/xuedong/smart-voice",
 		"date": "Jan 2017",
 		"tags": ["mfcc", "tdoa", "lstm", "python"]
+	},
+	{
+		"name": "Awalé",
+		"image": "awale.png",
+		"url": "https://github.com/xuedong/awale",
+		"date": "Sep 2014",
+		"tags": ["game", "minimax", "artificial intelligence", "ruby"]
 	},
 	{
 		"name": "Microprocessor Simulator",
