@@ -21,6 +21,27 @@
 		"tags": ["logic", "ocaml"]
 	},
 	{
+		"name": "Time Series Clustering",
+		"image": "time_series.png",
+		"url": "https://github.com/xuedong/time-series",
+		"date": "April 2016",
+		"tags": ["time series","clustering","dtw","data science","python"]
+	},
+	{
+		"name": "Ray Tracing",
+		"image": "ray_tracing.png",
+		"url": "https://xuedong.github.io/assets/ray_tracing/index.html",
+		"date": "Feb 2014",
+		"tags": ["ray tracing","sdl","computer graphics","c++"]
+	},
+	{
+		"name": "2048 Eduinfinity",
+		"image": "2048.png",
+		"url": "https://xuedong.github.io/assets/2048/index.html",
+		"date": "Sep 2015",
+		"tags": ["game", "edu-infinity", "javascript", "html/css"]
+	},
+	{
 		"name": "Burger and Teddybear Game",
 		"image": "burger_teddy.png",
 		"url": "https://github.com/xuedong/teddy",
@@ -42,20 +63,6 @@
 		"tags": ["n-gram", "grammar induction", "matlab"]
 	},
 	{
-		"name": "Time Series Clustering",
-		"image": "time_series.png",
-		"url": "https://github.com/xuedong/time-series",
-		"date": "April 2016",
-		"tags": ["time series","clustering","dtw","data science","python"]
-	},
-	{
-		"name": "Ray Tracing",
-		"image": "ray_tracing.png",
-		"url": "https://xuedong.github.io/assets/ray_tracing/index.html",
-		"date": "Feb 2014",
-		"tags": ["ray tracing","sdl","computer graphics","c++"]
-	},
-	{
 		"name": "Microprocessor Simulator",
 		"image": "micro.png",
 		"url": "https://github.com/xuedong/micro-simul",
@@ -75,12 +82,5 @@
 		"url": "https://github.com/xuedong/awale",
 		"date": "Sep 2014",
 		"tags": ["game", "minimax", "artificial intelligence", "ruby"]
-	},
-	{
-		"name": "2048 Eduinfinity",
-		"image": "2048.png",
-		"url": "https://xuedong.github.io/assets/2048/index.html",
-		"date": "Sep 2015",
-		"tags": ["game", "edu-infinity", "javascript", "html/css"]
 	}
 ]
