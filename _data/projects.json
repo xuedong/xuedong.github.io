@@ -7,18 +7,18 @@
 		"tags": ["multi-armed bandit", "machine learning", "reinforcement learning", "julia"]
 	},
 	{
-		"name": "Hyperparamter Optimization",
-		"image": "hyperparamter.png",
-		"url": "https://xuedong.github.io/assets/research/index.html",
-		"date": "Feb 2018",
-		"tags": ["multi-armed bandit", "machine learning", "deep learning", "theano", "python"]
-	},
-	{
 		"name": "Reduced Ordered Binary Decision Diagram",
 		"image": "robdd.png",
 		"url": "https://github.com/xuedong/robdd",
 		"date": "April 2015",
 		"tags": ["logic", "ocaml"]
+	},
+	{
+		"name": "Hyperparamter Optimization",
+		"image": "hyperparamter.png",
+		"url": "https://xuedong.github.io/assets/research/index.html",
+		"date": "Feb 2018",
+		"tags": ["multi-armed bandit", "machine learning", "deep learning", "theano", "python"]
 	},
 	{
 		"name": "Time Series Clustering",
@@ -49,6 +49,13 @@
 		"tags": ["game programming", "visual studio", "c#"]
 	},
 	{
+		"name": "Awalé",
+		"image": "awale.png",
+		"url": "https://github.com/xuedong/awale",
+		"date": "Sep 2014",
+		"tags": ["game", "minimax", "artificial intelligence", "ruby"]
+	},
+	{
 		"name": "Project Euler",
 		"image": "project_euler.png",
 		"url": "https://github.com/xuedong/project-euler",
@@ -63,13 +70,6 @@
 		"tags": ["n-gram", "grammar induction", "matlab"]
 	},
 	{
-		"name": "Microprocessor Simulator",
-		"image": "micro.png",
-		"url": "https://github.com/xuedong/micro-simul",
-		"date": "Jan 2012",
-		"tags": ["microprocessor","ocaml","mips"]
-	},
-	{
 		"name": "Localization of Multi-channel Sound Sources",
 		"image": "smart_voice.png",
 		"url": "https://github.com/xuedong/smart-voice",
@@ -77,10 +77,10 @@
 		"tags": ["mfcc", "tdoa", "lstm", "python"]
 	},
 	{
-		"name": "Awalé",
-		"image": "awale.png",
-		"url": "https://github.com/xuedong/awale",
-		"date": "Sep 2014",
-		"tags": ["game", "minimax", "artificial intelligence", "ruby"]
+		"name": "Microprocessor Simulator",
+		"image": "micro.png",
+		"url": "https://github.com/xuedong/micro-simul",
+		"date": "Jan 2012",
+		"tags": ["microprocessor","ocaml","mips"]
 	}
 ]
