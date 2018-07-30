@@ -4,6 +4,8 @@ title: Research and Publications
 permalink: /work/
 ---
 
+AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">Stress Warning</a>!
+
 <h4><B>Conferences</B></h4>
 
 <blockquote>

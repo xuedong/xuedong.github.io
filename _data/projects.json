@@ -1,5 +1,26 @@
 [
 	{
+		"name": "Best Arm Identification",
+		"image": "bandit.png",
+		"url": "https://xuedong.github.io/assets/research/index.html",
+		"date": "Oct 2018",
+		"tags": ["multi-armed bandit", "machine learning", "reinforcement learning", "julia"]
+	},
+	{
+		"name": "Reduced Ordered Binary Decision Diagram",
+		"image": "robdd.png",
+		"url": "https://github.com/xuedong/robdd",
+		"date": "April 2015",
+		"tags": ["logic", "ocaml"]
+	},
+	{
+		"name": "Hyperparamter Optimization",
+		"image": "hyperparamter.png",
+		"url": "https://xuedong.github.io/assets/research/index.html",
+		"date": "Feb 2018",
+		"tags": ["multi-armed bandit", "machine learning", "deep learning", "theano", "python"]
+	},
+	{
 		"name": "Time Series Clustering",
 		"image": "time_series.png",
 		"url": "https://github.com/xuedong/time-series",
@@ -14,32 +35,18 @@
 		"tags": ["ray tracing","sdl","computer graphics","c++"]
 	},
 	{
-		"name": "Microprocessor Simulator",
-		"image": "micro.png",
-		"url": "https://github.com/xuedong/micro-simul",
-		"date": "Jan 2012",
-		"tags": ["microprocessor","ocaml","mips"]
-	},
-	{
-		"name": "Reduced Ordered Binary Decision Diagram",
-		"image": "robdd.png",
-		"url": "https://github.com/xuedong/robdd",
-		"date": "April 2015",
-		"tags": ["logic", "ocaml"]
+		"name": "2048 Eduinfinity",
+		"image": "2048.png",
+		"url": "https://xuedong.github.io/assets/2048/index.html",
+		"date": "Sep 2015",
+		"tags": ["game", "edu-infinity", "javascript", "html/css"]
 	},
 	{
 		"name": "Burger and Teddybear Game",
 		"image": "burger_teddy.png",
 		"url": "https://github.com/xuedong/teddy",
 		"date": "May 2015",
-		"tags": ["game programming", "c#"]
-	},
-	{
-		"name": "Project Euler",
-		"image": "project_euler.png",
-		"url": "https://github.com/xuedong/project-euler",
-		"date": "Dec 2017",
-		"tags": ["number theory", "computational arithmetic", "maths", "ocaml"]
+		"tags": ["game programming", "visual studio", "c#"]
 	},
 	{
 		"name": "Music Style Classification and Generation",
@@ -47,6 +54,13 @@
 		"url": "https://github.com/xuedong/auto-music",
 		"date": "Jan 2017",
 		"tags": ["n-gram", "grammar induction", "matlab"]
+	},
+	{
+		"name": "Project Euler",
+		"image": "project_euler.png",
+		"url": "https://github.com/xuedong/project-euler",
+		"date": "Dec 2017",
+		"tags": ["number theory", "computational arithmetic", "maths", "ocaml"]
 	},
 	{
 		"name": "Localization of Multi-channel Sound Sources",
@@ -63,10 +77,10 @@
 		"tags": ["game", "minimax", "artificial intelligence", "ruby"]
 	},
 	{
-		"name": "2048 Eduinfinity",
-		"image": "2048.png",
-		"url": "https://xuedong.github.io/assets/2048/index.html",
-		"date": "Sep 2015",
-		"tags": ["game", "edu-infinity", "javascript", "html/css"]
+		"name": "Microprocessor Simulator",
+		"image": "micro.png",
+		"url": "https://github.com/xuedong/micro-simul",
+		"date": "Jan 2012",
+		"tags": ["microprocessor","ocaml","mips"]
 	}
 ]
