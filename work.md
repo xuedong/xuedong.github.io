@@ -29,7 +29,7 @@ permalink: /work/
 <blockquote>
 <ul style="list-style-type:square">
   <li>
-    <!--<strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="">Adaptive black-box optimization got easier: HCT only needs local smoothness</a>. <a href="https://ewrl.wordpress.com/ewrl14-2018/">EWRL 2018</a>, Lille, France. [poster]-->
+    <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href=""><em>Adaptive black-box optimization got easier: HCT only needs local smoothness</em></a>. In <a href="https://ewrl.wordpress.com/ewrl14-2018/">European Workshop on Reinforcement Learning</a> (EWRL 2018), Lille, France. [poster]
   </li>
 </ul>
 </blockquote>
@@ -50,16 +50,16 @@ permalink: /work/
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li>Internship & Master Thesis: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/bandits.pdf">Hierarchical bandits for black-box optimization and Monte-Carlo tree search</a>, under the supervison of Emilie Kaufmann & Michal Valko.
+  <li>Internship & Master Thesis: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/bandits.pdf"><em>Hierarchical bandits for black-box optimization and Monte-Carlo tree search</em></a>, under the supervison of Emilie Kaufmann & Michal Valko.
   </li>
 
-  <li>Internship: 05/2016-07/2016, Yamamoto-Cuturi Lab., Graduate School of Informatics, Kyoto University, Kyoto, Japan, <a href="/static/documents/optimal_transport.pdf">Optimal transport geometry for sentiment analysis</a>, under the supervision of Marco Cuturi.
+  <li>Internship: 05/2016-07/2016, Yamamoto-Cuturi Lab., Graduate School of Informatics, Kyoto University, Kyoto, Japan, <a href="/static/documents/optimal_transport.pdf"><em>Optimal transport geometry for sentiment analysis</em></a>, under the supervision of Marco Cuturi.
   </li>
 
-  <li>Research Project: 09/2015-04/2016, Team Costel, LETG Rennes, Rennes, France, <a href="/static/documents/time_series.pdf">Time series clustering</a>, under the supervision of Thomas Corpetti & Romain Tavenard.
+  <li>Research Project: 09/2015-04/2016, Team Costel, LETG Rennes, Rennes, France, <a href="/static/documents/time_series.pdf"><em>Time series clustering</em></a>, under the supervision of Thomas Corpetti & Romain Tavenard.
   </li>
 
-  <li>Internship: 06/2015-07/2015, Team Magnet, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/recommender.pdf">Recommender system</a> (in French), under the supervision of Marc Tommasi.
+  <li>Internship: 06/2015-07/2015, Team Magnet, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/recommender.pdf"><em>Recommender system</em></a> (in French), under the supervision of Marc Tommasi.
   </li>
 </ul>
 
@@ -67,11 +67,11 @@ permalink: /work/
 
 <hr />
 
-<h4><B>Talks and Other Experiences</B></h4>
+<h4><B>Events and Talks</B></h4>
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li><i><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/">CIMI Optimization and Learning Workshop</a></i>, Toulouse, France, September 10-13, 2018 [poster?]</li>
+  <li><em><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/">CIMI Optimization and Learning Workshop</a></em>, Toulouse, France, September 10-13, 2018 [poster?]</li>
 </ul>
 </blockquote>
 
