@@ -15,7 +15,7 @@
 	},
 	{
 		"name": "Hyperparamter Optimization",
-		"image": "hyperparamter.png",
+		"image": "hyperparameter.png",
 		"url": "https://xuedong.github.io/assets/research/index.html",
 		"date": "Feb 2018",
 		"tags": ["multi-armed bandit", "machine learning", "deep learning", "theano", "python"]
