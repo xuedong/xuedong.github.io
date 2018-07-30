@@ -31,7 +31,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
   <li>
-    <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href=""><em>Adaptive black-box optimization got easier: HCT only needs local smoothness</em></a>. In <a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#2ECCFA">European Workshop on Reinforcement Learning</a> (EWRL 2018), Lille, France. [poster]
+    <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href=""><em>Adaptive black-box optimization got easier: HCT only needs local smoothness</em></a>. In <a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">European Workshop on Reinforcement Learning</a> (EWRL 2018), Lille, France. [poster]
   </li>
 </ul>
 </blockquote>
@@ -73,8 +73,8 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/" style="color:#2ECCFA">CIMI Optimization and Learning Workshop</a>, Toulouse, France, September 10-13, 2018. [poster?]</li>
-  <li><a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#2ECCFA">The 14th European Workshop on Reinforcement Learning</a>, Lille, France, October 01-03, 2018. [poster]</li>
+  <li><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/" style="color:#A4A4A4">CIMI Optimization and Learning Workshop</a>, Toulouse, France, September 10-13, 2018. [poster?]</li>
+  <li><a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">The 14th European Workshop on Reinforcement Learning</a>, Lille, France, October 01-03, 2018. [poster]</li>
 </ul>
 </blockquote>
 
