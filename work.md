@@ -6,7 +6,7 @@ permalink: /work/
 
 AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">Stress Warning</a>!
 
-<h4><B>Conferences</B></h4>
+<h4><B>Conference Proceedings</B></h4>
 
 <blockquote>
 <ul style="list-style-type:square">
@@ -26,7 +26,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <hr />
 
-<h4><B>Workshops</B></h4>
+<h4><B>Workshop Papers</B></h4>
 
 <blockquote>
 <ul style="list-style-type:square">
