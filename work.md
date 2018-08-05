@@ -74,6 +74,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
   <li><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/" style="color:#A4A4A4">CIMI Optimization and Learning Workshop</a>, Toulouse, France, September 10-13, 2018.</li>
+  <li><a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">The 14th European Workshop on Reinforcement Learning</a>, Lille, France, October 01-03, 2018. [poster]
 </ul>
 </blockquote>
 
