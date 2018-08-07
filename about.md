@@ -40,7 +40,7 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 	<li>bandit theory</li>
 	<li>reinforcement learning</li>
 	<li>optimization</li>
-	<li>recommender system</li>
+	<li>automatic machine learning</li>
 </ul>
 <p>I'm also interested in:</p>
 <ul style="list-style-type:square">
@@ -49,6 +49,7 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 	<li>natural language processing</li>
 	<li>time series</li>
 	<li>optimal transport</li>
+	<li>recommender system</li>
 </ul>
 </p>
 </blockquote>
