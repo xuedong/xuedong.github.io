@@ -79,6 +79,7 @@ body .container .jumbotron-inverse, body .container .well-inverse, body .contain
 }
 
 body .container .jumbotron-primary, body .container .well-primary, body .container-fluid .jumbotron-primary, body .container-fluid .well-primary {
+  background-image: url("/static/img/banner.jpg");
   background-color: #009688
 }
 
