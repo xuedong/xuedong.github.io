@@ -3,6 +3,7 @@
 }
 
 .header-panel.shadow-z-2 {
+  background-image: url("/static/img/banner.jpg");
   background-color: #009587;
   padding: 50px 0 15px 0;
   width: 100%;
