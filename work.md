@@ -60,10 +60,10 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
   <li>Internship: 05/2016-07/2016, Yamamoto-Cuturi Lab., Graduate School of Informatics, Kyoto University, Kyoto, Japan, <a href="/static/documents/optimal_transport.pdf"><em>Optimal transport geometry for sentiment analysis</em></a>, under the supervision of <a href="http://marcocuturi.net/">Marco Cuturi</a>.
   </li>
 
-  <li>Research Project: 09/2015-04/2016, Team Costel, LETG Rennes, Rennes, France, <a href="/static/documents/time_series.pdf"><em>Time series clustering</em></a>, under the supervision of Thomas Corpetti & Romain Tavenard.
+  <li>Research Project: 09/2015-04/2016, Team Costel, LETG Rennes, Rennes, France, <a href="/static/documents/time_series.pdf"><em>Time series clustering</em></a>, under the supervision of <a href="https://www.sites.univ-rennes2.fr/costel/corpetti/site/index.html">Thomas Corpetti</a> & <a href="https://rtavenar.github.io/research/bio.html">Romain Tavenard</a>.
   </li>
 
-  <li>Internship: 06/2015-07/2015, Team Magnet, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/recommender.pdf"><em>Recommender system</em></a> (in French), under the supervision of Marc Tommasi.
+  <li>Internship: 06/2015-07/2015, Team Magnet, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/recommender.pdf"><em>Recommender system</em></a> (in French), under the supervision of <a href="http://researchers.lille.inria.fr/tommasi/">Marc Tommasi</a>.
   </li>
 </ul>
 
