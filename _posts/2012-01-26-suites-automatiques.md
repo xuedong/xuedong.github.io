@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Suites Automatiques
-date:   2017-11-21 15:38:39
+date:   2012-01-26 15:38:39
 categories: formal_language
 ---
 
