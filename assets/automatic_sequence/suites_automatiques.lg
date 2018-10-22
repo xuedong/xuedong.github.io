@@ -1,6 +1,5 @@
 htfcss: cmbx  font-weight: bold;
 htfcss: cmbxsl  font-weight: bold; font-style: oblique;
-htfcss: eccc1000 font-variant: small-caps;
 htfcss: ecbx  font-weight: bold;
 htfcss: ecsx  font-weight: bold;
 htfcss: ecbi  font-weight: bold;   font-style: italic;
@@ -73,7 +72,6 @@ File: suites_automatiques.tmp
 Font_Class(1,"1"): <img  src="" alt="" class="%s-%dx-x-%x" />
 File: suites_automatiques2.html
 File: suites_automatiques.tmp
-Font_Class(4,"4"): <span  class="small-caps"></span>
 File: suites_automatiques3.html
 File: suites_automatiques.tmp
 File: suites_automatiques4.html
@@ -231,12 +229,12 @@ Css: div.gather-star {text-align:center;}
 --- needs --- suites_automatiques.idv[28] ==> suites_automatiques18x.png ---
 --- needs --- suites_automatiques.idv[30] ==> suites_automatiques19x.png ---
 --- needs --- suites_automatiques.idv[31] ==> suites_automatiques20x.png ---
---- needs --- suites_automatiques.idv[32] ==> suites_automatiques21x.png ---
+--- needs --- suites_automatiques.idv[33] ==> suites_automatiques21x.png ---
 --- needs --- suites_automatiques.idv[34] ==> suites_automatiques22x.png ---
 --- needs --- suites_automatiques.idv[35] ==> suites_automatiques23x.png ---
 --- needs --- suites_automatiques.idv[37] ==> suites_automatiques24x.png ---
 --- needs --- suites_automatiques.idv[38] ==> suites_automatiques25x.png ---
---- needs --- suites_automatiques.idv[39] ==> suites_automatiques26x.png ---
+--- needs --- suites_automatiques.idv[40] ==> suites_automatiques26x.png ---
 --- needs --- suites_automatiques.idv[41] ==> suites_automatiques27x.png ---
 --- needs --- suites_automatiques.idv[42] ==> suites_automatiques28x.png ---
 --- needs --- suites_automatiques.idv[43] ==> suites_automatiques29x.png ---
@@ -248,13 +246,13 @@ Css: div.gather-star {text-align:center;}
 --- needs --- suites_automatiques.idv[51] ==> suites_automatiques35x.png ---
 --- needs --- suites_automatiques.idv[53] ==> suites_automatiques36x.png ---
 --- needs --- suites_automatiques.idv[54] ==> suites_automatiques37x.png ---
---- needs --- suites_automatiques.idv[55] ==> suites_automatiques38x.png ---
+--- needs --- suites_automatiques.idv[56] ==> suites_automatiques38x.png ---
 --- needs --- suites_automatiques.idv[57] ==> suites_automatiques39x.png ---
 --- needs --- suites_automatiques.idv[58] ==> suites_automatiques40x.png ---
 --- needs --- suites_automatiques.idv[59] ==> suites_automatiques41x.png ---
---- needs --- suites_automatiques.idv[60] ==> suites_automatiques42x.png ---
---- needs --- suites_automatiques.idv[61] ==> suites_automatiques43x.png ---
---- needs --- suites_automatiques.idv[62] ==> suites_automatiques44x.png ---
+--- needs --- suites_automatiques.idv[61] ==> suites_automatiques42x.png ---
+--- needs --- suites_automatiques.idv[62] ==> suites_automatiques43x.png ---
+--- needs --- suites_automatiques.idv[63] ==> suites_automatiques44x.png ---
 --- needs --- suites_automatiques.idv[64] ==> suites_automatiques45x.png ---
 --- needs --- suites_automatiques.idv[66] ==> suites_automatiques46x.png ---
 --- needs --- suites_automatiques.idv[67] ==> suites_automatiques47x.png ---
@@ -288,5 +286,4 @@ Font("ecbx","1095","10","100")
 Font("ecti","1200","12","100")
 Font("ecbx","1200","12","100")
 Font("ecrm","1000","10","100")
-Font("eccc1200","","12","100")
 Font("cmbx","12","12","100")

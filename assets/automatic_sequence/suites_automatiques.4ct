@@ -1,5 +1,5 @@
 \expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
-\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Table des mati\`eres}}{3}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Contents}}{3}\relax 
 \doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{D\'efinitions et exemples}}{4}\relax 
 \doTocEntry\tocsubsection{1.1}{\csname a:TocLink\endcsname{1}{x1-30001.1}{QQ2-1-3}{La suite de Thue-Morse}}{5}\relax 
 \doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-30031}{}{\ignorespaces L'automate de Thue-Morse.}}{figure}\relax 
@@ -9,8 +9,8 @@
 \doTocEntry\tocsubsection{2.1}{\csname a:TocLink\endcsname{1}{x1-60002.1}{QQ2-1-8}{Le $q$-noyau}}{12}\relax 
 \doTocEntry\tocsubsection{2.2}{\csname a:TocLink\endcsname{1}{x1-70002.2}{QQ2-1-9}{Th\'eor\`eme de Cobham}}{15}\relax 
 \doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-80003}{QQ2-1-10}{Th\'eor\`eme de Christol}}{18}\relax 
-\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{1}{x1-90003.1}{QQ2-1-11}{Op\'erateur de Cartier}}{18}\relax 
+\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{1}{x1-90003.1}{QQ2-1-11}{Op\'erateur de Cartier}}{19}\relax 
 \doTocEntry\tocsubsection{3.2}{\csname a:TocLink\endcsname{1}{x1-100003.2}{QQ2-1-12}{Th\'eor\`eme de Christol}}{22}\relax 
 \doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-110004}{QQ2-1-13}{Divers}}{25}\relax 
-\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-120004}{QQ2-1-14}{R\'ef\'erences}}{26}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-120004}{QQ2-1-14}{References}}{27}\relax 
 \par 
