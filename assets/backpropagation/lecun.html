@@ -1,0 +1,423 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"  
+  "http://www.w3.org/TR/html4/loose.dtd">  
+<html > 
+<head><title>Application de la retro-propagation à la reconnaissance des codes postaux manuscrits[2]</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+<meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)"> 
+<meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)"> 
+<!-- html --> 
+<meta name="src" content="lecun.tex"> 
+<link rel="stylesheet" type="text/css" href="lecun.css"> 
+</head><body 
+>
+   <div class="maketitle">
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+
+<h2 class="titleHead">Application de la rétro-propagation à la reconnaissance des codes
+postaux manuscrits<span class="cite">[<a 
+href="#XLecun89e">2</a>]</span></h2>
+     <div class="author" ><span 
+class="ecrm-1200">Xuedong Shang</span><br />
+<br /><span 
+class="ecbx-1200">ENS Cachan (Rennes)</span></div><br />
+<div class="date" ><span 
+class="ecrm-1200">09 Avril 2015</span></div>
+   </div>
+   <h3 class="likesectionHead"><a 
+ id="x1-1000"></a>Contents</h3>
+   <div class="tableofcontents">
+   <span class="sectionToc" >1 <a 
+href="#x1-20001" id="QQ2-1-2">Introduction</a></span>
+<br />   <span class="sectionToc" >2 <a 
+href="#x1-30002" id="QQ2-1-3">Le développement du réseau</a></span>
+<br />   &#x00A0;<span class="subsectionToc" >2.1 <a 
+href="#x1-40002.1" id="QQ2-1-5">Pré-traitement</a></span>
+<br />   &#x00A0;<span class="subsectionToc" >2.2 <a 
+href="#x1-50002.2" id="QQ2-1-6">Localisation des caractéristiques et le poids partagé</a></span>
+<br />   &#x00A0;&#x00A0;<span class="subsubsectionToc" >2.2.1 <a 
+href="#x1-60002.2.1" id="QQ2-1-7">Localisation des caractéristiques</a></span>
+<br />   &#x00A0;&#x00A0;<span class="subsubsectionToc" >2.2.2 <a 
+href="#x1-70002.2.2" id="QQ2-1-9">Le poids partagé</a></span>
+<br />   &#x00A0;<span class="subsectionToc" >2.3 <a 
+href="#x1-80002.3" id="QQ2-1-11">La structure du réseau</a></span>
+<br />   &#x00A0;<span class="subsectionToc" >2.4 <a 
+href="#x1-90002.4" id="QQ2-1-13">Algorithme de la rétro-propagation</a></span>
+<br />   <span class="sectionToc" >3 <a 
+href="#x1-100003" id="QQ2-1-14">Résultats</a></span>
+<br />   &#x00A0;<span class="subsectionToc" >3.1 <a 
+href="#x1-110003.1" id="QQ2-1-15">L&#8217;environment de l&#8217;expérience</a></span>
+<br />   &#x00A0;<span class="subsectionToc" >3.2 <a 
+href="#x1-120003.2" id="QQ2-1-16">Performance</a></span>
+<br />   &#x00A0;<span class="subsectionToc" >3.3 <a 
+href="#x1-130003.3" id="QQ2-1-18">Démo</a></span>
+<br />   <span class="sectionToc" >4 <a 
+href="#x1-140004" id="QQ2-1-19">Conclusion</a></span>
+   </div>
+   <div 
+class="abstract" 
+>
+<div class="center" 
+>
+<!--l. 45--><p class="noindent" >
+<!--l. 45--><p class="noindent" ><span 
+class="ecbx-0900">Abstract</span></div>
+<!--l. 45--><p class="noindent" >
+     <!--l. 46--><p class="indent" >    <span 
+class="ecrm-0900">Dans le contexte o</span><span 
+class="ecrm-0900">ù l&#8217;apprentissage automatique est en passe de devenir une m</span><span 
+class="ecrm-0900">éthode de plus en plus</span>
+     <span 
+class="ecrm-0900">appliqu</span><span 
+class="ecrm-0900">ée dans des diff</span><span 
+class="ecrm-0900">érents domaines informatiques pendant ces derni</span><span 
+class="ecrm-0900">ères vingtaine d&#8217;ann</span><span 
+class="ecrm-0900">ées, le r</span><span 
+class="ecrm-0900">éseau</span>
+     <span 
+class="ecrm-0900">de neurones, en tant que l&#8217;un des mod</span><span 
+class="ecrm-0900">èles de calcul plus important du domaine, tr</span><span 
+class="ecrm-0900">ès utilis</span><span 
+class="ecrm-0900">és notemment</span>
+     <span 
+class="ecrm-0900">dans la reconnaissance d&#8217;objets, est devenu un enjeu dans le monde de la recherche informatique.</span>
+                                                                                         
+                                                                                         
+     <!--l. 48--><p class="indent" >    <span 
+class="ecrm-0900">On va d</span><span 
+class="ecrm-0900">évelopper ici, dans cet article, un r</span><span 
+class="ecrm-0900">éseau de neurone particulier visant </span><span 
+class="ecrm-0900">à reconnna</span><span 
+class="ecrm-0900">ître des codes</span>
+     <span 
+class="ecrm-0900">postaux manuscrits issus des lettres propos</span><span 
+class="ecrm-0900">ées par le service postal des Etats-Unis.</span>
+<span 
+class="ecbx-0900">Mots-cl</span><span 
+class="ecbx-0900">és.</span> <span 
+class="ecrm-0900">Apprentissage, r</span><span 
+class="ecrm-0900">étro-propagation, reconnaissance d&#8217;objets, r</span><span 
+class="ecrm-0900">éseau de neurones.</span>
+</div>
+<!--l. 54--><p class="noindent" >
+   <h3 class="sectionHead"><span class="titlemark">1   </span> <a 
+ id="x1-20001"></a>Introduction</h3>
+<!--l. 56--><p class="noindent" >Le réseau de neurones est une approche inspirée fondamentalement du système biologique, à proprement parler du
+fonctionnement des neurones biologiques, qui fournit un mécanisme perceptif indépendant des idées du
+programmeur.
+<!--l. 58--><p class="indent" >   Dans ses travaux précédents, Yann LeCun avait prouvé que des réseaux de neurones peuvent nous
+aider à gérer des problèmes de la perception invariante (chiffres, lettres, etc). Il a aussi montré que
+l&#8217;introduction des notions de la localisation des caractéristiques et le poids partagé peut considérablement
+améliorer la performance du réseau en réduisant son entropie. On appelle tels réseaux les réseaux
+convolutionnaires.
+<!--l. 60--><p class="indent" >   Dans cet article, on va essayer d&#8217;adapter ce type de réseau à un problème réel, la reconnaissance des chiffres
+manuscrits issus des lettres de U.S. Mail, en s&#8217;aidant de l&#8217;algorithme de rétro-propagation<span class="cite">[<a 
+href="#XRumelhart86">3</a>]</span>, dont on
+va détailler le principe plus tard dans l&#8217;article. Contrairement à ce qui a été fait avant par Denker,
+cette fois-ci, on va présenter directement les images à notre réseau au lieu de lui passer des vecteurs
+caractéristiques. Ceci montre la puissance de la rétro-propagation sur le traitement des informations de bas
+niveau.
+<!--l. 62--><p class="noindent" >
+   <h3 class="sectionHead"><span class="titlemark">2   </span> <a 
+ id="x1-30002"></a>Le développement du réseau</h3>
+<!--l. 64--><p class="noindent" >La base de données servant à l&#8217;entraînement et les tests du réseau a été proposée par le service postal des
+Etats-Unis. Il y a, entre autres, 7291 exemplaires de chiffres issus des codes postaux manuscrits qui sont
+réservés pour l&#8217;entraînement et 2007 exemplaires qui servent à tester la performance. Les chiffres sont
+écrits par différentes personnes, avec différentes tailles, différents styles d&#8217;écriture et différents outils
+d&#8217;écriture.
+<!--l. 66--><p class="indent" >   <hr class="figure"><div class="figure" 
+>
+                                                                                         
+                                                                                         
+<a 
+ id="x1-30011"></a>
+                                                                                         
+                                                                                         
+<div class="center" 
+>
+<!--l. 67--><p class="noindent" >
+<!--l. 68--><p class="noindent" ><img 
+src="zipcode.png" alt="PIC"  
+>
+<br /> <div class="caption" 
+><span class="id">Figure&#x00A0;1: </span><span  
+class="content"> Codes postaux manuscrits</span></div><!--tex4ht:label?: x1-30011 -->
+</div>
+                                                                                         
+                                                                                         
+<!--l. 71--><p class="indent" >   </div><hr class="endfigure">
+   <h4 class="subsectionHead"><span class="titlemark">2.1   </span> <a 
+ id="x1-40002.1"></a>Pré-traitement</h4>
+<!--l. 75--><p class="noindent" >Avant toutes choses, on doit déjà repérer les chiffres sur les enveloppes, puis les séparer les uns les autres. Ceci a été
+fait, par contre, par le service postal même.
+<!--l. 77--><p class="indent" >   Ensuite, une procédure de normalisation a été introduite afin de réduire les images digitales d&#8217;une taille
+standard d&#8217;environ 40x60 pixels à une taille de 16x16 pixels.
+<!--l. 79--><p class="noindent" >
+   <h4 class="subsectionHead"><span class="titlemark">2.2   </span> <a 
+ id="x1-50002.2"></a>Localisation des caractéristiques et le poids partagé</h4>
+<!--l. 81--><p class="noindent" >Avant d&#8217;aller élaborer notre struture du réseau, on va d&#8217;abord introduire deux notions essentielles dans notre
+approche, la localisation des caractéristiques et le poids partagé. Ces deux notions nous permettent de réduire
+largement le nombre de paramètres indépendants dans le réseau et ainsi augmenter considérablement la
+performance de la rétro-propagation.
+<!--l. 84--><p class="noindent" >
+   <h5 class="subsubsectionHead"><span class="titlemark">2.2.1   </span> <a 
+ id="x1-60002.2.1"></a>Localisation des caractéristiques</h5>
+<!--l. 86--><p class="noindent" >L&#8217;extraction de caractéristique consiste en des transfromations mathémtiques calculées sur les pixels d&#8217;une image
+numérique. C&#8217;est une étape préable à la classification. Dans notre cas, au lieu de calculer les caractéristiques
+globales, on calcule seulement les caractéristiques locales autour des points d&#8217;intétêt.
+<!--l. 88--><p class="indent" >   Ainsi, le poids d&#8217;un synapse de la couche <span 
+class="cmmi-10">m </span>est calculé à partir seulement d&#8217;un sous-ensemble de la couche
+précedente. On peut illustré cette idée avec un exemple suivant<span class="cite">[<a 
+href="#XLeNet">1</a>]</span>:
+<!--l. 90--><p class="indent" >   <hr class="figure"><div class="figure" 
+>
+                                                                                         
+                                                                                         
+<a 
+ id="x1-60012"></a>
+                                                                                         
+                                                                                         
+<div class="center" 
+>
+<!--l. 91--><p class="noindent" >
+<!--l. 92--><p class="noindent" ><img 
+src="local.png" alt="PIC"  
+>
+<br /> <div class="caption" 
+><span class="id">Figure&#x00A0;2: </span><span  
+class="content"> Localisation des caractéristiques</span></div><!--tex4ht:label?: x1-60012 -->
+</div>
+                                                                                         
+                                                                                         
+<!--l. 95--><p class="indent" >   </div><hr class="endfigure">
+<!--l. 97--><p class="indent" >   On voit dans le graphe que les synapses dans la couche <span 
+class="cmmi-10">m </span>sont reliés seulement à 3 neurones de la couche
+<span 
+class="cmmi-10">m </span><span 
+class="cmsy-10">- </span><span 
+class="cmr-10">1</span>.
+<!--l. 99--><p class="indent" >   Comme la position exacte d&#8217;une caractéristique n&#8217;a aucun impact sur la classification, on peut se permettre de
+perdre certaines informations sur la position dans notre processus. Néanmoins, la position approximative d&#8217;une
+caractéristiques doit être conservée afin que les couches d&#8217;ordre supérieur puissenet détecter les caractéristiques
+plus complexes.
+   <h5 class="subsubsectionHead"><span class="titlemark">2.2.2   </span> <a 
+ id="x1-70002.2.2"></a>Le poids partagé</h5>
+<!--l. 103--><p class="noindent" >Comme les différents caractéristiques d&#8217;un objet peuvent apparaître dans différents lieux sur une image, il
+est donc judicieux d&#8217;avoir des détecteurs de caractéristiques. Ceci se fait facilement avec des poids
+partagés.
+<!--l. 105--><p class="indent" >   Le poids partagé consiste à imposer une contrainte d&#8217;egalité du poids sur les synapses afin de former des "feature
+maps". Un exemple:
+<!--l. 107--><p class="indent" >   <hr class="figure"><div class="figure" 
+>
+                                                                                         
+                                                                                         
+<a 
+ id="x1-70013"></a>
+                                                                                         
+                                                                                         
+<div class="center" 
+>
+<!--l. 108--><p class="noindent" >
+<!--l. 109--><p class="noindent" ><img 
+src="feature.png" alt="PIC"  
+>
+<br /> <div class="caption" 
+><span class="id">Figure&#x00A0;3: </span><span  
+class="content"> Feature map</span></div><!--tex4ht:label?: x1-70013 -->
+</div>
+                                                                                         
+                                                                                         
+<!--l. 112--><p class="indent" >   </div><hr class="endfigure">
+<!--l. 114--><p class="indent" >   Dans le graphe ci-dessus, il y a 3 synapses appartenant à une "feature map", les poids de la même couleur ont
+été partagés. La descente du gradient reste valable pour les poids partagés, il suffit de considérer le gradient du
+poids partagé comme la somme des gradients des paramètres qui sont partagés.
+<!--l. 116--><p class="indent" >   Cette approche du poids partagé, qui est décrite plus précisément dans <span class="cite">[<a 
+href="#XRumelhart86">3</a>]</span>, nous permet de détecter une
+caractéristique particulère sans se soucier de trouver sa position exacte. Ainsi, elle augmenter énormément
+l&#8217;efficacité de l&#8217;apprentissage.
+   <h4 class="subsectionHead"><span class="titlemark">2.3   </span> <a 
+ id="x1-80002.3"></a>La structure du réseau</h4>
+<!--l. 120--><p class="noindent" >Il y a 5 couches dans notre réseau, y compris une couche d&#8217;entrée, 3 couches cachées <span 
+class="cmmi-10">H</span><sub><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10">H</span><sub><span 
+class="cmr-7">2</span></sub>, <span 
+class="cmmi-10">H</span><sub><span 
+class="cmr-7">3</span></sub> et une couche de
+sortie dont chaque couche prend ses entrées sur les sorties de la couche précédente. A chaque synapse est
+associé un poids synaptique. La mise en place des différentes couches reviendrait en effet à mettre en
+cascade plusieurs matrices de transformation et pourrait se ramener à une seule matrice, produit des
+autres.
+<!--l. 122--><p class="indent" >   La couche <span 
+class="cmmi-10">H</span><sub><span 
+class="cmr-7">1</span></sub> et la couche <span 
+class="cmmi-10">H</span><sub><span 
+class="cmr-7">2</span></sub> sont divisées respectivement en 12 8x8 "feature maps" et 12 4x4 "feature maps".
+La couche <span 
+class="cmmi-10">H</span><sub><span 
+class="cmr-7">3</span></sub> comprend 30 synapses alors que la couche de sortie comprend 10 synapses. Les connexions reliant les
+couches <span 
+class="cmmi-10">H</span><sub><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10">H</span><sub><span 
+class="cmr-7">2</span></sub> et les couches <span 
+class="cmmi-10">H</span><sub><span 
+class="cmr-7">2</span></sub>, <span 
+class="cmmi-10">H</span><sub><span 
+class="cmr-7">3</span></sub> sont établies suivant l&#8217;approche du poids partagé sous certaines contraintes
+qui sont illustrées par le graphe ci-dessous.
+<!--l. 124--><p class="indent" >   <hr class="figure"><div class="figure" 
+>
+                                                                                         
+                                                                                         
+<a 
+ id="x1-80014"></a>
+                                                                                         
+                                                                                         
+<div class="center" 
+>
+<!--l. 125--><p class="noindent" >
+<!--l. 126--><p class="noindent" ><img 
+src="structure.png" alt="PIC"  
+>
+<br /> <div class="caption" 
+><span class="id">Figure&#x00A0;4: </span><span  
+class="content"> La structure du réseau</span></div><!--tex4ht:label?: x1-80014 -->
+</div>
+                                                                                         
+                                                                                         
+<!--l. 129--><p class="indent" >   </div><hr class="endfigure">
+<!--l. 131--><p class="indent" >   On donne quelques chiffres pour résumer, il y a au total 1256 synapses, 64660 liaisons et 9760 paramètres
+indépendants. Le nombre de paramètres indépendants reste donc assez limité par rapport au nombre de
+liaisons.
+   <h4 class="subsectionHead"><span class="titlemark">2.4   </span> <a 
+ id="x1-90002.4"></a>Algorithme de la rétro-propagation</h4>
+<!--l. 135--><p class="noindent" >Notre réseau étant un réseau à rétro-propagation, on va donc décrire ici le principe de ce fameux
+algorithme<span class="cite">[<a 
+href="#XRumelhart86">3</a>]</span>:
+     <ul class="itemize1">
+     <li class="itemize">Passer un motif d&#8217;entraînement au réseau.
+     </li>
+     <li class="itemize">Comparer la sortie du réseau avec la sortie attendue.
+     </li>
+     <li class="itemize">Calculer l&#8217;erreur en sortie de chacun des neurones du réseau.
+     </li>
+     <li class="itemize">Calculer la valeur de sortie qui aurait été correcte pour chacun des neurones.
+     </li>
+     <li class="itemize">Définir l&#8217;augmentation ou la diminution nécessaire pour obtenir cette valeur (erreur locale).
+     </li>
+     <li class="itemize">Ajuster le poids de chaque connexion vers l&#8217;erreur locale la plus faible.
+     </li>
+     <li class="itemize">Attribuer un blâme à tous les neurones précédents.
+     </li>
+     <li class="itemize">Recommencer à partir de l&#8217;étape 4 sur les neurones précédents en utilisant le blâme comme erreur.</li></ul>
+<!--l. 148--><p class="indent" >   On va répéter cette procédure jusqu&#8217;à ce que l&#8217;algorithme converge.
+<!--l. 150--><p class="noindent" >
+   <h3 class="sectionHead"><span class="titlemark">3   </span> <a 
+ id="x1-100003"></a>Résultats</h3>
+<!--l. 152--><p class="noindent" >
+   <h4 class="subsectionHead"><span class="titlemark">3.1   </span> <a 
+ id="x1-110003.1"></a>L&#8217;environment de l&#8217;expérience</h4>
+<!--l. 154--><p class="noindent" >Les simulations se font sur une machine SUN-4/260 en utilisant un simulateur SN à rétro-propagation.
+<!--l. 156--><p class="noindent" >
+   <h4 class="subsectionHead"><span class="titlemark">3.2   </span> <a 
+ id="x1-120003.2"></a>Performance</h4>
+<!--l. 158--><p class="noindent" >A chaque passage de l&#8217;ensemble d&#8217;apprentissage, on mesure à la fois la performance sur l&#8217;ensemble d&#8217;apprentissage et
+l&#8217;ensemble de test. Et on passe au total 23 fois l&#8217;ensemble d&#8217;apprentissage.
+                                                                                         
+                                                                                         
+<!--l. 160--><p class="indent" >   Après ces 23 passages, le MSE (Mean square error) des sorties finales est <span 
+class="cmr-10">2</span><span 
+class="cmmi-10">.</span><span 
+class="cmr-10">5 </span><span 
+class="cmsy-10">&#x00D7; </span><span 
+class="cmr-10">10</span><sup><span 
+class="cmsy-7">-</span><span 
+class="cmr-7">3</span></sup> sur l&#8217;ensemble
+d&#8217;apprentissage et <span 
+class="cmr-10">1</span><span 
+class="cmmi-10">.</span><span 
+class="cmr-10">8 </span><span 
+class="cmsy-10">&#x00D7; </span><span 
+class="cmr-10">10</span><sup><span 
+class="cmsy-7">-</span><span 
+class="cmr-7">2</span></sup> sur l&#8217;ensemble de test. Le pourcentage des patterns mal classés est <span 
+class="cmr-10">0</span><span 
+class="cmmi-10">.</span><span 
+class="cmr-10">14% </span>sur
+l&#8217;ensemble d&#8217;apprentissage et <span 
+class="cmr-10">5</span><span 
+class="cmmi-10">.</span><span 
+class="cmr-10">0% </span>sur l&#8217;ensemble de test.
+<!--l. 162--><p class="indent" >   La convergence arrive extrêmement vite, cela signifie que la rétro-propagation peut très bien s&#8217;adapter à de
+telles tâches réelles. Ceci est dû au fait que les données réelles ont une très riche redondance.
+<!--l. 164--><p class="indent" >   <hr class="figure"><div class="figure" 
+>
+                                                                                         
+                                                                                         
+<a 
+ id="x1-120015"></a>
+                                                                                         
+                                                                                         
+<div class="center" 
+>
+<!--l. 165--><p class="noindent" >
+<!--l. 166--><p class="noindent" ><img 
+src="results.png" alt="PIC"  
+>
+<br /> <div class="caption" 
+><span class="id">Figure&#x00A0;5: </span><span  
+class="content"> Performance</span></div><!--tex4ht:label?: x1-120015 -->
+</div>
+                                                                                         
+                                                                                         
+<!--l. 169--><p class="indent" >   </div><hr class="endfigure">
+   <h4 class="subsectionHead"><span class="titlemark">3.3   </span> <a 
+ id="x1-130003.3"></a>Démo</h4>
+<!--l. 173--><p class="noindent" >Voici un lien pour une démo du LeNet-5 sur le site personnel de Yann LeCun. LeNet-5 est la dernière
+version du réseau convolutionnaire qu&#8217;ils ont développé pour la reconnaissance des chiffres manuscrits:
+<a 
+href="http://yann.lecun.com/exdb/lenet/" class="url" ><span 
+class="ectt-1000">http://yann.lecun.com/exdb/lenet/</span></a>
+<!--l. 175--><p class="noindent" >
+   <h3 class="sectionHead"><span class="titlemark">4   </span> <a 
+ id="x1-140004"></a>Conclusion</h3>
+<!--l. 177--><p class="noindent" >Etant donné que la base de données d&#8217;apprentissage a une taille assez considérable, le temps de la convergence de
+notre réseau semble assez résonable. Le résultat final est donc assez satisfaisant, et ceci montre aussi
+que la rétro-propagation peut effectivement jouer un rôle essentiel lors du traitement d&#8217;un problème
+réel.
+<!--l. 179--><p class="indent" >   Pourtant, il faut bien noter que notre réussite est dû au fait que nos données ont une riche redondance et que
+nous avons imposé certaines contraintes sur notre réseau. Or, dans un cas plus général, la rétro-propagation mène à
+une convergence assez lente.
+<!--l. 1--><p class="noindent" >
+   <h3 class="likesectionHead"><a 
+ id="x1-150004"></a>References</h3>
+<!--l. 1--><p class="noindent" >
+   <div class="thebibliography">
+   <p class="bibitem" ><span class="biblabel">
+ [1]<span class="bibsp">&#x00A0;&#x00A0;&#x00A0;</span></span><a 
+ id="XLeNet"></a>Convolutional neural networks. <a 
+href="http://deeplearning.net/tutorial/lenet.html" class="url" ><span 
+class="ectt-1000">http://deeplearning.net/tutorial/lenet.html</span></a>.
+   </p>
+   <p class="bibitem" ><span class="biblabel">
+ [2]<span class="bibsp">&#x00A0;&#x00A0;&#x00A0;</span></span><a 
+ id="XLecun89e"></a>Y.&#x00A0;LeCun, B.&#x00A0;Boser, J.&#x00A0;S. Denker, D.&#x00A0;Henderson, R.&#x00A0;E. Howard, W.&#x00A0;Hubbard, and L.&#x00A0;D. Jackel.
+   Backpropagation applied to handwritten zip code recognition. <span 
+class="ecti-1000">Neural Computation</span>, 1(4):541&#8211;551, Winter
+   1989.
+   </p>
+   <p class="bibitem" ><span class="biblabel">
+ [3]<span class="bibsp">&#x00A0;&#x00A0;&#x00A0;</span></span><a 
+ id="XRumelhart86"></a>D.&#x00A0;E. Rumelhart, G.&#x00A0;E. Hinton, and R.&#x00A0;J. Williams.  Learning internal representations by error
+   propagation. pages 318&#8211;362, 1986.
+</p>
+   </div>
+    
+</body></html> 
+
+                                                                                         
+
+
