@@ -89,5 +89,6 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <ul style="list-style-type:square">
   <li>NIPS 2017 - External Reviewer</li>
   <li>ICML 2018 - External Reviewer</li>
+  <li>AIStats 2019 - External Reviewer</li>
 </ul>
 </blockquote>
