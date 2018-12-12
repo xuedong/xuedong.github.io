@@ -62,7 +62,7 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 <ul class="fa-ul" itemscope>
 	<li>
 	<i class="fa-li fa fa-envelope"></i>
-	<span><pre><code class="language-ocaml">List.map (fun x -> "xuedong.shang@" ^ x ^ ".fr") ["inria"; "ens-rennes"; "univ-lille1"]</code></pre></span>
+	<span><pre><code class="language-ocaml">List.map (fun x -> "xuedong.shang@" ^ x ^ ".fr") ["inria"; "univ-lille"]</code></pre></span>
 	</li>
 	<li>
 	<i class="fa-li fa fa-map-marker"></i>
