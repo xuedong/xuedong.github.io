@@ -10,7 +10,9 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-  TBA
+<li>
+  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href=""><em>General parallel optimization without metric</em></a>. To be appeared in <a href="http://alt2019.algorithmiclearningtheory.org/accepted-papers/" style="color:#A4A4A4">The 30th International Conference on Algorithmic Learning Theory</a> (ALT 2018), Chicago, USA. [<a href="">talk</a>]
+</li>
 </ul>
 </blockquote>
 
@@ -42,9 +44,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-<li>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href=""><em>TBA</em></a>.
-</li>
+  TBA
 </ul>
 </blockquote>
 
