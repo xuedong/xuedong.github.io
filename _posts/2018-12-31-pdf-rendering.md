@@ -14,8 +14,8 @@ E: Unable to correct problems, you have held broken packages.
 ```
 
 `libpoppler-qt5-1` is a Qt5-based PDF rendering library. The dependency issue happened here due to the out-of-date package requirement of `libpoppler-qt5-1`, thus we need only to downgrade the `libpoppler73` library (x is the precise version required in the issue report of your os).
-`sudo apt install libpoppler73=0.62.0-2ubuntu2.x`
-`sudo apt install libpoppler-qt5-1`
+- `sudo apt install libpoppler73=0.62.0-2ubuntu2.x`
+- `sudo apt install libpoppler-qt5-1`
 
 
 Happy new year!!!
