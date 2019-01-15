@@ -20,7 +20,7 @@ Works only on Linux and OS X. Windows is not supported yet. If you want to use t
 
 ### Instructions
 
--   `sudo pip install jupyter-c-kernel`
+-   `(sudo) pip install jupyter-c-kernel` &lt;- beware that `sudo` may cause problems here
 -   `sudo install_c_kernel` &lt;- `sudo` is indispensable in some environments
 -   `jupyter notebook`. Enjoy!
 
