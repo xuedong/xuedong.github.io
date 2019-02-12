@@ -75,6 +75,8 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
+  <li><a href="https://rlss.inria.fr/" style="color:#A4A4A4">Reinforcement Learning Summer School 2019</a>, Lille, France, July 1-12, 2019.</li>
+<li><a href="https://mlssafrica.com/" style="color:#A4A4A4">Machine Learning Summer School 2019</a>, Stellenbosch, South Africa, January 7-18, 2019.</li>
   <li><a href="http://alt2019.algorithmiclearningtheory.org/" style="color:#A4A4A4">The 30th International Conference on Algorithmic Learning Theory</a>, Chicago, USA, March 22-24, 2019. [<a href="">talk</a>]</li>
   <li><a href="https://mlssafrica.com/" style="color:#A4A4A4">Machine Learning Summer School 2019</a>, Stellenbosch, South Africa, January 7-18, 2019.</li>
   <li><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/" style="color:#A4A4A4">CIMI Optimization and Learning Workshop</a>, Toulouse, France, September 10-13, 2018.</li>
