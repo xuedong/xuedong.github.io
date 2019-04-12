@@ -96,6 +96,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
   <li>NeurIPS 2019 - Reviewer</li>
   <li>ICML 2018, 2019 - External Reviewer</li>
   <li>AIStats 2019 - External Reviewer</li>
+  <li>ICLR Workshop of LLD 2019 - Reviewer</li>
   <li><a href="https://rlss.inria.fr/">RLSS 2019</a> - Organization Committee</li>
 </ul>
 </blockquote>
