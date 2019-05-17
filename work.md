@@ -33,7 +33,10 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2018adaptive.pdf"><em>Adaptive black-box optimization got easier: HCT only needs local smoothness</em></a>. In <a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">European Workshop on Reinforcement Learning</a> (EWRL 2018), Lille, France. [<a href="/static/documents/shang2018adaptive_poster.pdf">poster</a>]
+  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2018adaptive.pdf"><em>Adaptive black-box optimization got easier: HCT only needs local smoothness</em></a>. In <a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">14th European Workshop on Reinforcement Learning</a> (EWRL 2018), Lille, France. [<a href="/static/documents/shang2018adaptive_poster.pdf">poster</a>]
+</li>
+<li>
+  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href=""><em>A simple dynamic bandit-based algorithm for hyper-parameter tuning</em></a>. In <a href="https://sites.google.com/view/automl2019icml/">6th ICML Workshop on Automated Machine Learning</a> (ICML-AutoML 2019), Long Beach, USA.
 </li>
 </ul>
 </blockquote>
@@ -44,9 +47,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-<li>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href=""><em>TBA</em></a>. Submitted.
-</li>
+  TBA
 </ul>
 </blockquote>
 
