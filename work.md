@@ -33,7 +33,10 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2018adaptive.pdf"><em>Adaptive black-box optimization got easier: HCT only needs local smoothness</em></a>. In <a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">European Workshop on Reinforcement Learning</a> (EWRL 2018), Lille, France. [<a href="/static/documents/shang2018adaptive_poster.pdf">poster</a>]
+  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href=""><em>A simple dynamic bandit-based algorithm for hyper-parameter tuning</em></a>. In <a href="https://sites.google.com/view/automl2019icml/" style="color:#A4A4A4">6th ICML Workshop on Automated Machine Learning</a> (ICML 2019 - AutoML), Long Beach, USA. [<a href="">poster</a>]
+</li>
+<li>
+  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2018adaptive.pdf"><em>Adaptive black-box optimization got easier: HCT only needs local smoothness</em></a>. In <a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">14th European Workshop on Reinforcement Learning</a> (EWRL 2018), Lille, France. [<a href="/static/documents/shang2018adaptive_poster.pdf">poster</a>]
 </li>
 </ul>
 </blockquote>
@@ -44,9 +47,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-<li>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href=""><em>TBA</em></a>. Submitted.
-</li>
+  TBA
 </ul>
 </blockquote>
 
@@ -78,6 +79,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
   <li><a href="https://rlss.inria.fr/" style="color:#A4A4A4">Reinforcement Learning Summer School 2019</a>, Lille, France, July 1-12, 2019.</li>
+  <li><a href="https://sites.google.com/view/automl2019icml/" style="color:#A4A4A4">The 6th ICML Workshop on Automated Machine Learning</a>, Long Beach, USA, June 14, 2019. [<a href="">poster</a>]</li>
   <li><a href="http://alt2019.algorithmiclearningtheory.org/" style="color:#A4A4A4">The 30th International Conference on Algorithmic Learning Theory</a>, Chicago, USA, March 22-24, 2019. [<a href="/static/documents/alt2019_1.pdf">talk1</a>], [<a href="/static/documents/alt2019_2.pdf">talk2</a>]</li>
   <li><a href="https://mlssafrica.com/" style="color:#A4A4A4">Machine Learning Summer School 2019</a>, Stellenbosch, South Africa, January 7-18, 2019. [<a href="/static/documents/shang2018adaptive_poster.pdf">poster</a>]</li>
   <li><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/" style="color:#A4A4A4">CIMI Optimization and Learning Workshop</a>, Toulouse, France, September 10-13, 2018.</li>
