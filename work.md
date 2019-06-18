@@ -78,7 +78,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li><a href="https://rlss.inria.fr/" style="color:#A4A4A4">Reinforcement Learning Summer School 2019</a>, Lille, France, July 1-12, 2019. [<a href="/static/documents/shang2019dttts_poster.pdf">poster</a>]</li>
+  <li><a href="https://rlss.inria.fr/" style="color:#A4A4A4">Reinforcement Learning Summer School 2019</a>, Lille, France, July 1-12, 2019. [<a href="/static/documents/rlss2019_poster.pdf">poster</a>]</li>
   <li><a href="https://sites.google.com/view/automl2019icml/" style="color:#A4A4A4">The 6th ICML Workshop on Automated Machine Learning</a>, Long Beach, USA, June 14, 2019. [<a href="/static/documents/shang2019dttts_poster.pdf">poster</a>]</li>
   <li><a href="https://icml.cc/" style="color:#A4A4A4">The 36th International Conference on Machine Learning</a>, Long Beach, USA, June 9-15, 2019.</li>
   <li><a href="http://alt2019.algorithmiclearningtheory.org/" style="color:#A4A4A4">The 30th International Conference on Algorithmic Learning Theory</a>, Chicago, USA, March 22-24, 2019. [<a href="/static/documents/alt2019_1.pdf">talk1</a>], [<a href="/static/documents/alt2019_2.pdf">talk2</a>]</li>
