@@ -47,7 +47,9 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-  TBA
+<li>
+  Rianne de Heide*, <strong>Xuedong Shang</strong>*, Emilie Kaufmann, and Michal Valko, <a href=""><em>TBA</em></a>.
+</li>
 </ul>
 </blockquote>
 
