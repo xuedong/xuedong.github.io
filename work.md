@@ -103,6 +103,6 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
   <li>ICML 2018, 2019 - External Reviewer</li>
   <li>AIStats 2019 - External Reviewer</li>
   <li>ICLR 2019 <a href="https://lld-workshop.github.io/">Workshop LLD</a> - Reviewer</li>
-  <li><a href="https://rlss.inria.fr/">RLSS 2019</a> - Organization Committee</li>
+  <li><a href="https://rlss.inria.fr/">RLSS 2019</a> - Organization Committee, Teaching Assistant</li>
 </ul>
 </blockquote>
