@@ -66,7 +66,7 @@ Google Translate Community: I am a member of Google Translate Community, this pr
 
 <h3>Student Union</h3>
 
-I served as a bureau member of <a href="https://ucecl.github.io/">UCECL</a> (Union des chercheurs et étudiants chinois à Lille), the official regional Chinese student union at Lille during 2018-2019, and is now the Secretary-General (Executive President).
+I served as a bureau member of <a href="https://ucecl.github.io/">UCECL</a> (Union des chercheurs et étudiants chinois à Lille), the official regional Chinese student union at Lille, during 2018-2019, and is now the Secretary-General (Executive President).
 
 <hr />
 
