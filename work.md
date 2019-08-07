@@ -80,6 +80,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
+  <li><a href="https://grunewalder.blog/workshop-on-multi-armed-bandits-2019/" style="color:#A4A4A4">Multi-Armed Bandit Workshop</a>, London, UK, September 25-26, 2019.</li>
   <li><a href="https://rlss.inria.fr/" style="color:#A4A4A4">Reinforcement Learning Summer School 2019</a>, Lille, France, July 1-12, 2019. [<a href="/static/documents/rlss2019_poster.pdf">poster</a>]</li>
   <li><a href="https://sites.google.com/view/automl2019icml/" style="color:#A4A4A4">The 6th ICML Workshop on Automated Machine Learning</a>, Long Beach, USA, June 14, 2019. [<a href="/static/documents/shang2019dttts_poster.pdf">poster</a>]</li>
   <li><a href="https://icml.cc/" style="color:#A4A4A4">The 36th International Conference on Machine Learning</a>, Long Beach, USA, June 9-15, 2019.</li>
