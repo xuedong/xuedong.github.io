@@ -91,6 +91,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
   <li><a href="https://jel2018.sciencesconf.org/" style="color:#A4A4A4">Journée Exceptionnelle Lilloise 2018</a>, Lille, France, September 28, 2018.</li>
   <li><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/" style="color:#A4A4A4">CIMI Optimization and Learning Workshop</a>, Toulouse, France, September 10-13, 2018.</li>
   <li><a href="" style="color:#A4A4A4">Online Learning Workshop</a>, Paris, France, October 20, 2017.</li>
+  <li><a href="http://fjml.marcocuturi.net/" style="color:#A4A4A4">France-Japan Machine learning Workshop</a>, Paris, France, September 21-22, 2017.</li>
 </ul>
 </blockquote>
 
