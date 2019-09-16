@@ -44,12 +44,11 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <hr />
 
 <h4><B>Preprints</B></h4>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter tuning</em></a> (extended version of ICML 2019 - AutoML paper).
 <blockquote>
 <ul style="list-style-type:square">
-<!--<li>
-  Rianne de Heide*, <strong>Xuedong Shang</strong>*, Emilie Kaufmann, and Michal Valko, <a href=""><em>TBA</em></a>.
-</li>-->
+<li>
+  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter tuning</em></a> (extended version of ICML 2019 - AutoML paper).
+</li>
 </ul>
 </blockquote>
 
