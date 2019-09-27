@@ -88,6 +88,6 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 	<li>Google Scholar: <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5dXCwMcNs6lKz_F-sJyfWfnMtBTuLdKJyGY8t2Jh6OO359t0SEYW5wrNNi_VDO4sNmj3GE1FEjCwCrXGd5GUsef-YN7zRkQHij5qGswkqh0aQxMWM&user=EM6tQfsAAAAJ">Xuedong Shang</a></li>
 	<li>ResearchGate: <a href="https://www.researchgate.net/profile/Xuedong_Shang">Xuedong Shang</a></li>
 	<li>ORCID: <a href="https://orcid.org/0000-0002-1537-6540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-1537-6540</a></li>
-	<li><a ref="https://mathscinet.ams.org/mathscinet/freeTools.html?version=2">Erdős Number</a>: 5</li>
+	<li><a href="https://mathscinet.ams.org/mathscinet/freeTools.html?version=2">Erdős Number</a>: 5</li>
 </ul>
 </blockquote>
