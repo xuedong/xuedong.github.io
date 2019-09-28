@@ -1,5 +1,10 @@
+<head>
+  <!-- Place your kit's code here -->
+  <script src="https://kit.fontawesome.com/959d97c1e7.js" crossorigin="anonymous"></script>
+</head>
+
 <div class="social-icons">
 	{% for link in site.data.social %}
-      <a class="icon" target="_blank" href="{{ link.link }}"><i class="fa {{ link.icon }}"></i></a>
+      <a class="icon" target="_blank" href="{{ link.link }}"><i class="fab {{ link.icon }}"></i></a>
   {% endfor %}
 </div>
