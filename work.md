@@ -79,7 +79,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li><a href="http://www.noahlab.com.hk/#/home" style="color:#A4A4A4">Talk at Huawei Noah Ark's Lab</a>, Paris, France, October 17, 2019. [<a href="/static/documents/huawei_talk.pdf">talk</a>]</li>
+  <li><a href="http://www.noahlab.com.hk/#/home" style="color:#AA26DA">Talk at Huawei Noah Ark's Lab</a>, Paris, France, October 17, 2019. [<a href="/static/documents/huawei_talk.pdf">talk</a>]</li>
   <li><a href="https://grunewalder.blog/workshop-on-multi-armed-bandits-2019/" style="color:#A4A4A4">Multi-Armed Bandit Workshop</a>, London, UK, September 25-26, 2019.</li>
   <li><a href="http://www.worldaic.com.cn/portal/index.html" style="color:#A4A4A4">World Artificial Intelligence Conference 2019</a>, Shanghai, China, August 29-31, 2019.</li>
   <li><a href="https://rlss.inria.fr/" style="color:#A4A4A4">Reinforcement Learning Summer School 2019</a>, Lille, France, July 1-12, 2019. [<a href="/static/documents/rlss2019_poster.pdf">poster</a>]</li>
@@ -91,7 +91,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
   <li><a href="https://jel2018.sciencesconf.org/" style="color:#A4A4A4">Journée Exceptionnelle Lilloise 2018</a>, Lille, France, September 28, 2018.</li>
   <li><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/" style="color:#A4A4A4">CIMI Optimization and Learning Workshop</a>, Toulouse, France, September 10-13, 2018.</li>
   <li><a href="https://team.inria.fr/sequel/seminar/" style="color:#A4A4A4">Talk at PhD Students' Seminar of Inria SequeL team</a>, Lille, France, February 2, 2017. [<a href="/static/documents/phd_seminar_talk.pdf">talk</a>]</li>
-  <li><a href="" style="color:#A4A4A4">Online Learning Workshop</a>, Paris, France, October 20, 2017.</li>
+  <li><a href="" style="color:#AA26DA">Online Learning Workshop</a>, Paris, France, October 20, 2017.</li>
   <li><a href="http://fjml.marcocuturi.net/" style="color:#A4A4A4">France-Japan Machine learning Workshop</a>, Paris, France, September 21-22, 2017.</li>
 </ul>
 </blockquote>
