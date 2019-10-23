@@ -11,7 +11,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2019general.pdf"><em>General parallel optimization without a metric</em></a>. In <a href="http://alt2019.algorithmiclearningtheory.org/accepted-papers/" style="color:#A4A4A4">Proceedings of the 30th International Conference on Algorithmic Learning Theory</a> (ALT 2019), Chicago, USA. [<a href="/static/documents/alt2019_1.pdf">talk</a>]
+  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2019general.pdf"><em>General parallel optimization without a metric</em></a>. In <a href="http://alt2019.algorithmiclearningtheory.org/accepted-papers/" style="color:#A4A4A4">Proceedings of the 30th International Conference on Algorithmic Learning Theory</a> (ALT 2019), Chicago, USA. [<a href="/static/documents/alt2019_talk_1.pdf">talk</a>]
 </li>
 </ul>
 </blockquote>
@@ -79,18 +79,18 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li><a href="http://www.noahlab.com.hk/#/home" style="color:#A4A4A4">Talk at Huawei Noah Ark's Lab</a>, Paris, France, October 17, 2019. [talk]</li>
+  <li><a href="http://www.noahlab.com.hk/#/home" style="color:#A4A4A4">Talk at Huawei Noah Ark's Lab</a>, Paris, France, October 17, 2019. [<a href="/static/documents/huawei_talk.pdf">talk</a>]</li>
   <li><a href="https://grunewalder.blog/workshop-on-multi-armed-bandits-2019/" style="color:#A4A4A4">Multi-Armed Bandit Workshop</a>, London, UK, September 25-26, 2019.</li>
   <li><a href="http://www.worldaic.com.cn/portal/index.html" style="color:#A4A4A4">World Artificial Intelligence Conference 2019</a>, Shanghai, China, August 29-31, 2019.</li>
   <li><a href="https://rlss.inria.fr/" style="color:#A4A4A4">Reinforcement Learning Summer School 2019</a>, Lille, France, July 1-12, 2019. [<a href="/static/documents/rlss2019_poster.pdf">poster</a>]</li>
   <li><a href="https://sites.google.com/view/automl2019icml/" style="color:#A4A4A4">The 6th ICML Workshop on Automated Machine Learning</a>, Long Beach, USA, June 14, 2019. [<a href="/static/documents/shang2019dttts_poster.pdf">poster</a>]</li>
   <li><a href="https://icml.cc/" style="color:#A4A4A4">The 36th International Conference on Machine Learning</a>, Long Beach, USA, June 9-15, 2019.</li>
-  <li><a href="http://alt2019.algorithmiclearningtheory.org/" style="color:#A4A4A4">The 30th International Conference on Algorithmic Learning Theory</a>, Chicago, USA, March 22-24, 2019. [<a href="/static/documents/alt2019_1.pdf">talk1</a>], [<a href="/static/documents/alt2019_2.pdf">talk2</a>]</li>
+  <li><a href="http://alt2019.algorithmiclearningtheory.org/" style="color:#A4A4A4">The 30th International Conference on Algorithmic Learning Theory</a>, Chicago, USA, March 22-24, 2019. [<a href="/static/documents/alt2019_talk_1.pdf">talk1</a>], [<a href="/static/documents/alt2019_talk_2.pdf">talk2</a>]</li>
   <li><a href="https://mlssafrica.com/" style="color:#A4A4A4">Machine Learning Summer School 2019</a>, Stellenbosch, South Africa, January 7-18, 2019. [<a href="/static/documents/shang2018adaptive_poster.pdf">poster</a>]</li>
   <li><a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">The 14th European Workshop on Reinforcement Learning</a>, Lille, France, October 1-3, 2018. [<a href="/static/documents/shang2018adaptive_poster.pdf">poster</a>]</li>
   <li><a href="https://jel2018.sciencesconf.org/" style="color:#A4A4A4">Journée Exceptionnelle Lilloise 2018</a>, Lille, France, September 28, 2018.</li>
   <li><a href="http://www.cimi.univ-toulouse.fr/optimisation/en/workshop-optimization-and-machine-learning/" style="color:#A4A4A4">CIMI Optimization and Learning Workshop</a>, Toulouse, France, September 10-13, 2018.</li>
-  <li><a href="https://team.inria.fr/sequel/seminar/" style="color:#A4A4A4">Talk at PhD Students' Seminar of Inria SequeL team</a>, Lille, France, February 2, 2017. [<a href="/static/documents/phd_seminar.pdf">talk</a>]</li>
+  <li><a href="https://team.inria.fr/sequel/seminar/" style="color:#A4A4A4">Talk at PhD Students' Seminar of Inria SequeL team</a>, Lille, France, February 2, 2017. [<a href="/static/documents/phd_seminar_talk.pdf">talk</a>]</li>
   <li><a href="" style="color:#A4A4A4">Online Learning Workshop</a>, Paris, France, October 20, 2017.</li>
   <li><a href="http://fjml.marcocuturi.net/" style="color:#A4A4A4">France-Japan Machine learning Workshop</a>, Paris, France, September 21-22, 2017.</li>
 </ul>
