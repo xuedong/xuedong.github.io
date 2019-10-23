@@ -47,6 +47,9 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
+  <strong>Xuedong Shang</strong>, Rianne de Heide, Emilie Kaufmann, Pierre Ménard and Michal Valko, <a href="/static/documents/shang2019t3c.pdf"><em>Fixed-confidence guarantees for Bayesian best-arm identification</em></a>.
+</li>
+<li>
   <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter tuning</em></a> (extended version of ICML 2019 - AutoML paper).
 </li>
 </ul>
