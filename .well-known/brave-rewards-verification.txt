@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: xuedong.github.io
+Token: b88c4c6bd84b8aa260280df54d986ebbf677319d34d870f5efe5856f012fe547
