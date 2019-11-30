@@ -27,7 +27,7 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 </li>
 <li>
 	<i class="fa-li fa fa-file-pdf-o"></i>
-	<span><a href="/static/documents/cv_cn.pdf">中文简历</a></span> (详细履历请参考英文简历)
+	<span><a href="/static/documents/cv_cn.pdf">中文简历</a></span>（详细履历请参考英文简历）
 </li>
 </ul>
 
