@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 数学与音乐(转载自<a href="http://rrurl.cn/2mRZji">草鱼</a>原创)
+title: 数学与音乐(转载自[草鱼](http://rrurl.cn/2mRZji)原创)
 date:   2017-11-26 23:58:39
 categories: music_mathematics
 ---
