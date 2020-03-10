@@ -5,7 +5,7 @@ date:   2017-11-26 23:58:39
 categories: music_mathematics
 ---
 
-- 转载自[草鱼](http://rrurl.cn/2mRZji)原创
+<h2>转载自[草鱼](http://rrurl.cn/2mRZji)原创</h2>
 
 <p>以前在校内上曾经流行一个<a href="http://blog.renren.com/blog/229032183/846449988">matlab演奏《卡农》</a>的帖子，写法蛮帅的，用的还是纯律而非平均律。回想起我初中时候在少科站无聊也用Turbo Pascal编过《亚洲雄风》来着，当时就觉得一串数字转化成音乐是件很神奇的事情。来聊聊音乐和数学哈~</p>
 <p>音乐之所以和谐美妙，很大程度上得益于两个数学上的约等式同时成立：</p>
