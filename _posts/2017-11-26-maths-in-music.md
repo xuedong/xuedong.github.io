@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 数学与音乐(转载)
+title: 数学与音乐(转载自<a href="http://rrurl.cn/2mRZji">草鱼</a>原创)
 date:   2017-11-26 23:58:39
 categories: music_mathematics
 ---
@@ -57,7 +57,5 @@ categories: music_mathematics
 <p>【不只是数学】</p>
 <p>相信较真儿的同志肯定发现了不少问题：上述模型中小六度应该是不协和的，而实际乐理中认为小六度是协和音程；模型只考虑了根音6倍音以下的情况，而没说明为 什么取6倍；用Gamma分布描述人耳对不协和程度的感知缺乏理论依据，等等。确实，这个模型有很多简化和不足的地方。而且我只是关注单音程协和的问题， 要解释三和弦、四和弦的协和，乃至和弦进行的问题就要复杂得多了（<a href="http://rrurl.cn/1hJlqB">这里</a>有解释三和弦和谐程度的几个模型，简化中文版看<a href="http://rrurl.cn/4OgC20">这里</a>）。</p>
 <p>进一步说，协和又怎么样，协和的音乐就好听吗？这个答案必须是否定的。欧洲中世纪和中国古代都有“音乐之美在于和谐”的思想，进而产生出像复调音乐“<a href="http://rrurl.cn/o6092C">奥加农</a>”和中国的“<a href="http://rrurl.cn/p2cyol">雅乐</a>”这样追求绝对协和的音乐。以奥加农为例，全部依平行四度、平行五度进行，但其结果是音乐过于空洞、苍白，为历史所淘汰。<a href="http://rrurl.cn/qzBMh6">平行五八度</a>的进行也因为过于协和而在古典乐理中被禁掉。现代音乐那就更自由了：爵士、布鲁斯的和弦进行就与古典音乐有明显差别，而现代主义的<a href="http://rrurl.cn/3nV11k">无调性音乐</a>就完全没有协和可谈了。所以说协和只是音乐之美的一个方面，节奏、音色、曲式、歌词等等往往起到更大的影响。不过说实在的，作为一个俗人，还是听协和点的音乐比较舒服啊~</p>
-
-<p><a href="http://rrurl.cn/2mRZji">草鱼</a>原创，转载请注明</p>
 
 <p>参考文献： <br>[1] <a href="http://rrurl.cn/7MMRvR"><em>律制详解</em></a>  <br>[2] <a href="http://rrurl.cn/7TYRp2">悠扬</a>, <a href="http://rrurl.cn/4OgC20">【和专题】跟我和一曲阿卡贝拉</a> <br>[3] Norman D. Cook and Takefumi Hayashi, <a href="http://rrurl.cn/bn9blP">The psychoacoustics of harmony perception.</a> In American Scientist, July-August: 311-319, 2008  <br>[4] Reinier Plomp and Willem J. M. Levelt, <a href="http://rrurl.cn/aPsKu7">Tonal consonances and critical bandwidth.</a> In Journal of the Acoustical Society of America, 38, 548-560, 1965</p>
