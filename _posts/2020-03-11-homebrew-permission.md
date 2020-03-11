@@ -7,6 +7,9 @@ categories: macos
 
 I recently encountered the following error when trying to upgrade Homebrew packages on my macOS:
 
+```console
+foo@bar:~$ Error: Permission denied @ apply2files - /usr/local/share/ghostscript/9.23/Resource/CIDFSubst/ipaexg.ttf
+```
 `Error: Permission denied @ apply2files - /usr/local/share/ghostscript/9.23/Resource/CIDFSubst/ipaexg.ttf`
 
 While running Homebrew as root is not supported anymore, we cannot simply use `sudo` to overcome the problem. A simple solution can be modify the user permssions of `/usr/local`, for example as stated [here](https://github.com/Homebrew/homebrew-core/issues/45009), we can apply the following command in your terminal:
