@@ -5,7 +5,7 @@ date:   2020-03-11 21:36:48
 categories: macos
 ---
 
-I recently encountered the following error when trying to upgrade Homebrew packages on my macOS:
+I recently encountered the following error when trying to upgrade Homebrew packages on my macOS (High Sierra):
 
 ```console
 foo@bar:~$ Error: Permission denied @ apply2files - /usr/local/share/ghostscript/9.23/Resource/CIDFSubst/ipaexg.ttf
