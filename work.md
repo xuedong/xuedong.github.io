@@ -82,7 +82,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li><a href="https://www.aistats.org/" style="color:#A4A4A4">The 23rd International Conference on Artificial Intelligence and Statistics</a>, Palermo, Italy, TBD, 2020.</li> [<a href="">poster</a>]
+  <li><a href="https://www.aistats.org/" style="color:#A4A4A4">The 23rd International Conference on Artificial Intelligence and Statistics</a>, Palermo, Italy, TBD, 2020. [<a href="">poster</a>]</li>
   <li><a href="https://icml.cc/" style="color:#A4A4A4">The 36th International Conference on Machine Learning (Virtualized)</a>, Vienna, Austria, July 12-18, 2020.</li>
   <li><a href="https://iclr.cc/" style="color:#A4A4A4">The 8th International Conference on Learning Representations (Virtualized)</a>, Addis Ababa, Ethiopia, April 26-30, 2020.</li>
   <li><a href="https://ellis.eu/en/news/online-workshop-on-covid19-ellis-on-april-1st" style="color:#A4A4A4">ELLIS against COVID-19 Workshop (Virtualized) (Virtualized)</a>, April 1, 2020.</li>
