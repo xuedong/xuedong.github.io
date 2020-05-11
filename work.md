@@ -46,9 +46,12 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <hr />
 
-<h4><B>Preprints</B></h4>
+<h4><B>Preprints/Working Paper</B></h4>
 <blockquote>
 <ul style="list-style-type:square">
+<li>
+  Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko, <a href=""><em>Gamification of pure exploration for linear bandits</em></a>.
+</li>
 <li>
   <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter tuning</em></a> (extended version of ICML 2019 - AutoML paper).
 </li>
