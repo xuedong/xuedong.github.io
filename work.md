@@ -11,7 +11,10 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  <strong>Xuedong Shang</strong>, Rianne de Heide, Emilie Kaufmann, Pierre Ménard and Michal Valko, <a href="/static/documents/shang2019t3c.pdf"><em>Fixed-confidence guarantees for Bayesian best-arm identification</em></a>. To appear in <a href="https://www.aistats.org/" style="color:#A4A4A4">Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics</a> (AIStats 2020), Palermo, Italy.
+  Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko, <em>Gamification of pure exploration for linear bandits</em>. In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a> (ICML 2020), Vienna, Austria.
+</li>
+<li>
+  <strong>Xuedong Shang</strong>, Rianne de Heide, Emilie Kaufmann, Pierre Ménard and Michal Valko, <a href="/static/documents/shang2019t3c.pdf"><em>Fixed-confidence guarantees for Bayesian best-arm identification</em></a>. In <a href="https://www.aistats.org/" style="color:#A4A4A4">Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics</a> (AIStats 2020), Palermo, Italy.
 </li>
 <li>
   <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2019general.pdf"><em>General parallel optimization without a metric</em></a>. In <a href="http://alt2019.algorithmiclearningtheory.org/accepted-papers/" style="color:#A4A4A4">Proceedings of the 30th International Conference on Algorithmic Learning Theory</a> (ALT 2019), Chicago, USA. [<a href="/static/documents/alt2019_talk_1.pdf">talk</a>]
@@ -50,9 +53,6 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko, <em>Gamification of pure exploration for linear bandits</em>.
-</li>
-<li>
   <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter tuning</em></a> (extended version of ICML 2019 - AutoML paper).
 </li>
 </ul>
@@ -86,7 +86,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
   <li><a href="https://www.aistats.org/" style="color:#A4A4A4">The 23rd International Conference on Artificial Intelligence and Statistics (Virtualized)</a>, Palermo, Italy, TBD, 2020. [<a href="">talk</a>], [<a href="">video</a>]</li>
-  <li><a href="https://icml.cc/" style="color:#A4A4A4">The 36th International Conference on Machine Learning (Virtualized)</a>, Vienna, Austria, July 12-18, 2020.</li>
+  <li><a href="https://icml.cc/" style="color:#A4A4A4">The 37th International Conference on Machine Learning (Virtualized)</a>, Vienna, Austria, July 12-18, 2020. [<a href="">talk</a>], [<a href="">video</a>]</li>
   <li><a href="https://iclr.cc/" style="color:#A4A4A4">The 8th International Conference on Learning Representations (Virtualized)</a>, Addis Ababa, Ethiopia, April 26-30, 2020.</li>
   <li><a href="https://ellis.eu/en/news/online-workshop-on-covid19-ellis-on-april-1st" style="color:#A4A4A4">ELLIS against COVID-19 Workshop (Virtualized)</a>, April 1, 2020.</li>
   <li><a href="https://team.inria.fr/sequel/seminar/" style="color:#AA26DA">Talk at Seminar of Inria SequeL Team</a>, Lille, France, February 29, 2020. [<a href="/static/documents/sequel_talk.pdf">talk</a>]</li>
