@@ -119,5 +119,5 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
   <li>Volunteer - ICLR 2020, ICML 2020</li>
 </ul>
 
-<h6>* - top reviewer</h6>
+<h5>* - top reviewer</h5>
 </blockquote>
