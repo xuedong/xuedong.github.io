@@ -11,7 +11,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko, <a href="/static/documents/degenne2020game.pdf"><em>Gamification of pure exploration for linear bandits</em></a>. In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a> (ICML 2020), Vienna, Austria. [<a href="/static/documents/icml2020_talk.pdf">talk</a>], [<a href="">video</a>]
+  Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko, <a href="/static/documents/degenne2020game.pdf"><em>Gamification of pure exploration for linear bandits</em></a>. In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a> (ICML 2020), Vienna, Austria. [<a href="/static/documents/icml2020_talk.pdf">talk</a>], [<a href="https://icml.cc/virtual/2020/poster/6506">video</a>]
 </li>
 <li>
   <strong>Xuedong Shang</strong>, Rianne de Heide, Emilie Kaufmann, Pierre Ménard and Michal Valko, <a href="/static/documents/shang2019t3c.pdf"><em>Fixed-confidence guarantees for Bayesian best-arm identification</em></a>. In <a href="https://www.aistats.org/" style="color:#A4A4A4">Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics</a> (AIStats 2020), Palermo, Italy. [<a href="/static/documents/aistats2020_talk.pdf">talk</a>], [<a href="">video</a>]
