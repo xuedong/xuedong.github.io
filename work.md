@@ -56,7 +56,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
   <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter optimization</em></a>.
 </li>
 <li>
-  Han Shao, <strong>Xuedong Shang</strong>, and Jian Qian, Paper on fairness in bandits (draft on demand).
+  Han Shao, <strong>Xuedong Shang</strong>, and Jian Qian, paper on fairness in bandits (draft on demand).
 </li>
 </ul>
 </blockquote>
