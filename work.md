@@ -88,8 +88,9 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
+    <li><a href="https://www.heidelberg-laureate-forum.org/" style="color:#A4A4A4">Heidelberg Laureate Forum 2020 (Virtualized)</a>, Heidelberg, Germany, September 21-25, 2020.</li>
   <li><a href="https://www.aistats.org/" style="color:#A4A4A4">The 23rd International Conference on Artificial Intelligence and Statistics (Virtualized)</a>, Palermo, Italy, August 26-28, 2020. [<a href="/static/documents/aistats2020_talk.pdf">talk</a>], [<a href="">video</a>]</li>
-  <li><a href="https://icml.cc/" style="color:#A4A4A4">The 37th International Conference on Machine Learning (Virtualized)</a>, Vienna, Austria, July 12-18, 2020. [<a href="/static/documents/icml2020_talk.pdf">talk</a>], [<a href="">video</a>]</li>
+  <li><a href="https://icml.cc/" style="color:#A4A4A4">The 37th International Conference on Machine Learning (Virtualized)</a>, Vienna, Austria, July 12-18, 2020. [<a href="/static/documents/icml2020_talk.pdf">talk</a>], [<a href="https://icml.cc/virtual/2020/poster/6506">video</a>]</li>
   <li><a href="https://iclr.cc/" style="color:#A4A4A4">The 8th International Conference on Learning Representations (Virtualized)</a>, Addis Ababa, Ethiopia, April 26-30, 2020.</li>
   <li><a href="https://ellis.eu/en/news/online-workshop-on-covid19-ellis-on-april-1st" style="color:#A4A4A4">ELLIS against COVID-19 Workshop (Virtualized)</a>, April 1, 2020.</li>
   <li><a href="https://team.inria.fr/sequel/seminar/" style="color:#AA26DA">Talk at Seminar of Inria SequeL Team</a>, Lille, France, February 29, 2020. [<a href="/static/documents/sequel_talk.pdf">talk</a>]</li>
