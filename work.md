@@ -53,7 +53,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  Han Shao, <strong>Xuedong Shang</strong>, and Jian Qian, How to live with each other: A fair regret for bandits with vector payoffs (draft on demand).
+  Han Shao, <strong>Xuedong Shang</strong>, and Jian Qian, <a href=""><em>How to live with each other: A fair regret for bandits with vector payoffs</em></a> (draft on demand).
 </li>
 <li>
   <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter optimization</em></a>.
