@@ -10,7 +10,7 @@ permalink: /about/
 
 <blockquote>
 <p>
-I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inria Lille-Nord Europe</a> in team <a href="https://team.inria.fr/sequel/">SequeL</a> (now becoming team SCOOL) under the supervision of <a href="http://chercheurs.lille.inria.fr/ekaufman/index.html" style="color:#3A01DF">Emilie Kaufmann</a> (CNRS) and <a href="http://researchers.lille.inria.fr/~valko/hp/" style="color:#3A01DF">Michal Valko</a> (DeepMind), with whom I also wrote my MSc thesis. My current research focuses on sequential decision making with our without side information, in particular, bandit theory and its applications (hyper-parameter optimization for machine learning, online algorithm selection, etc). I am also interested in theoretical reinforcement learning. From March 2020 to August 2020, I joined Noah's Ark lab for an internship on AutoML, working with <a href="https://users.lal.in2p3.fr/kegl/" style="color:#3A01DF">Balázs Kégl</a> (Noah's Ark). Before I received a BSc and a MSc of Computer Science from Ecole normale supérieure de Cachan (Rennes Campus) and a BSc of Mathematics from Université Pierre et Marie Curie (Paris VI). I also visited University of Kyoto during my MSc for an internship under the supervision of <a href="https://marcocuturi.net/" style="color:#3A01DF">Marco Cuturi</a> (Google Brain).
+I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inria Lille-Nord Europe</a> in team <a href="https://team.inria.fr/sequel/">SequeL</a> (now becoming team SCOOL) under the supervision of <a href="http://chercheurs.lille.inria.fr/ekaufman/index.html" style="color:#3A01DF">Emilie Kaufmann</a> (CNRS) and <a href="http://researchers.lille.inria.fr/~valko/hp/" style="color:#3A01DF">Michal Valko</a> (DeepMind), with whom I also wrote my MSc thesis. My current research focuses on sequential decision making with our without side information. In particular, I'm interested in online learning with partial feedback, a.k.a. multi-armed bandits and its applications (hyper-parameter optimization for machine learning, online algorithm selection, etc). I am also interested in theoretical reinforcement learning. From March 2020 to August 2020, I joined Noah's Ark lab for an internship on AutoML, working with <a href="https://users.lal.in2p3.fr/kegl/" style="color:#3A01DF">Balázs Kégl</a> (Noah's Ark). Before I received a BSc and a MSc of Computer Science from Ecole normale supérieure de Cachan (Rennes Campus) and a BSc of Mathematics from Université Pierre et Marie Curie (Paris VI). I also visited University of Kyoto during my MSc for an internship under the supervision of <a href="https://marcocuturi.net/" style="color:#3A01DF">Marco Cuturi</a> (Google Brain).
 </p>
 </blockquote>
 
@@ -45,19 +45,20 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 <p>
 <p>My main research interest lies in:</p>
 <ul style="list-style-type:square">
-	<li>bandit theory</li>
-	<li>reinforcement learning</li>
-	<li>optimization</li>
-	<li>automated machine learning</li>
+	<li>Bandit Theory</li>
+	<li>Reinforcement Learning</li>
+	<li>Optimization</li>
+	<li>Automated Machine Learning</li>
 </ul>
 <p>I'm also interested in:</p>
 <ul style="list-style-type:square">
-	<li>online learning</li>
-	<li>deep learning</li>
-	<li>natural language processing</li>
-	<li>time series</li>
-	<li>optimal transport</li>
-	<li>recommender system</li>
+	<li>AI for Social Good</li>
+	<li>Online Learning</li>
+	<li>Deep Learning</li>
+	<li>Natural Language Processing</li>
+	<li>Time Series</li>
+	<li>Optimal Transport</li>
+	<li>Recommender System</li>
 </ul>
 </p>
 </blockquote>
