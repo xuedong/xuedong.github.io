@@ -49,7 +49,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <hr />
 
-<h4><B>Preprints/Working Paper</B></h4>
+<h4><B>Preprints/Technical Reports/Working Papers</B></h4>
 <blockquote>
 <ul style="list-style-type:square">
 <li>
