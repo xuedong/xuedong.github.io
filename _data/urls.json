@@ -16,6 +16,11 @@
     "icon": "fa-book"
   },
   {
+    "text": "Events",
+    "url": "/events/",
+    "icon": "fa-calendar-alt"
+  },
+  {
     "text": "Teaching",
     "url": "/teaching/",
     "icon": "fa-pencil"
