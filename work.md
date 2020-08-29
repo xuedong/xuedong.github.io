@@ -85,8 +85,8 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li><a href="/static/documents/sequel_talk.pdf" style="color:#AA26DA">Talk at Seminar of Inria SequeL Team</a>, Lille, France, February 29, 2020.
-  <li><a href="/static/documents/huawei_talk.pdf" style="color:#AA26DA">Talk at Huawei Noah Ark's Lab</a>, Paris, France, October 17, 2019.
+  <li><a href="/static/documents/sequel_talk.pdf" style="color:#AA26DA">Talk at Seminar of Inria SequeL Team</a>, Lille, France, February 29, 2020.</li>
+  <li><a href="/static/documents/huawei_talk.pdf" style="color:#AA26DA">Talk at Huawei Noah Ark's Lab</a>, Paris, France, October 17, 2019.</li>
   <li><a href="/static/documents/phd_seminar_talk.pdf" style="color:#AA26DA">Talk at PhD Students' Seminar of Inria SequeL Team</a>, Lille, France, February 2, 2017.</li>
 </ul>
 </blockquote>
