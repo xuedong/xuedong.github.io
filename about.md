@@ -38,7 +38,7 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 </blockquote>
 
 <a href="https://github.com/xuedong">
-<img src="http://ghchart.rshah.org/2962FF/xuedong" alt="Xuedong's GitHub page">
+<img src="http://ghchart.rshah.org/2962FF/xuedong" alt="Xuedong's GitHub page" />
 </a>
 
 <hr />
