@@ -53,7 +53,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  Jian Qian, <strong>Xuedong Shang</strong>, and Han Shao, <a href=""><em>How to live with each other: A fair regret for bandits with vector payoffs <math><msqrt><mn>2</mn></msqrt></math></em></a> (draft on demande).
+  Jian Qian, <strong>Xuedong Shang</strong>, and Han Shao, <a href=""><em>Stochastic bandits with vector losses: Minimizing \(\ell^\infty\) norm of relative losses</em></a> (draft on demande).
 </li>
 <li>
   <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter optimization</em></a>.
