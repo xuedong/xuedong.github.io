@@ -18,7 +18,7 @@ permalink: /events/
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li><a href="https://project.inria.fr/inriacwi/workshop-2020/" style="color:#A4A4A4">4th CWI-Inria Workshop (Virtualized)</a>, September 24, 2020.</li>[<a href="">talk</a>]
+  <li><a href="https://project.inria.fr/inriacwi/workshop-2020/" style="color:#A4A4A4">4th CWI-Inria Workshop (Virtualized)</a>, Amsterdam, Netherlands, September 24, 2020.</li>[<a href="">talk</a>]
   <li><a href="https://www.heidelberg-laureate-forum.org/" style="color:#A4A4A4">Heidelberg Laureate Forum 2020 (Virtualized)</a>, Heidelberg, Germany, September 21 - September 25, 2020.</li>
   <li><a href="https://simons.berkeley.edu/workshops/rl-2020-bc" style="color:#A4A4A4">Simons Institute Workshop: Theory of Reinforcement Learning Boot Camp (Virtualized)</a>, Berkeley, CA, USA, August 31 - September 4, 2020.</li>
   <li><a href="https://www.aistats.org/" style="color:#A4A4A4">The 23rd International Conference on Artificial Intelligence and Statistics (Virtualized)</a>, Palermo, Italy, August 26 - August 28, 2020. [<a href="/static/documents/aistats2020_talk.pdf">talk</a>], [<a href="https://aistats2020.net/poster_622.html">video</a>]</li>
