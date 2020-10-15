@@ -52,14 +52,14 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <h4><B>Preprints/Technical Reports/Working Papers</B></h4>
 <blockquote>
 <ul style="list-style-type:square">
-<!--li>
-  Jian Qian, <strong>Xuedong Shang</strong>, and Han Shao, <a href=""><em>Stochastic bandits with vector losses: Minimizing \(\ell^\infty\)-norm of relative losses</em></a> (draft on demande).
-</li-->
+<li>
+  <strong>Xuedong Shang</strong>, Han Shao, and Jian Qian, <a href="/static/documents/shang2020vector.pdf"><em>Stochastic bandits with vector losses: Minimizing \(\ell^\infty\)-norm of relative losses</em></a>.
+</li>
 <li>
   <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter optimization</em></a>.
 </li>
 <li>
-  Dominique Barbe, Alexandre Debant, <strong>Xuedong Shang</strong>, <a href="/static/documents/time_series.pdf"><em>Time series clustering</em></a>.
+  Dominique Barbe, Alexandre Debant, <strong>Xuedong Shang</strong>, <a href="/static/documents/barbe2016clustering.pdf"><em>Time series clustering</em></a>.
 </li>
 </ul>
 </blockquote>
