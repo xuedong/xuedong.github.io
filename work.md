@@ -101,7 +101,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
   <li>External Reviewer - NIPS 2017; ICML 2018, 2019, 2020; AIStats 2019</li>
-  <li>Reviewer - NeurIPS 2019<sup>*</sup>, 2020; ICLR 2019 <a href="https://lld-workshop.github.io/" style="color:#A4A4A4">LLD Workshop</a>, ICLR 2021</li>
+  <li>Reviewer - NeurIPS 2019<sup>*</sup>, 2020<sup>**</sup>; ICLR 2019 <a href="https://lld-workshop.github.io/" style="color:#A4A4A4">LLD Workshop</a>, ICLR 2021</li>
   <li>Organization Committee - <a href="https://rlss.inria.fr/" style="color:#A4A4A4">RLSS 2019</a></li>
   <li>Volunteer - ICLR 2020, ICML 2020</li>
 </ul>
