@@ -21,13 +21,6 @@
 		"tags": ["logic", "ocaml"]
 	},
 	{
-		"name": "Hyperparamter Optimization",
-		"image": "hyperparameter.png",
-		"url": "https://xuedong.github.io/assets/research/index.html",
-		"date": "Feb 2018",
-		"tags": ["multi-armed bandit", "machine learning", "deep learning", "theano", "python"]
-	},
-	{
 		"name": "Music Style Classification and Generation",
 		"image": "sheet.png",
 		"url": "https://github.com/xuedong/auto-music",
@@ -40,6 +33,13 @@
 		"url": "https://github.com/xuedong/project-euler",
 		"date": "Dec 2017",
 		"tags": ["number theory", "computational arithmetic", "maths", "ocaml"]
+	},
+	{
+		"name": "Hyperparamter Optimization",
+		"image": "hyperparameter.png",
+		"url": "https://xuedong.github.io/assets/research/index.html",
+		"date": "Feb 2018",
+		"tags": ["multi-armed bandit", "machine learning", "deep learning", "theano", "python"]
 	},
 	{
 		"name": "Time Series Clustering",
