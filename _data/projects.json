@@ -1,6 +1,13 @@
 [
 	{
-		"name": "Best Arm Identification",
+		"name": "rlberry",
+		"image": "rlberry.svg",
+		"url": "https://github.com/rlberry-py/rlberry",
+		"date": "Nov 2020",
+		"tags": ["reinforcement learning", "deep learning", "machine learning", "python", "pytorch"]
+	},
+	{
+		"name": "Best-Arm Identification",
 		"image": "bandit.png",
 		"url": "https://xuedong.github.io/assets/research/index.html",
 		"date": "Oct 2018",
