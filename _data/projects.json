@@ -1,12 +1,5 @@
 [
 	{
-		"name": "rlberry",
-		"image": "rlberry.svg",
-		"url": "https://github.com/rlberry-py/rlberry",
-		"date": "Nov 2020",
-		"tags": ["reinforcement learning", "deep learning", "machine learning", "python", "pytorch", "deep reinforcement learning"]
-	},
-	{
 		"name": "Best-Arm Identification",
 		"image": "bandit.png",
 		"url": "https://xuedong.github.io/assets/research/index.html",
@@ -21,6 +14,20 @@
 		"tags": ["logic", "ocaml"]
 	},
 	{
+		"name": "Hyperparamter Optimization",
+		"image": "hyperparameter.png",
+		"url": "https://xuedong.github.io/assets/research/index.html",
+		"date": "Feb 2018",
+		"tags": ["multi-armed bandit", "machine learning", "deep learning", "theano", "python"]
+	},
+	{
+		"name": "Burger and Teddybear Game",
+		"image": "burger_teddy.png",
+		"url": "https://github.com/xuedong/teddy",
+		"date": "May 2015",
+		"tags": ["game programming", "visual studio", "c#"]
+	},
+	{
 		"name": "Music Style Classification and Generation",
 		"image": "sheet.png",
 		"url": "https://github.com/xuedong/auto-music",
@@ -33,13 +40,6 @@
 		"url": "https://github.com/xuedong/project-euler",
 		"date": "Dec 2017",
 		"tags": ["number theory", "computational arithmetic", "maths", "ocaml"]
-	},
-	{
-		"name": "Hyperparamter Optimization",
-		"image": "hyperparameter.png",
-		"url": "https://xuedong.github.io/assets/research/index.html",
-		"date": "Feb 2018",
-		"tags": ["multi-armed bandit", "machine learning", "deep learning", "theano", "python"]
 	},
 	{
 		"name": "Time Series Clustering",
@@ -84,10 +84,10 @@
 		"tags": ["microprocessor","ocaml","mips"]
 	},
 	{
-		"name": "Burger and Teddybear Game",
-		"image": "burger_teddy.png",
-		"url": "https://github.com/xuedong/teddy",
-		"date": "May 2015",
-		"tags": ["game programming", "visual studio", "c#"]
+		"name": "rlberry",
+		"image": "rlberry.svg",
+		"url": "https://github.com/rlberry-py/rlberry",
+		"date": "Nov 2020",
+		"tags": ["reinforcement learning", "deep learning", "machine learning", "python", "pytorch", "deep reinforcement learning"]
 	}
 ]
