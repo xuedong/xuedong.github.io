@@ -4,7 +4,7 @@
 		"image": "rlberry.svg",
 		"url": "https://github.com/rlberry-py/rlberry",
 		"date": "Nov 2020",
-		"tags": ["reinforcement learning", "deep learning", "machine learning", "python", "pytorch"]
+		"tags": ["reinforcement learning", "deep learning", "machine learning", "python", "pytorch", "deep reinforcement learning"]
 	},
 	{
 		"name": "Best-Arm Identification",
