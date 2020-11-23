@@ -35,11 +35,11 @@
 		"tags": ["n-gram", "grammar induction", "matlab"]
 	},
 	{
-		"name": "Project Euler",
-		"image": "project_euler.png",
-		"url": "https://github.com/xuedong/project-euler",
-		"date": "Dec 2017",
-		"tags": ["number theory", "computational arithmetic", "maths", "ocaml"]
+		"name": "rlberry",
+		"image": "rlberry.svg",
+		"url": "https://github.com/rlberry-py/rlberry",
+		"date": "Nov 2020",
+		"tags": ["reinforcement learning", "deep learning", "machine learning", "python", "pytorch", "deep reinforcement learning"]
 	},
 	{
 		"name": "Time Series Clustering",
@@ -84,10 +84,10 @@
 		"tags": ["microprocessor","ocaml","mips"]
 	},
 	{
-		"name": "rlberry",
-		"image": "rlberry.svg",
-		"url": "https://github.com/rlberry-py/rlberry",
-		"date": "Nov 2020",
-		"tags": ["reinforcement learning", "deep learning", "machine learning", "python", "pytorch", "deep reinforcement learning"]
+		"name": "Project Euler",
+		"image": "project_euler.png",
+		"url": "https://github.com/xuedong/project-euler",
+		"date": "Dec 2017",
+		"tags": ["number theory", "computational arithmetic", "maths", "ocaml"]
 	}
 ]
