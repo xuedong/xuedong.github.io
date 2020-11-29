@@ -11,41 +11,16 @@ In this post, I will show how I use the following instructions to create my pers
 
 The final output will look like the following:
 
-<img src="assets/terminal_prompt/color_git.png">
+<img src="/assets/terminal_prompt/color_git.png">
 
-First, we need to create a `.bash_profile` file under your home path if it does not exist already:
+First, we need to create a `.bash_profile` file and a `.bashrc` file under your home path if they do not exist already:
 ```bash
 touch ~/.bash_profile
+touch ~/.bashrc
 ```
 
+Now, add the following instructions to your `.bashrc` to set a color scheme for your Terminal prompt.
 ```bash
-parse_git_branch() {
-	git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
-}
-
-get_git_root() {
-	basename $(git rev-parse --show-toplevel 2> /dev/null) 2> /dev/null
-}
-
-update_git_prompt()
-{
-	GIT_BRANCH=$(parse_git_branch)
-
-	if [ -n "$GIT_BRANCH" ]; then
-		GIT_ROOT=$(get_git_root)
-		echo -ne "\033]0;$(get_git_root): $(parse_git_branch)\007"
-	else
-		echo -ne "\033]0;\007"
-	fi
-}
-
-PROMPT_COMMAND="update_git_prompt; $PROMPT_COMMAND"
-
-# uncomment for a colored prompt, if the terminal has the capability; turned
-# off by default to not distract the user: the focus in a terminal window
-# should be on the output of commands, not on the prompt
-#force_color_prompt=yes
-
 if [ -n "$force_color_prompt" ]; then
 	if [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then
 		color_prompt=yes
@@ -55,9 +30,29 @@ if [ -n "$force_color_prompt" ]; then
 fi
 
 if [ "$color_prompt" = yes ]; then
-	PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]'
+	PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\] $'
 else
-	PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w'
+	PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w $'
 fi
 unset color_prompt force_color_prompt
 ```
+
+Then add the following instructions to your `.bash_profile` to display the Git branch name with red color:
+
+```bash
+if [ "${BASH-no}" != "no" ]; then
+	[ -r ~/.bashrc ] && . ~/.bashrc
+fi
+
+# Git prompt with branch
+export PS1="$PS1\[\033[31m\]\$(parse_git_branch)\[\033[00m\] "
+```
+
+Here since the `$PS1` variable has already been exported by the `.bashrc` file, we need to append the branch information to it instead of exporting it again. The `\[\033[31m\]` part sets the `\$(parse_git_branch)` to red.
+
+Finally, to make everything function, tap
+```console
+source ~/.bashrc
+source ~/.bash_profile
+```
+in your Terminal. You can play around with the `$PS1` variable to make your own color scheme or prompt style.
