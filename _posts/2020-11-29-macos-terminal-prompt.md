@@ -5,7 +5,7 @@ date:   2020-11-29 14:39:21
 categories: shell
 ---
 
-'''console
+```console
 parse_git_branch() {
     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
@@ -50,4 +50,4 @@ else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w'
 fi
 unset color_prompt force_color_prompt
-'''
+```
