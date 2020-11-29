@@ -11,9 +11,12 @@ In this post, I will show how I use the following instructions to create my pers
 
 The final output will look like the following:
 
-<img src="../assets/terminal_prompt/color_git.png">
+<img src="assets/terminal_prompt/color_git.png">
 
-First, we need to create a `.bash_profile` file in you h
+First, we need to create a `.bash_profile` file under your home path if it does not exist already:
+```bash
+touch ~/.bash_profile
+```
 
 ```bash
 parse_git_branch() {
