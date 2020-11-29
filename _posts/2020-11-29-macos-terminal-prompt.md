@@ -5,7 +5,7 @@ date:   2020-11-29 14:39:21
 categories: shell
 ---
 
-```console
+```bash
 parse_git_branch() {
     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
@@ -16,14 +16,14 @@ get_git_root() {
 
 update_git_prompt()
 {
-	GIT_BRANCH=$(parse_git_branch)
+		GIT_BRANCH=$(parse_git_branch)
 
-	if [ -n "$GIT_BRANCH" ]; then
-		GIT_ROOT=$(get_git_root)
-		echo -ne "\033]0;$(get_git_root): $(parse_git_branch)\007"
-	else
-		echo -ne "\033]0;\007"
-	fi
+		if [ -n "$GIT_BRANCH" ]; then
+				GIT_ROOT=$(get_git_root)
+				echo -ne "\033]0;$(get_git_root): $(parse_git_branch)\007"
+		else
+				echo -ne "\033]0;\007"
+		fi
 }
 
 PROMPT_COMMAND="update_git_prompt; $PROMPT_COMMAND"
@@ -35,19 +35,16 @@ PROMPT_COMMAND="update_git_prompt; $PROMPT_COMMAND"
 
 if [ -n "$force_color_prompt" ]; then
     if [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then
-	# We have color support; assume it's compliant with Ecma-48
-	# (ISO/IEC-6429). (Lack of such support is extremely rare, and such
-	# a case would tend to support setf rather than setaf.)
-	color_prompt=yes
+				color_prompt=yes
     else
-	color_prompt=
+				color_prompt=
     fi
 fi
 
 if [ "$color_prompt" = yes ]; then
-	PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]'
+		PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]'
 else
-    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w'
+  	PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w'
 fi
 unset color_prompt force_color_prompt
 ```
