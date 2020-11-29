@@ -5,11 +5,15 @@ date:   2020-11-29 14:39:21
 categories: shell
 ---
 
-The following instructions are written for my personal colored Terminal prompt along with some additional features regarding Git. These instructions are inspired by [Cael Kay-Jackson](https://www.mfitzp.com/article/add-git-branch-name-to-terminal-prompt-mac/). My working OS is macOS High Sierra.
+When you are working with some branch of a Git repository, you may want to show the name of the current branch in your terminal in order to avoid wrong whereabouts of your commits.
+
+In this post, I will show how I use the following instructions to create my personal colored Terminal prompt along with some additional features regarding Git. These instructions are inspired by [Cael Kay-Jackson](https://www.mfitzp.com/article/add-git-branch-name-to-terminal-prompt-mac/). My working OS is macOS High Sierra.
+
+The final output will look like the following:
 
 <img src="../assets/terminal_prompt/color_git.png">
 
-First, we need to create 
+First, we need to create a `.bash_profile` file in you h
 
 ```bash
 parse_git_branch() {
