@@ -2,7 +2,7 @@
 layout: post
 title: Colored Prompt and Add Git Branch Names to Terminal under macOS
 date:   2020-11-29 14:39:21
-categories: shell
+categories: programming
 ---
 
 When you are working with some branch of a Git repository, you may want to show the name of the current branch in your terminal in order to avoid wrong whereabouts of your commits.
