@@ -49,17 +49,28 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <hr />
 
+<h4><B>Software</B></h4>
+<blockquote>
+<ul style="list-style-type:square">
+<li>
+  Omar Darwiche Domingues, Yannis Flet-Berliac, Edouard Leurent, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko, <a href="https://github.com/rlberry-py/rlberry"><em>rlberry - A reinforcement learning library for research and education</em></a>. GitHub Repository (2021).
+</li>
+</ul>
+</blockquote>
+
+<hr />
+
 <h4><B>Preprints/Technical Reports/Working Papers</B></h4>
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  <strong>Xuedong Shang</strong>, Han Shao, and Jian Qian, <a href="/static/documents/shang2020vector.pdf"><em>Stochastic bandits with vector losses: Minimizing \(\ell^\infty\)-norm of relative losses</em></a>.
+  <strong>Xuedong Shang</strong>, Han Shao, and Jian Qian, <a href="/static/documents/shang2020vector.pdf"><em>Stochastic bandits with vector losses: Minimizing \(\ell^\infty\)-norm of relative losses</em></a>. Preprint (2020).
 </li>
 <li>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter optimization</em></a>.
+  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter optimization</em></a>. Preprint (2019).
 </li>
 <li>
-  Dominique Barbe, Alexandre Debant, <strong>Xuedong Shang</strong>, <a href="/static/documents/barbe2016clustering.pdf"><em>Time series clustering</em></a>.
+  Dominique Barbe, Alexandre Debant, <strong>Xuedong Shang</strong>, <a href="/static/documents/barbe2016clustering.pdf"><em>Time series clustering</em></a>. Technical Report (2016).
 </li>
 </ul>
 </blockquote>
