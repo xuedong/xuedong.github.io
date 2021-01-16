@@ -53,7 +53,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  Omar Darwiche Domingues, Yannis Flet-Berliac, Edouard Leurent, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko, <a href="https://github.com/rlberry-py/rlberry"><em>rlberry - A reinforcement learning library for research and education</em></a>. GitHub Repository (2021).
+  Omar Darwiche Domingues, Yannis Flet-Berliac, Edouard Leurent, Pierre Ménard, and <strong>Xuedong Shang</strong>, <a href="https://github.com/rlberry-py/rlberry"><em>rlberry - A reinforcement learning library for research and education</em></a>. GitHub Repository (2021).
 </li>
 </ul>
 </blockquote>
