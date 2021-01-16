@@ -8,7 +8,6 @@ permalink: /events/
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li><a href="https://nips.cc/" style="color:#A4A4A4">The 34th Conference on Neural Information Processing Systems (Virtualized)</a>, Vancouver, Canada, December 6 - December 12, 2020.</li>
 </ul>
 </blockquote>
 
@@ -18,6 +17,7 @@ permalink: /events/
 
 <blockquote>
 <ul style="list-style-type:square">
+  <li><a href="https://nips.cc/" style="color:#A4A4A4">The 34th Conference on Neural Information Processing Systems (Virtualized)</a>, Vancouver, Canada, December 6 - December 12, 2020.</li>
   <li><a href="https://simons.berkeley.edu/workshops/rl-2020-2" style="color:#A4A4A4">Simons Institute Workshop: Mathematics of Online Decision Making (Virtualized)</a>, Berkeley, CA, USA, October 26 - October 30, 2020.</li>
   <li><a href="https://simons.berkeley.edu/workshops/rl-2020-1" style="color:#A4A4A4">Simons Institute Workshop: Deep Reinforcement Learning (Virtualized)</a>, Berkeley, CA, USA, September 28 - October 2, 2020.</li>
   <li><a href="https://project.inria.fr/inriacwi/workshop-2020/" style="color:#A4A4A4">4th CWI-Inria Workshop (Virtualized)</a>, Amsterdam, Netherlands, September 24, 2020. [<a href="">talk</a>]</li>
