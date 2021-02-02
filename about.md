@@ -52,15 +52,15 @@ I am currently a PhD student at <a href="https://www.inria.fr/centre/lille">Inri
 <p>My main research interest lies in:</p>
 <ul style="list-style-type:square">
 	<li>Bandit Theory</li>
-	<li>Reinforcement Learning</li>
+	<li>(Deep) Reinforcement Learning</li>
 	<li>Optimization</li>
 	<li>Automated Machine Learning</li>
 </ul>
 <p>I'm also interested in:</p>
 <ul style="list-style-type:square">
+	<li>AI for Finance</li>
 	<li>AI for Social Good</li>
 	<li>Online Learning</li>
-	<li>Deep Learning</li>
 	<li>Natural Language Processing</li>
 	<li>Time Series</li>
 	<li>Optimal Transport</li>
