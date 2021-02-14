@@ -81,7 +81,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
 <blockquote>
 <ul style="list-style-type:square">
-  <li>PhD Thesis: 02/2017-07/2017, Team SequeL (SCOOL), Inria Lille-Nord Europe, Lille, France, <a href=""><em>Méthodes adaptatives pour l'optimisation dans un environnement stochastique</em></a>, under the supervison of Emilie Kaufmann & Michal Valko.
+  <li>PhD Thesis: 10/2017-03/2021, Team SequeL (SCOOL), Inria Lille-Nord Europe, Lille, France, <a href=""><em>Méthodes adaptatives pour l'optimisation dans un environnement stochastique</em></a>, under the supervison of Emilie Kaufmann & Michal Valko.
   </li>
 
   <li>Internship & Master Thesis: 02/2017-07/2017, Team SequeL, Inria Lille-Nord Europe, Lille, France, <a href="/static/documents/bandits.pdf"><em>Hierarchical bandits for black-box optimization and Monte-Carlo tree search</em></a>, under the supervison of Emilie Kaufmann & Michal Valko.
