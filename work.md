@@ -64,6 +64,9 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
+  Pierre Ménard, Omar Darwiche Domingues, <strong>Xuedong Shang</strong>, and Michal Valko, <a href="/static/documents/menard2021ucbmq.pdf"><em>UCB momentum Q-learning: Correcting the bias without forgetting</em></a>. Preprint (2021).
+</li>
+<li>
   <strong>Xuedong Shang</strong>, Han Shao, and Jian Qian, <a href="/static/documents/shang2020vector.pdf"><em>Stochastic bandits with vector losses: Minimizing \(\ell^\infty\)-norm of relative losses</em></a>. Preprint (2020).
 </li>
 <li>
