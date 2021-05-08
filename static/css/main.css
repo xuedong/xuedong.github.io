@@ -287,10 +287,10 @@ footer {
  line-height:1
 }
 .btn.btn-sm {
- color: #2962ff
+ color: #2962ff;
  padding:5px .4rem;
  font-size:1.3rem;
- border-radius:.2rem
+ border-radius:.2rem;
  border: 1px solid #2962ff
 }
 .btn-primary {
