@@ -34,7 +34,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <li>
   <a href="/static/documents/shang2019general.pdf"><em>General parallel optimization without a metric</em></a>.
 
-  <h4><strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko,  In <a href="http://alt2019.algorithmiclearningtheory.org/accepted-papers/" style="color:#A4A4A4">Proceedings of the 30th International Conference on Algorithmic Learning Theory</a> (ALT 2019), Chicago, USA.</h4>
+  <h4><strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko,  In <a href="http://alt2019.algorithmiclearningtheory.org/accepted-papers/" style="color:#A4A4A4">Proceedings of the 30th International Conference on Algorithmic Learning Theory</a>, Chicago, USA (ALT 2019).</h4>
 
   <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal.archives-ouvertes.fr/hal-02047225" rel="noopener">hal</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/alt2019_talk_1.pdf" rel="noopener">talk</a></div>
 </li>
