@@ -13,30 +13,30 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <li>
   <a href="/static/documents/menard2021ucbmq.pdf"><em>UCB momentum Q-learning: Correcting the bias without forgetting</em></a>.
 
-  <h4>Pierre Ménard, Omar Darwiche Domingues, <strong>Xuedong Shang</strong>, and Michal Valko,  In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 38th International Conference on Machine Learning</a> (ICML 2021), Vienna, Austria (Virtualized). [long presentation - 3.2% acceptance rate]</h4>
+  <h4>Pierre Ménard, Omar Darwiche Domingues, <strong>Xuedong Shang</strong>, and Michal Valko.  In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 38th International Conference on Machine Learning</a>, Vienna, Austria (Virtualized) (ICML 2021). [long presentation - 3.2% acceptance rate]</h4>
 
-  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=""  rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" rel="noopener">video</a></div>
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2103.01312" rel="noopener">arxiv</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=""  rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" rel="noopener">video</a></div>
 </li>
 <li>
   <a href="/static/documents/degenne2020game.pdf"><em>Gamification of pure exploration for linear bandits</em></a>.
 
-  <h4>Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko,  In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a> (ICML 2020), Vienna, Austria (Virtualized).</h4>
+  <h4>Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko.  In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a>, Vienna, Austria (Virtualized) (ICML 2020).</h4>
 
-  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/icml2020_talk.pdf" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icml.cc/virtual/2020/poster/6506" rel="noopener">video</a></div>
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2007.00953" rel="noopener">arxiv</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/icml2020_talk.pdf" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icml.cc/virtual/2020/poster/6506" rel="noopener">video</a></div>
 </li>
 <li>
   <a href="/static/documents/shang2020t3c.pdf"><em>Fixed-confidence guarantees for Bayesian best-arm identification</em></a>.
 
-  <h4><strong>Xuedong Shang</strong>, Rianne de Heide, Emilie Kaufmann, Pierre Ménard and Michal Valko,  In <a href="https://www.aistats.org/" style="color:#A4A4A4">Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics</a> (AIStats 2020), Palermo, Italy (Virtualized).</h4>
+  <h4><strong>Xuedong Shang</strong>, Rianne de Heide, Emilie Kaufmann, Pierre Ménard and Michal Valko. In <a href="https://www.aistats.org/" style="color:#A4A4A4">Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics</a>, Palermo, Italy (Virtualized) (AIStats 2020).</h4>
 
-  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/aistats2020_talk.pdf" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aistats2020.net/poster_622.html" rel="noopener">video</a></div>
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1910.10945" rel="noopener">arxiv</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/aistats2020_talk.pdf" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aistats2020.net/poster_622.html" rel="noopener">video</a></div>
 </li>
 <li>
   <a href="/static/documents/shang2019general.pdf"><em>General parallel optimization without a metric</em></a>.
 
   <h4><strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko,  In <a href="http://alt2019.algorithmiclearningtheory.org/accepted-papers/" style="color:#A4A4A4">Proceedings of the 30th International Conference on Algorithmic Learning Theory</a> (ALT 2019), Chicago, USA.</h4>
 
-  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/alt2019_talk_1.pdf" rel="noopener">talk</a></div>
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal.archives-ouvertes.fr/hal-02047225" rel="noopener">hal</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/alt2019_talk_1.pdf" rel="noopener">talk</a></div>
 </li>
 </ul>
 </blockquote>
@@ -58,7 +58,11 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2019dttts.pdf"><em>A simple dynamic bandit algorithm for hyper-parameter tuning</em></a>. In <a href="https://sites.google.com/view/automl2019icml/" style="color:#A4A4A4">6th ICML Workshop on Automated Machine Learning</a> (ICML 2019 - AutoML), Long Beach, USA. [<a href="/static/documents/shang2019dttts_poster.pdf">poster</a>], [<a href="/static/documents/shang2019dttts_code.zip">code</a>]
+  <a href="/static/documents/shang2019dttts.pdf"><em>A simple dynamic bandit algorithm for hyper-parameter tuning</em></a>.
+
+  <h4><strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko. In <a href="https://sites.google.com/view/automl2019icml/" style="color:#A4A4A4">6th ICML Workshop on Automated Machine Learning</a>, Long Beach, USA (ICML 2019 - AutoML).</h4>
+
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/shang2019dttts_poster.pdf"  rel="noopener">poster</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/shang2019dttts_code.zip" rel="noopener">code</a></div>
 </li>
 <li>
   <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2018adaptive.pdf"><em>Adaptive black-box optimization got easier: HCT only needs local smoothness</em></a>. In <a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">14th European Workshop on Reinforcement Learning</a> (EWRL 2018), Lille, France. [<a href="/static/documents/shang2018adaptive_poster.pdf">poster</a>]
@@ -72,7 +76,11 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
-  Omar Darwiche Domingues<sup>†</sup>, Yannis Flet-Berliac<sup>†</sup>, Edouard Leurent<sup>†</sup>, Pierre Ménard<sup>†</sup>, <strong>Xuedong Shang</strong><sup>†</sup>, and Michal Valko <a href="https://github.com/rlberry-py/rlberry"><em>rlberry - A reinforcement learning library for research and education</em></a>. GitHub Repository (2021).
+  <a href="https://github.com/rlberry-py/rlberry"><em>rlberry - A reinforcement learning library for research and education</em></a>.
+
+  Omar Darwiche Domingues<sup>†</sup>, Yannis Flet-Berliac<sup>†</sup>, Edouard Leurent<sup>†</sup>, Pierre Ménard<sup>†</sup>, <strong>Xuedong Shang</strong><sup>†</sup>, and Michal Valko, GitHub Repository (2021).
+
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://rlberry.readthedocs.io/en/latest/basics/create_agent.html#create-agent" rel="noopener">demo</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/rlberry-py/rlberry" rel="noopener">code</a></div>
 </li>
 </ul>
 </blockquote>
