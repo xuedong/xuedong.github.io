@@ -22,17 +22,21 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
   <h4>Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko,  In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a> (ICML 2020), Vienna, Austria (Virtualized).</h4>
 
-  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/icml2020_talk.pdf" target="_blank" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icml.cc/virtual/2020/poster/6506" target="_blank" rel="noopener">video</a></div>
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/icml2020_talk.pdf" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icml.cc/virtual/2020/poster/6506" rel="noopener">video</a></div>
 </li>
 <li>
   <a href="/static/documents/shang2020t3c.pdf"><em>Fixed-confidence guarantees for Bayesian best-arm identification</em></a>.
 
   <h4><strong>Xuedong Shang</strong>, Rianne de Heide, Emilie Kaufmann, Pierre Ménard and Michal Valko,  In <a href="https://www.aistats.org/" style="color:#A4A4A4">Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics</a> (AIStats 2020), Palermo, Italy (Virtualized).</h4>
 
-  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/aistats2020_talk.pdf" target="_blank" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aistats2020.net/poster_622.html" target="_blank" rel="noopener">video</a></div>
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/aistats2020_talk.pdf" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aistats2020.net/poster_622.html" rel="noopener">video</a></div>
 </li>
 <li>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2019general.pdf"><em>General parallel optimization without a metric</em></a>. In <a href="http://alt2019.algorithmiclearningtheory.org/accepted-papers/" style="color:#A4A4A4">Proceedings of the 30th International Conference on Algorithmic Learning Theory</a> (ALT 2019), Chicago, USA. [<a href="/static/documents/alt2019_talk_1.pdf">talk</a>]
+  <a href="/static/documents/shang2019general.pdf"><em>General parallel optimization without a metric</em></a>.
+
+  <h4><strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko,  In <a href="http://alt2019.algorithmiclearningtheory.org/accepted-papers/" style="color:#A4A4A4">Proceedings of the 30th International Conference on Algorithmic Learning Theory</a> (ALT 2019), Chicago, USA.</h4>
+
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/alt2019_talk_1.pdf" rel="noopener">talk</a></div>
 </li>
 </ul>
 </blockquote>
