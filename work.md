@@ -13,21 +13,21 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <li>
   <a href="/static/documents/menard2021ucbmq.pdf"><em>UCB momentum Q-learning: Correcting the bias without forgetting</em></a>.
 
-  <h4>Pierre Ménard, Omar Darwiche Domingues, <strong>Xuedong Shang</strong>, and Michal Valko.  In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 38th International Conference on Machine Learning</a>, Vienna, Austria (Virtualized) (ICML 2021). [long presentation - 3.2% acceptance rate]</h4>
+  <h4>Pierre Ménard, Omar Darwiche Domingues, <strong>Xuedong Shang</strong>, and Michal Valko.  In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 38th International Conference on Machine Learning</a>, Vienna, Austria (ICML 2021). [long presentation - 3.2% acceptance rate]</h4>
 
   <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2103.01312" rel="noopener">arxiv</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=""  rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" rel="noopener">video</a></div>
 </li>
 <li>
   <a href="/static/documents/degenne2020game.pdf"><em>Gamification of pure exploration for linear bandits</em></a>.
 
-  <h4>Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko.  In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a>, Vienna, Austria (Virtualized) (ICML 2020).</h4>
+  <h4>Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko.  In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a>, Vienna, Austria (ICML 2020).</h4>
 
   <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2007.00953" rel="noopener">arxiv</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/icml2020_talk.pdf" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icml.cc/virtual/2020/poster/6506" rel="noopener">video</a></div>
 </li>
 <li>
   <a href="/static/documents/shang2020t3c.pdf"><em>Fixed-confidence guarantees for Bayesian best-arm identification</em></a>.
 
-  <h4><strong>Xuedong Shang</strong>, Rianne de Heide, Emilie Kaufmann, Pierre Ménard and Michal Valko. In <a href="https://www.aistats.org/" style="color:#A4A4A4">Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics</a>, Palermo, Italy (Virtualized) (AIStats 2020).</h4>
+  <h4><strong>Xuedong Shang</strong>, Rianne de Heide, Emilie Kaufmann, Pierre Ménard and Michal Valko. In <a href="https://www.aistats.org/" style="color:#A4A4A4">Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics</a>, Palermo, Italy (AIStats 2020).</h4>
 
   <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1910.10945" rel="noopener">arxiv</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/aistats2020_talk.pdf" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aistats2020.net/poster_622.html" rel="noopener">video</a></div>
 </li>
@@ -82,7 +82,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <li>
   <a href="https://github.com/rlberry-py/rlberry"><em>rlberry - A reinforcement learning library for research and education</em></a>.
 
-  Omar Darwiche Domingues<sup>†</sup>, Yannis Flet-Berliac<sup>†</sup>, Edouard Leurent<sup>†</sup>, Pierre Ménard<sup>†</sup>, <strong>Xuedong Shang</strong><sup>†</sup>, and Michal Valko, GitHub Repository (2021).
+  <h4>Omar Darwiche Domingues<sup>†</sup>, Yannis Flet-Berliac<sup>†</sup>, Edouard Leurent<sup>†</sup>, Pierre Ménard<sup>†</sup>, <strong>Xuedong Shang</strong><sup>†</sup>, and Michal Valko, GitHub Repository (2021).</h4>
 
   <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://rlberry.readthedocs.io/en/latest/basics/create_agent.html#create-agent" rel="noopener">demo</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/rlberry-py/rlberry" rel="noopener">code</a></div>
 </li>
