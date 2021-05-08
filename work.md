@@ -11,6 +11,9 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
+  Pierre Ménard, Omar Darwiche Domingues, <strong>Xuedong Shang</strong>, and Michal Valko, <a href="/static/documents/menard2021ucbmq.pdf"><em>UCB momentum Q-learning: Correcting the bias without forgetting</em></a>. In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 38th International Conference on Machine Learning</a> (ICML 2021), Vienna, Austria (Virtualized). [<a href="">talk (long presentation, 3% acceptance rate)</a>], [<a href="">video</a>]
+</li>
+<li>
   Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko, <a href="/static/documents/degenne2020game.pdf"><em>Gamification of pure exploration for linear bandits</em></a>. In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a> (ICML 2020), Vienna, Austria. [<a href="/static/documents/icml2020_talk.pdf">talk</a>], [<a href="https://icml.cc/virtual/2020/poster/6506">video</a>]
 </li>
 <li>
@@ -63,9 +66,6 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <h4><B>Preprints/Technical Reports/Working Papers</B></h4>
 <blockquote>
 <ul style="list-style-type:square">
-<li>
-  Pierre Ménard, Omar Darwiche Domingues, <strong>Xuedong Shang</strong>, and Michal Valko, <a href="/static/documents/menard2021ucbmq.pdf"><em>UCB momentum Q-learning: Correcting the bias without forgetting</em></a>. Preprint (2021).
-</li>
 <li>
   <strong>Xuedong Shang</strong>, Han Shao, and Jian Qian, <a href="/static/documents/shang2020vector.pdf"><em>Stochastic bandits with vector losses: Minimizing \(\ell^\infty\)-norm of relative losses</em></a>. Preprint (2020).
 </li>
