@@ -18,7 +18,9 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
   <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">video</a></div>
 </li>
 <li>
-  Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko, <a href="/static/documents/degenne2020game.pdf"><em>Gamification of pure exploration for linear bandits</em></a>. In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a> (ICML 2020), Vienna, Austria (Virtualized). [<a href="/static/documents/icml2020_talk.pdf">talk</a>], [<a href="https://icml.cc/virtual/2020/poster/6506">video</a>]
+  Rémy Degenne, Pierre Ménard, <strong>Xuedong Shang</strong>, and Michal Valko, <a href="/static/documents/degenne2020game.pdf"><em>Gamification of pure exploration for linear bandits</em></a>. In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 37th International Conference on Machine Learning</a> (ICML 2020), Vienna, Austria (Virtualized).
+
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/icml2020_talk.pdf" target="_blank" rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icml.cc/virtual/2020/poster/6506" target="_blank" rel="noopener">video</a></div>
 </li>
 <li>
   <strong>Xuedong Shang</strong>, Rianne de Heide, Emilie Kaufmann, Pierre Ménard and Michal Valko, <a href="/static/documents/shang2020t3c.pdf"><em>Fixed-confidence guarantees for Bayesian best-arm identification</em></a>. In <a href="https://www.aistats.org/" style="color:#A4A4A4">Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics</a> (AIStats 2020), Palermo, Italy (Virtualized). [<a href="/static/documents/aistats2020_talk.pdf">talk</a>], [<a href="https://aistats2020.net/poster_622.html">video</a>]
