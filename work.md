@@ -62,10 +62,14 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
   <h4><strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko. In <a href="https://sites.google.com/view/automl2019icml/" style="color:#A4A4A4">6th ICML Workshop on Automated Machine Learning</a>, Long Beach, USA (ICML 2019 - AutoML).</h4>
 
-  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/shang2019dttts_poster.pdf"  rel="noopener">poster</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/shang2019dttts_code.zip" rel="noopener">code</a></div>
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal.archives-ouvertes.fr/hal-02145200" rel="noopener">hal</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/shang2019dttts_poster.pdf"  rel="noopener">poster</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/shang2019dttts_code.zip" rel="noopener">code</a></div>
 </li>
 <li>
-  <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/shang2018adaptive.pdf"><em>Adaptive black-box optimization got easier: HCT only needs local smoothness</em></a>. In <a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">14th European Workshop on Reinforcement Learning</a> (EWRL 2018), Lille, France. [<a href="/static/documents/shang2018adaptive_poster.pdf">poster</a>]
+  <a href="/static/documents/shang2018adaptive.pdf"><em>Adaptive black-box optimization got easier: HCT only needs local smoothness</em></a>.
+
+  <h4><strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko. In <a href="https://ewrl.wordpress.com/ewrl14-2018/" style="color:#A4A4A4">14th European Workshop on Reinforcement Learning</a>, Lille, France (EWRL 2018).</h4>
+
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal.archives-ouvertes.fr/hal-01874637" rel="noopener">hal</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/shang2018adaptive_poster.pdf" rel="noopener">poster</a></div>
 </li>
 </ul>
 </blockquote>
