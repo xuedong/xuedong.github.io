@@ -82,9 +82,16 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <li>
   <a href="https://github.com/rlberry-py/rlberry"><em>rlberry - A reinforcement learning library for research and education</em></a>.
 
-  <h4>Omar Darwiche Domingues<sup>†</sup>, Yannis Flet-Berliac<sup>†</sup>, Edouard Leurent<sup>†</sup>, Pierre Ménard<sup>†</sup>, <strong>Xuedong Shang</strong><sup>†</sup>, and Michal Valko, GitHub Repository (2021).</h4>
+  <h4>Omar Darwiche Domingues<sup>†</sup>, Yannis Flet-Berliac<sup>†</sup>, Edouard Leurent<sup>†</sup>, Pierre Ménard<sup>†</sup>, <strong>Xuedong Shang</strong><sup>†</sup>, and Michal Valko, GitHub repository (2021).</h4>
 
   <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://rlberry.readthedocs.io/en/latest/basics/create_agent.html#create-agent" rel="noopener">demo</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/rlberry-py/rlberry" rel="noopener">code</a></div>
+</li>
+<li>
+  <a href="https://github.com/xuedong/LinBAI.jl"><em>LinBAI.jl</em></a>.
+
+  <h4><strong>Xuedong Shang</strong>, GitHub repository (2021).</h4>
+
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/xuedong/LinBAI.jl" rel="noopener">code</a></div>
 </li>
 </ul>
 </blockquote>
