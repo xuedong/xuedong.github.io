@@ -4,9 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
-This page contains my teaching materials.
+This page contains my teaching information and materials.
 
 <hr />
+
+<h3><B>2021/2022</B></h3>
+
+<p><a href="https://teopir.github.io/#teaching">Reinforcement Learning</a>, <a href="http://cmla.ens-paris-saclay.fr/version-anglaise/academics/mva-master-degree-227777.kjsp">Master in Mathématiques/Vision/Apprentissage</a>, ENS Paris Saclay, Instructor(s): Matteo Pirotta - <b>I am serving as teaching assistant</b>.
 
 <h3><B>2019/2020</B></h3>
 
