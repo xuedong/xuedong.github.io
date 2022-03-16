@@ -15,7 +15,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 
   <h4>Pierre Ménard, Omar Darwiche Domingues, <strong>Xuedong Shang</strong>, and Michal Valko.  In <a href="https://www.icml.cc/" style="color:#A4A4A4">Proceedings of the 38th International Conference on Machine Learning</a>, Vienna, Austria (ICML 2021). [long presentation - 3.2% acceptance rate]</h4>
 
-  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2103.01312" rel="noopener">arxiv</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href=""  rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" rel="noopener">video</a></div>
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2103.01312" rel="noopener">arxiv</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/static/documents/icml2021_talk.pdf"  rel="noopener">talk</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://icml.cc/virtual/2021/poster/8561" rel="noopener">video</a></div>
 </li>
 <li>
   <a href="/static/documents/degenne2020game.pdf"><em>Gamification of pure exploration for linear bandits</em></a>.
