@@ -59,6 +59,7 @@ I obtained my PhD degree at <a href="https://team.inria.fr/sequel/">SequeL</a> t
 <p>I'm also interested in:</p>
 <ul style="list-style-type:square">
 	<li>AI for Finance</li>
+	<li>Blockchain and Web3</li>
 	<li>AI for Social Good</li>
 	<li>Online Learning</li>
 	<li>Natural Language Processing</li>
@@ -77,7 +78,7 @@ I obtained my PhD degree at <a href="https://team.inria.fr/sequel/">SequeL</a> t
 <ul class="fa-ul" itemscope>
 	<li>
 	<i class="fa-li fa fa-envelope"></i>
-	<span><pre><code class="language-ocaml">List.map (fun x -> "shang.xuedong14" ^ x ^ ".com") ["gmail"]</code></pre></span>
+	<span><pre><code class="language-ocaml">List.map (fun x -> "shang.xuedong14@" ^ x ^ ".com") ["gmail"]</code></pre></span>
 	</li>
 	<li>
 	<i class="fa-li fa fa-map-marker"></i>
