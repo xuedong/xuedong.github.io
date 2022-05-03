@@ -25,7 +25,7 @@ I obtained my PhD degree at <a href="https://team.inria.fr/sequel/">SequeL</a> t
 <ul class="fa-ul" itemscope>
 <li>
 	<i class="fa-li fa fa-file-pdf-o"></i>
-	<span><a href="/static/documents/cv.pdf">Curriculum Vitæ</a></span>
+	<span><a href="/static/documents/cv.pdf">Curriculum Vitæ</a></span> (full version, for a short version, please make an inquiry via email)
 </li>
 <li>
 	<i class="fa-li fa fa-file-pdf-o"></i>
@@ -77,7 +77,7 @@ I obtained my PhD degree at <a href="https://team.inria.fr/sequel/">SequeL</a> t
 <ul class="fa-ul" itemscope>
 	<li>
 	<i class="fa-li fa fa-envelope"></i>
-	<span><pre><code class="language-ocaml">List.map (fun x -> "xuedong.shang@" ^ x ^ ".fr") ["inria"; "univ-lille"]</code></pre></span>
+	<span><pre><code class="language-ocaml">List.map (fun x -> "shang.xuedong14" ^ x ^ ".com") ["gmail"]</code></pre></span>
 	</li>
 	<li>
 	<i class="fa-li fa fa-map-marker"></i>
