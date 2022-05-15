@@ -157,7 +157,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
   <li>External Reviewer - NIPS 2017; ICML 2018, 2019, 2020; AIStats 2019</li>
   <li>Reviewer for Conferences - NeurIPS 2019<sup>*</sup>, 2020<sup>**</sup>, 2021, 2022; ICLR 2021; AutoML-Conf 2022</li>
   <li>Reviewer for Workshops - ICLR 2019 <a href="https://lld-workshop.github.io/" style="color:#A4A4A4">LLD Workshop</a>; ICML 2021 <a href="https://sites.google.com/view/automl2021/home" style="color:#A4A4A4">AutoML Workshop</a></li>
-  <li>Reviewer for Journals - Mathematics of Operations Research</li>
+  <li>Reviewer for Journals - Mathematics of Operations Research, Econometrica</li>
   <li>Expert Reviewer - ICML 2021</li>
   <li>PC Member - ICML 2022</li>
   <li>Organization Committee - <a href="https://rlss.inria.fr/" style="color:#A4A4A4">RLSS 2019</a></li>
