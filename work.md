@@ -6,6 +6,8 @@ permalink: /work/
 
 AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">Stress Warning</a>!
 
+<h5><sup>&#8270</sup> - equal contributions</h5>
+
 <h4><B>Conference Proceedings</B></h4>
 
 <blockquote>
@@ -82,7 +84,7 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <li>
   <a href="https://github.com/rlberry-py/rlberry"><em>rlberry - A reinforcement learning library for research and education</em></a>.
 
-  <h4>Omar Darwiche Domingues<sup>†</sup>, Yannis Flet-Berliac<sup>†</sup>, Edouard Leurent<sup>†</sup>, Pierre Ménard<sup>†</sup>, <strong>Xuedong Shang</strong><sup>†</sup>, and Michal Valko, GitHub repository (2021).</h4>
+  <h4>Omar Darwiche Domingues<sup>&#8270</sup>, Yannis Flet-Berliac<sup>&#8270</sup>, Edouard Leurent<sup>&#8270</sup>, Pierre Ménard<sup>&#8270</sup>, <strong>Xuedong Shang</strong><sup>&#8270</sup>, and Michal Valko, GitHub repository (2021).</h4>
 
   <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://rlberry.readthedocs.io/en/latest/basics/create_agent.html#create-agent" rel="noopener">demo</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/rlberry-py/rlberry" rel="noopener">code</a></div>
 </li>
@@ -155,14 +157,13 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
   <li>External Reviewer - NIPS 2017; ICML 2018, 2019, 2020; AIStats 2019</li>
-  <li>Reviewer for Conferences - NeurIPS 2019<sup>*</sup>, 2020<sup>**</sup>, 2021, 2022; ICLR 2021; AutoML-Conf 2022</li>
+  <li>Reviewer for Conferences - NeurIPS 2019<sup>*</sup>, 2020<sup>**</sup>, 2021, 2022; ICML 2021<sup>†</sup>; ICLR 2021; AutoML-Conf 2022</li>
   <li>Reviewer for Workshops - ICLR 2019 <a href="https://lld-workshop.github.io/" style="color:#A4A4A4">LLD Workshop</a>; ICML 2021 <a href="https://sites.google.com/view/automl2021/home" style="color:#A4A4A4">AutoML Workshop</a></li>
   <li>Reviewer for Journals - Mathematics of Operations Research, Econometrica</li>
-  <li>Expert Reviewer - ICML 2021</li>
-  <li>PC Member - ICML 2022</li>
+  <li>PC Member - ICML 2022**</li>
   <li>Organization Committee - <a href="https://rlss.inria.fr/" style="color:#A4A4A4">RLSS 2019</a></li>
   <li>Volunteer - ICLR 2020, ICML 2020, NeurIPS 2020</li>
 </ul>
 
-<h5>* - top reviewer, ** - best reviewer</h5>
+<h5>* - top reviewer, ** - best/outstanding reviewer, † - expert reviewer</h5>
 </blockquote>
