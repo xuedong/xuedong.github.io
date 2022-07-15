@@ -60,6 +60,13 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <blockquote>
 <ul style="list-style-type:square">
 <li>
+  <a href="/static/documents/shang2022vector.pdf"><em>Stochastic bandits with vector losses: Minimizing \(\ell^\infty\)-norm of relative losses</em></a>.
+
+  <h4><strong>Xuedong Shang</strong>, Han Shao, and Jian Qian. In <a href="https://ewrl.wordpress.com/ewrl15-2022/" style="color:#A4A4A4">15th European Workshop on Reinforcement Learning</a>, Milan, Italy (EWRL 2022).</h4>
+
+  <div class="btn-links"><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2010.08061" rel="noopener">arxiv</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" rel="noopener">poster</a></div>
+</li>
+<li>
   <a href="/static/documents/shang2019dttts.pdf"><em>A simple dynamic bandit algorithm for hyper-parameter tuning</em></a>.
 
   <h4><strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko. In <a href="https://sites.google.com/view/automl2019icml/" style="color:#A4A4A4">6th ICML Workshop on Automated Machine Learning</a>, Long Beach, USA (ICML 2019 - AutoML).</h4>
@@ -103,9 +110,6 @@ AI Conference Deadlines: <a href="https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,GR">
 <h4><B>Preprints/Technical Reports/Working Papers</B></h4>
 <blockquote>
 <ul style="list-style-type:square">
-<li>
-  <strong>Xuedong Shang</strong>, Han Shao, and Jian Qian, <a href="/static/documents/shang2020vector.pdf"><em>Stochastic bandits with vector losses: Minimizing \(\ell^\infty\)-norm of relative losses</em></a>. Preprint (2020).
-</li>
 <li>
   <strong>Xuedong Shang</strong>, Emilie Kaufmann, and Michal Valko, <a href="/static/documents/dttts.pdf"><em>Simple (dynamic) bandit algorithms for hyper-parameter optimization</em></a>. Preprint (2019).
 </li>
